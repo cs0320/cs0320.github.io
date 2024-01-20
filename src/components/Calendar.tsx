@@ -8,7 +8,7 @@ function Calendar() {
   return (
     <section id="calendar">
         <div className="max-w-5xl mx-auto px-6 pt-32">
-        <img className='pb-24' src='/fall23-site/divider.png'></img>
+        <img className='pb-24' src='/divider.png'></img>
           <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 text-indigo-900">Calendar</h1>
           <div className="text-sm md:text-base text-indigo-900">
             <p>As Tim mentioned in class, cs32 has a special way of holding TA hours, which we call collab section. In collab sections, students will bring their bugs to a room of other classmates assigned to serve as their debugging partners and, in pairs, go through the <a className='underline hover:text-violet-500' href='https://hackmd.io/@brown-csci0320/BJKCtyxxs'>debugging recipe</a> (explored in lecture-note form in the <a className='underline hover:text-violet-500' href='https://hackmd.io/@brown-csci0320/H1ONPLN25'>debugging manifesto</a>) to practice debugging together. The goal is to give students the scaffolding necessary to grow their debugging, communication, and collaboration skills while under the supervision of the course staff.</p>

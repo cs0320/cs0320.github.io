@@ -8,7 +8,7 @@
         "zodiac":"Sagitarrius",
         "hometown":"Wherever the strategy pattern is used",
         "bio": "Bio: is mysterious...",
-        "img": "/fall23-site/staff/tim.jpg"
+        "img": "/staff/tim.jpg"
     },
     {
         "id":2,
@@ -19,7 +19,7 @@
         "zodiac":"Aquarius",
         "hometown":"Los Gatos, CA",
         "bio": "Hi hi I'm Sam and I'm a senior studying CS. I like collaging, astrology, and talking skincare... excited to meet you all (੭˃ᴗ˂)੭",
-        "img": "/fall23-site/staff/sam.jpg"
+        "img": "/staff/sam.jpg"
     },
     {
         "id":2,
@@ -30,7 +30,7 @@
         "zodiac":"Libra",
         "hometown":"Boxborough, MA",
         "bio": "Hey I’m Joe, and I’m a junior studying CS! I like lemon-flavored treats, free T-shirts, and chopping veggies! Feel free to send me recipes and cute cat memes :D",
-        "img": "/fall23-site/staff/joe.jpg"
+        "img": "/staff/joe.jpg"
     },
     {
         "id":2,
@@ -41,7 +41,7 @@
         "zodiac":"Libra",
         "hometown":"New York, NY",
         "bio": "Hi! I'm a junior concentrating in computer science. I love spicy food, playing violin, and gooey chocolate chip cookies. Excited to meet you all!",
-        "img": "/fall23-site/staff/grace.jpg"
+        "img": "/staff/grace.jpg"
     },
     {
         "id":3,
@@ -52,7 +52,7 @@
         "zodiac":"Virgo",
         "hometown":"Seattle, WA",
         "bio": "Lover of all things outdoors and math adjacent",
-        "img": "/fall23-site/staff/sidney.jpg"
+        "img": "/staff/sidney.jpg"
     },
     {
         "id":4,
@@ -63,7 +63,7 @@
         "zodiac":"Virgo",
         "hometown":"Fort Lauderdale, FL",
         "bio": "Hi! I'm Ronnie, a junior from south Florida double-concentrating in CS and Urban Studies. I enjoy cooking and baking for my friends as well as looking for dogs to pet on campus.",
-        "img": "/fall23-site/staff/ronnie.jpg"
+        "img": "/staff/ronnie.jpg"
     },
     {
         "id":5,
@@ -74,7 +74,7 @@
         "zodiac":"Aquarius",
         "hometown":"Tokyo / Auckland",
         "bio": "Hiii! My name is Haruka, and I'm a junior studying computer science. I love all things food, especially the super intricate Japanese shaved ice in the summer (ask me where to go if you're visiting Tokyo!), and love going on gourmet outings/cafe hopping in my free time :D I also enjoy outdoorsy activities like trekking and rafting, and I climbed Mt. Fuji this past summer! ",
-        "img": "/fall23-site/staff/haruka.jpg"
+        "img": "/staff/haruka.jpg"
     },
     {
         "id":6,
@@ -85,7 +85,7 @@
         "zodiac":"Libra",
         "hometown":"Columbus, Ohio",
         "bio": "Hi! I'm Whitney and I am a rising senior studying computer science. Within computer science, I am especially interested in algorithms and working with data :) Outside of school, I love doing art, spending time outside running or hiking, traveling, and trying new foods. ",
-        "img": "/fall23-site/staff/whitney.jpg"
+        "img": "/staff/whitney.jpg"
     },
     {
         "id":7,
@@ -96,7 +96,7 @@
         "zodiac":"Libra",
         "hometown":"Fort Myers, FL",
         "bio": "Heya 🤩! I'm a senior studying CS 👾. In my free time, I enjoy swimming 🏊‍♂️, building abstract sculptures 🗿, and vlogging 👀 (#iykyk).",
-        "img": "/fall23-site/staff/josh.jpg"
+        "img": "/staff/josh.jpg"
     },
     {
         "id":8,
@@ -107,7 +107,7 @@
         "zodiac":"Leo",
         "hometown":"New Delhi, India",
         "bio": "Hey! I'm Karan and I'm a junior studying CS. If you have any questions about machine learning or developing software (or if you just want to chat about spy movies), I'm your guy!",
-        "img": "/fall23-site/staff/karan.jpg"
+        "img": "/staff/karan.jpg"
     },
     {
         "id":9,
@@ -118,7 +118,7 @@
         "zodiac":"Leo",
         "hometown":"Honolulu, Hawaii",
         "bio": "hi! i’m kayla, and i’m a junior from honolulu, hawaii studying computer science and entrepreneurship. i love shopping, drinking boba, and going to the beach! so excited to meet you all!",
-        "img": "/fall23-site/staff/kayla.jpg"
+        "img": "/staff/kayla.jpg"
     },
     {
         "id":10,
@@ -129,7 +129,7 @@
         "zodiac":"Virgo",
         "hometown":"Columbus, IN",
         "bio": "Hi! I'm a senior studying APMA-Bio and CS. I love singing (I'm in the Higher Keys!), running (casually!!), and hibernating (not casually!!!). Excited to meet y'all! 🥳",
-        "img": "/fall23-site/staff/erica.jpg"
+        "img": "/staff/erica.jpg"
     },
     {
         "id":10,
@@ -140,7 +140,7 @@
         "zodiac":"Virgo",
         "hometown":"Pelham, New York",
         "bio": "Hello! My name is Anna Hurd and I'm a junior studying computer science! Outside of classes, you can usually find me standing in the cereal aisle of any grocery store, trying to find a dining hall swipe, or fast asleep. I cannot wait to get to know everyone this semester! Please don't hesitate to reach out about anything from a quick question to a long existential conversation about what we're all doing here.",
-        "img": "/fall23-site/staff/anna.jpg"
+        "img": "/staff/anna.jpg"
     },
     {
         "id":10,
@@ -151,7 +151,7 @@
         "zodiac":"Capricorn",
         "hometown":"Davis, CA",
         "bio": "Hi! I’m a junior from California studying CS. In my free time, I enjoy drawing, trying new foods, and sleeping in. Excited to meet all of you!",
-        "img": "/fall23-site/staff/sophie.jpg"
+        "img": "/staff/sophie.jpg"
     },
     {
         "id":10,
@@ -162,7 +162,7 @@
         "zodiac":"Virgo",
         "hometown":"Johannesburg, South Africa",
         "bio": "An avid tea-drinker and amateur long-boarder studying Computer Science and Modern Culture and Media. ",
-        "img": "/fall23-site/staff/afia.jpg"
+        "img": "/staff/afia.jpg"
     },
     {
         "id":10,
@@ -173,7 +173,7 @@
         "zodiac":"Aquarius",
         "hometown":"Greenville, SC",
         "bio": "Hi everyone! I'm a junior from upstate SC concentrating in APMA-CS. In my free time I love reading, flying planes, cooking, and playing my little NYT games.",
-        "img": "/fall23-site/staff/molly.jpg"
+        "img": "/staff/molly.jpg"
     },
     {
         "id":10,
@@ -184,7 +184,7 @@
         "zodiac":"Leo",
         "hometown":"Los Angeles",
         "bio": "Hey! I'm a junior from California studying CS. I love learning guitar and laying in the sun. Talk to me about sustainable agriculture, creative writing, music, backpacking, or anything SRC at Brown or beyond :D",
-        "img": "/fall23-site/staff/gabi.jpg"
+        "img": "/staff/gabi.jpg"
         
     },
     {
@@ -196,7 +196,7 @@
         "zodiac":"Taurus",
         "hometown":"Las Vegas, Nevada",
         "bio": "hi! im natalee and i double concentrate in computer science and contemplative studies. you can usually catch me at a coffee shop (pls send me recs :)), cooking, doing pilates, or reading!",
-        "img": "/fall23-site/staff/natalee.jpg"
+        "img": "/staff/natalee.jpg"
     },
     {
         "id":10,
@@ -207,7 +207,7 @@
         "zodiac":"Libra",
         "hometown":"Chicago, IL",
         "bio": "Hey everyone! I'm a senior from Chicago concentrating in CS. In my free time, I like playing video games, swimming, and trying new food. Looking forward to meeting you all!",
-        "img": "/fall23-site/staff/robert.jpg"
+        "img": "/staff/robert.jpg"
     },
     {
         "id":10,
@@ -218,7 +218,7 @@
         "zodiac":"Taurus",
         "hometown":"Middletown, RI",
         "bio": "Hi! I'm a junior studying Math-CS. When I'm not complaining about the next project or problem set that's due, you can catch me eating soup at the ratty, playing with the Brown Band, or playing with the club baseball team.",
-        "img": "/fall23-site/staff/jimmy.jpeg"
+        "img": "/staff/jimmy.jpeg"
     },
     {
         "id":10,
@@ -229,7 +229,7 @@
         "zodiac":"Scorpio",
         "hometown":"New Jersey",
         "bio": "Hi everyone! I'm a junior concentrating in CS on the pre-med track. In my free time, I love to watch dramas, go cafe hopping, and take film pictures. Can't wait to meet everyone!",
-        "img": "/fall23-site/staff/faith.jpg"
+        "img": "/staff/faith.jpg"
     },
     {
         "id":10,
@@ -240,7 +240,7 @@
         "zodiac":"Pisces",
         "hometown":"Mount Kisco, NY",
         "bio": "Likes House music unironically. Can likely mod your Nintendo Switch. Will attempt to sell you a DS (do you want it in red or blue?). Does not currently look like this picture, so good luck finding him",
-        "img": "/fall23-site/staff/patrick.jpg"
+        "img": "/staff/patrick.jpg"
     }
     
 ]

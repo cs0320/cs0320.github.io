@@ -9,7 +9,7 @@ function Lectures() {
     <div>
       <section id="lectures">
         <div className="max-w-5xl mx-auto px-6 pt-32">
-           <img className='pb-24' src='/fall23-site/divider.png'></img>
+           <img className='pb-24' src='/divider.png'></img>
           <h1 className="text-indigo-900 text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 neon-text-yellow">
             Lectures
           </h1>

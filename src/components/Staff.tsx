@@ -10,7 +10,7 @@ function Staff() {
   return (
     <section id="staff">
    <div className="max-w-5xl mx-auto px-6 pt-32">
-    <img className='pb-24' src='/fall23-site/divider.png'></img>
+    <img className='pb-24' src='/divider.png'></img>
       <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 text-indigo-900">Course Staff</h1>
       <div className="text-sm md:text-base">
          <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6 lg:gap-8">

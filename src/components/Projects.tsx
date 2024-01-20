@@ -10,7 +10,7 @@ function Projects() {
     <div>
       <section id="assignments">
         <div className="max-w-5xl mx-auto px-6 pt-32">
-           <img className='pb-24' src='/fall23-site/divider.png'></img>
+           <img className='pb-24' src='/divider.png'></img>
           <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 text-indigo-900">Assignments</h1>
           <div className="text-sm md:text-base text-indigo-900">
             <p>Project handouts are released at 2:20 PM ET on the specified release day. Code submissions are due in Gradescope by <b>7:30 PM ET</b> on the specified code freeze date. Demos will take place sometime within the demo window, depending on your availabilities. Review assignments are out on 9:00 AM ET on the start date in the review window and are due by <b>1:00 PM ET</b> on the end date in the review window.</p>
