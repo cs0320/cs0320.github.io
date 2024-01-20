@@ -1,9 +1,5 @@
-import React from 'react';
-import logo from './logo.svg';
 // import SceneViewer from './SceneViewer';
-import { Disclosure } from "@headlessui/react";
 import { StaffMember } from './StaffMember';
-import tim from '../../staff/tim.jpeg'
 
 
 function StaffCard(props: {person: StaffMember}) {

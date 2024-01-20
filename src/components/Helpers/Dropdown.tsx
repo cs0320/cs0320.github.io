@@ -1,7 +1,4 @@
-import React from 'react';
-import logo from './logo.svg';
 import { Disclosure } from '@headlessui/react';
-import { title } from 'process';
 
 
 function DropDown(props: { title: string, description: string[] }) {

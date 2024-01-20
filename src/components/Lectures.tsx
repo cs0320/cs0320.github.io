@@ -1,11 +1,6 @@
-import React from 'react';
-import logo from './logo.svg';
 import '../App.css';
-import Navbar from './Navbar';
 // import SceneViewer from './SceneViewer';
-import { Disclosure } from "@headlessui/react";
-import DropDown from './Helpers/Dropdown';
-import LectureData from '../data/lectures.json'
+import LectureData from '../data/lectures.json';
 
 
 

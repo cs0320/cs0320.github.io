@@ -1,12 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
 import '../App.css';
-import Navbar from './Navbar';
 // import SceneViewer from './SceneViewer';
-import { Disclosure } from "@headlessui/react";
-import DropDown from './Helpers/Dropdown';
-import AssignmentData from '../data/assignments.json'
-import GearupData from '../data/gearups.json'
+import AssignmentData from '../data/assignments.json';
+import GearupData from '../data/gearups.json';
 
 
 

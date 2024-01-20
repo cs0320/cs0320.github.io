@@ -1,7 +1,7 @@
 {
   "name": "site",
   "version": "0.1.0",
-  "homepage": "https://cs0320.github.io/fall23-site/",
+  "homepage": "https://cs0320.github.io/",
   "proxy": "http://localhost:3001",
   "private": true,
   "dependencies": {

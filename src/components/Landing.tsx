@@ -1,14 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
 import '../App.css';
-import Navbar from './Navbar';
 // import SceneViewer from './SceneViewer';
-import { Disclosure } from "@headlessui/react";
-import DropDown from './Helpers/Dropdown';
-import CourseInfo from './CourseInfo';
-import Projects from './Projects';
-import Lectures from './Lectures';
 import Calendar from './Calendar';
+import CourseInfo from './CourseInfo';
+import Lectures from './Lectures';
+import Projects from './Projects';
 import Staff from './Staff';
 
 

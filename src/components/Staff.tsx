@@ -1,14 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
 import '../App.css';
-import Navbar from './Navbar';
 // import SceneViewer from './SceneViewer';
-import { Disclosure } from "@headlessui/react";
-import DropDown from './Helpers/Dropdown';
-import LectureData from '../data/lectures.json'
-import Tim from '../staff/tim.jpeg'
+import StaffData from '../data/staff.json';
 import StaffCard from './Helpers/StaffCard';
-import StaffData from '../data/staff.json'
 import { StaffMember } from './Helpers/StaffMember';
 
 
