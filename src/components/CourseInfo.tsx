@@ -24,11 +24,11 @@ function CourseInfo() {
               </div>
             </div>
               <div className='text-gray-600 flex flex-wrap'>
-                <a className="quick-link hover:text-violet-500" href="https://docs.google.com/document/d/1vR9JL6DTHpBPrRuBPUgjwpVSbkJmuignlzd2ECuLMqo/edit?usp=drive_link" target="_blank">Syllabus</a>
-                <a className="quick-link hover:text-violet-500" href="https://edstem.org/us/courses/45869/discussion/" target="_blank">EdStem</a>
+                <a className="quick-link hover:text-violet-500" href="https://docs.google.com/document/d/1DQHKZyFUsyjdd8pPXNAsFB1lgXzmT7b0d8GL3ReYnF4/edit?usp=drive_link" target="_blank">Syllabus</a>
+                <a className="quick-link hover:text-violet-500" href="https://edstem.org/us/courses/54377/discussion/" target="_blank">EdStem</a>
                 <a className="quick-link hover:text-violet-500" href="https://hours.cs.brown.edu/" target="_blank">Hours</a>
-                <a className="quick-link hover:text-violet-500" href="https://www.gradescope.com/courses/599613" target="_blank">Gradescope</a>
-                <a className="quick-link hover:text-violet-500" href="https://docs.google.com/forms/d/1yS-Oe9-JOaTYewQLFjHoAGucD1H23yJVySoJOFIUaSw/viewform?edit_requested=true" target="_blank">Anonymous Feedback</a>
+                <a className="quick-link hover:text-violet-500" href="https://www.gradescope.com/courses/692584" target="_blank">Gradescope</a>
+                <a className="quick-link hover:text-violet-500" href="" target="_blank">Anonymous Feedback</a>
                 <a className="quick-link hover:text-violet-500" href="mailto:cs0320headtas@lists.brown.edu" target="_blank">HTA Email</a>
               </div>
             </div>

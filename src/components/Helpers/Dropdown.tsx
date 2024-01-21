@@ -36,23 +36,23 @@ function DropDown(props: { title: string, description: string[] }) {
                                         Arrive at your assigned collab section at the proper time every other week — use the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/e/1FAIpQLSccc2O9xFprtni4m5TAtRfE6DoI7F-F3ffLJwjee40VnDvTAQ/viewform'>swap form</a> if you can't make it.
                                         </li>
                                         <li className='mb-2'>
-                                        Fill out the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/1IQcWVzJXpuHixTJ_BNAUe4cL-fuFZR7hhEsVJkMrYFc/edit'>Debugging Partner Form</a> for each student you help
+                                        Fill out the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/e/1FAIpQLSexW3b6QUpo5WjLMacRvETeqJmpaZnEZUhdyA4W6AL26ZBpSg/viewform?usp=sharing'>Debugging Partner Form</a> for each student you help
                                         </li>
                                         <li className='mb-2'>
                                         Remember, you only need to spend 20 minutes per student + go through one iteration of the Debugging Recipe. 
                                         </li>
                                         <li className='mb-2'>
-                                        If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline hover:text-violet-500'>hours.cs.brown.edu</a>
+                                        If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline hover:text-violet-500' href='https://hours.cs.brown.edu/'>hours.cs.brown.edu</a>
                                         </li>
                                         <li className='mb-2'>
-                                        Make sure you have a concrete question! If you have a question about getting started, design, or prototyping, please attend starter hours instead.
+                                        Make sure you have a concrete question! If you have a question about getting started, design, or prototyping, please attend conceptual hours instead.
                                         </li>
                                     </div>
                                     }
-                                    {props.title === 'How to: Starter Hours' && 
+                                    {props.title === 'How to: Conceptual Hours' && 
                                     <div>
                                         <li className='mb-2'>
-                                        Starter hours are for questions about getting started, design, or prototyping. We intend for these hours to be a more collaborative space between students and TAs, but not a place for debugging code.
+                                        Conceptual hours are for questions about getting started, design, or prototyping. We intend for these hours to be a more collaborative space between students and TAs, but not a place for debugging code.
                                     </li>
                                     <li className='mb-2'>
                                     We can assist with setup issues but our main goal is to help you get past any blockers that stop you from getting started. If you have a concrete question or bug, please attend one of the collab sections.
@@ -95,16 +95,16 @@ function DropDown(props: { title: string, description: string[] }) {
                                             "
 
                                         </blockquote>
-                                        <p className='mt-3'>– cs0320 Manifesto via the <b><a href="https://docs.google.com/document/d/1_Um0PYcEFVkCpKW4gLQSaUkxVM-qPn4pRUHe-4D-wWQ/edit?usp=drive_link">Course
+                                        <p className='mt-3'>– cs0320 Manifesto via the <b><a className='quick-link hover:text-violet-500' href="https://docs.google.com/document/d/1HCSUjI2X3Jp-kRHjl5q9cLnDFE-3LTmHu_OpnmMXAao/edit?usp=drive_link">Course
                                             Missive</a></b></p>
                                     </div>
                                     }
                                     {props.title === 'More Resources' && <div>
                                         <li className='underline hover:text-violet-500'>
-                                            <a  href='https://docs.google.com/document/d/1_Um0PYcEFVkCpKW4gLQSaUkxVM-qPn4pRUHe-4D-wWQ/edit?usp=drive_link'>Missive</a>
+                                            <a  href='https://docs.google.com/document/d/1HCSUjI2X3Jp-kRHjl5q9cLnDFE-3LTmHu_OpnmMXAao/edit?usp=drive_link'>Missive</a>
                                         </li>
                                         <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1vR9JL6DTHpBPrRuBPUgjwpVSbkJmuignlzd2ECuLMqo/edit?usp=drive_link'>Syllabus</a>
+                                            <a href='https://docs.google.com/document/d/1DQHKZyFUsyjdd8pPXNAsFB1lgXzmT7b0d8GL3ReYnF4/edit?usp=drive_link'>Syllabus</a>
                                
                                         </li>
                                         <li className='underline hover:text-violet-500'>
@@ -112,22 +112,19 @@ function DropDown(props: { title: string, description: string[] }) {
 
                                         </li>
                                         <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1SP1MVjcp2AtXI5D36FFgZzInVYhIUcp_ZoRyWFsDfxA/edit#heading=h.vdqfoknrw69p'>Setup Guide</a>
+                                            <a href='https://docs.google.com/document/d/1evMCV9u83hPmRm_QdPAOfjQxF4UwLKJs9seRRd2Opp0/edit?usp=drive_link'>Setup Guide</a>
 
                                         </li>
                                         <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1vElPm6CZSzbKtNYNYKocE6gHuzY0fLhy2R9fxakfgI0/edit'>Documentation and Style Guide</a>
+                                            <a href='https://docs.google.com/document/d/1ryVWScIt7edAAXY9g24_xd6cRqfRmv15bju3SsLNzJk/edit?usp=drive_link'>Documentation and Style Guide</a>
 
                                         </li>
                                         <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/forms/d/e/1FAIpQLSccc2O9xFprtni4m5TAtRfE6DoI7F-F3ffLJwjee40VnDvTAQ/viewform?usp=sf_link'>Collab Section Swap Form</a>
+                                            <a href='https://docs.google.com/forms/d/e/1FAIpQLSfr8ELAYusLPSPEJcIA7Qjvu2BtDilXffdDibSKnW6IP41jqA/viewform?usp=sharing'>Collab Section Swap Form</a>
 
                                         </li>
                                     </div>
                                     }
-
-
-
                                     {props.description && props.description.map(desc => {
                                         return (
                                             <div>

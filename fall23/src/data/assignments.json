@@ -1,0 +1,123 @@
+[
+{
+    "id":1,
+    "title":"Policy Quiz",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSda-xOAEfimhGxOV24xZ9v9xl5QTfdBMtNfcPdiqPK4C_bXeA/viewform?usp=sf_link",
+    "release": "9/7",
+    "due": "9/15",
+    "demos": "N/A"
+},
+{
+        "id":1,
+        "title":"Sprint 1: CSV",
+        "link":"https://docs.google.com/document/d/1WjpytapYRFdHu434DD89Y-1De8gyR78q79X_cqFHXw4/edit#heading=h.pee6crlpaxz6",
+        "release": "9/7",
+        "due": "9/15",
+        "demos": "9/16-9/17"
+    },
+    {
+        "id":2,
+        "title":"CSV Review + Reflection",
+        "link":"https://docs.google.com/document/d/1SCaUFoIwRPeKZUE1uPQgxhsHrrfAu3CCviNFvL4FntI/edit#heading=h.pee6crlpaxz6",
+        "release": "9/18",
+        "due": "9/21",
+        "demos": "N/A"
+    },
+    {
+        "id":3,
+        "title":"Sprint 2: Server",
+        "link":"https://docs.google.com/document/d/1IwnIUMlF37joD5bVdMSQnMRxkbQ6jqQJEs3XbhpUJIQ/edit#heading=h.pee6crlpaxz6",
+        "release": "9/21",
+        "due": "9/29",
+        "demos": "9/30-10/1"
+    },
+    {
+        "id":4,
+        "title":"Server Review + Reflection",
+        "link":"https://docs.google.com/document/d/1bYjx9Rb2dfK8dZXgwq2TE5PHW2G7iLFW8BhnjY7VMVU/edit#heading=h.pee6crlpaxz6",
+        "release": "10/2",
+        "due": "10/5",
+        "demos": "N/A"
+    },
+    {
+        "id":5,
+        "title":"Sprint 3: Mock",
+        "link":"https://docs.google.com/document/d/1c9MtiH5cBLONTYXbe-H7Fm5se8V0gSHvCDrcNNSVlms/edit",
+        "release": "10/5",
+        "due": "10/13",
+        "demos": "10/14-10/15"
+    },
+    {
+        "id":6,
+        "title":"Mock Review + Reflection",
+        "link":"https://docs.google.com/document/d/1mxLs9h2d3uQ4Gq3Shp0CgV99obUSVXQeu1RpQFkUf4U/edit#heading=h.pee6crlpaxz6",
+        "release": "10/16",
+        "due": "10/19",
+        "demos": "N/A"
+    },
+    {
+        "id":7,
+        "title":"Sprint 4: REPL",
+        "link":"https://docs.google.com/document/d/1otyHxMZg9pLmtbD_w4gf1WYiGfzo_5a3Udy3kYIXfmA/edit#heading=h.pee6crlpaxz6",
+        "release": "10/19",
+        "due": "10/27",
+        "demos": "10/28-10/29"
+    },
+    {
+        "id":8,
+        "title":"REPL Review + Reflection",
+        "link":"https://docs.google.com/document/d/1Htc1snl250-oW4d2uNIj5mg_xHRKxlLqA1Zr6HRH-aE/edit#heading=h.pee6crlpaxz6",
+        "release": "10/30",
+        "due": "11/2",
+        "demos": "N/A"
+    },
+    {
+        "id":7,
+        "title":"Sprint 5: Maps",
+        "link":"https://docs.google.com/document/d/1xNkDvRHat1t2ixbJeJ5cPLu53IsbCcqVwvd2p1OxMTo/edit#heading=h.pee6crlpaxz6",
+        "release": "11/2",
+        "due": "11/10",
+        "demos": "11/11-11/12"
+    },
+    {
+        "id":9,
+        "title":"Term Project",
+        "link":"https://docs.google.com/document/d/1nqTKf2QCzhMkjjxbJQ1-_o3f_bkWqR2kzdDgoCP4lmw/edit#heading=h.jz2nwpvwq2j9",
+        "release": "-",
+        "due": "-",
+        "demos": "-"
+    },
+    {
+        "id":10,
+        "title":"TP: Requirements, Specs, and Mockups",
+        "link":"",
+        "release": "-",
+        "due": "11/17",
+        "demos": "11/18-11/19"
+    },
+    {
+        "id":11,
+        "title":"TP: Prototyping, Initial Dev, and Low-Level Design",
+        "link":"",
+        "release": "-",
+        "due": "12/1",
+        "demos": "12/2-12/3"
+    },
+    {
+        "id":12,
+        "title":"TP: Further Component Development",
+        "link":"",
+        "release": "-",
+        "due": "12/8",
+        "demos": "12/9-12/10"
+    },
+    {
+        "id":12,
+        "title":"TP: Integration",
+        "link":"",
+        "release": "-",
+        "due": "12/8",
+        "demos": "12/9-12/10"
+    }
+]
+

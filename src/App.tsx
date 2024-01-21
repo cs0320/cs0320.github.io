@@ -12,10 +12,6 @@ function App() {
     <div>
       <Navbar />
       <Landing />
-      {/* <InfoBits /> */}
-      {/* <Footer /> */}
-      {/* <InfoBits />
-      <Footer /> */}
     </div>
     
       
