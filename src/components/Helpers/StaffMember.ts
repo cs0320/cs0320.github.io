@@ -7,4 +7,5 @@ export interface StaffMember {
     hometown: string,
     bio: string,
     img: string,
+    hover: string
   }

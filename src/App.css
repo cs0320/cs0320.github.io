@@ -219,3 +219,24 @@ canvas {
     line-height: 1.5rem;
   } */
 }
+.image-container {
+  position: relative;
+}
+
+.image-default, .image-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease; /* Adjust the duration as needed */
+}
+
+.image-hover {
+  opacity: 0;
+}
+
+.image-container:hover .image-hover {
+  opacity: 0.94; /* Adjust the transparency level as needed */
+  transition: opacity 0.5s ease
+}

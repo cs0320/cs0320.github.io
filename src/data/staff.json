@@ -8,7 +8,8 @@
         "zodiac":"Sagitarrius",
         "hometown":"Wherever the strategy pattern is used",
         "bio": "Bio: is mysterious...",
-        "img": "/staff/tim.jpg"
+        "img": "/staff/tim.jpg",
+        "hover":"/zodiacs/sag.png"
     },
     {
         "id":2,
@@ -19,7 +20,8 @@
         "zodiac":"Aquarius",
         "hometown":"Los Gatos, CA",
         "bio": "Hi I'm Sam and I'm a senior studying CS. I like collaging, astrology, and watching vanderpump rules... excited to meet you all (੭˃ᴗ˂)੭",
-        "img": "/staff/sam.jpg"
+        "img": "/staff/sam.jpg",
+        "hover":"/zodiacs/aqua.png"
     },
     {
         "id":2,
@@ -30,7 +32,8 @@
         "zodiac":"Libra",
         "hometown":"Boxborough, MA",
         "bio": "Loves treats, Tiny desk concerts, smiskis, free T-shirts, NYT games, Spotify's Friend Activity tab, and cs32 :D",
-        "img": "/staff/joe.jpg"
+        "img": "/staff/joe.jpg",
+        "hover":"/zodiacs/libra.png"
     },
     {
         "id":2,
@@ -41,7 +44,8 @@
         "zodiac":"Libra",
         "hometown":"Sarasota, FL",
         "bio": "Enjoys Norwalk, Connecticut (but has never been). Sings in acapella. Afraid of cryptic crosswords.",
-        "img": "/staff/orion.jpg"
+        "img": "/staff/orion.jpg",
+        "hover":"/zodiacs/libra.png"
     },
     {
         "id":3,
@@ -52,7 +56,8 @@
         "zodiac":"Gemini",
         "hometown":"Lima, Peru",
         "bio": "Hiii everyone, I’m Roberto Gonzales, and I’m a sophomore studying CS. I love playing guitar and piano, speaking different languages (Spanish, English, French, Italian, Chinese, Japanese), roof climbing, and practicing karate. Feel free to reach out if you want to practice any languages, just want to talk or if you think you can beat me in Mario Kart (i'm not that good but I'll try).",
-        "img": "/staff/roberto.jpg"
+        "img": "/staff/roberto.jpg",
+        "hover":"/zodiacs/gemini.png"
     },
     {
         "id":4,
@@ -63,7 +68,8 @@
         "zodiac":"Aquarius",
         "hometown":"Tokyo & Auckland",
         "bio": "Hiii! My name is Haruka, and I'm a junior studying computer science. I love all things food and love going on gourmet outings/cafe hopping in my free time :D I also enjoy outdoorsy activities, and I climbed Mt. Fuji last summer!",
-        "img": "/staff/haruka.jpg"
+        "img": "/staff/haruka.jpg",
+        "hover":"/zodiacs/aqua.png"
     },
     {
         "id":5,
@@ -74,7 +80,8 @@
         "zodiac":"Capricorn",
         "hometown":"Davis, CA",
         "bio": "Hi! I’m a junior from California studying CS. Love food, cute cat idle games, and sleeping in. Excited to meet all of you!",
-        "img": "/staff/sophie.jpg"
+        "img": "/staff/sophie.jpg",
+        "hover":"/zodiacs/cap.png"
     },
     {
         "id":6,
@@ -85,7 +92,8 @@
         "zodiac":"Leo",
         "hometown":"Los Angeles, CA",
         "bio": "I'm a junior studying CS and super interested in SRC at Brown, sustainable agriculture, outdoor education, music, tea, and swimming in the ocean.",
-        "img": "/staff/gabi.jpg"
+        "img": "/staff/gabi.jpg",
+        "hover":"/zodiacs/leo.png"
     },
     {
         "id":7,
@@ -96,7 +104,8 @@
         "zodiac":"Gemini",
         "hometown":"Greenville, RI",
         "bio": "Hi! I'm a senior from Rhode Island studying CS. I enjoy swimming, robotics, gaming (board games, video games, Wordle spinoffs, etc.), and spending too much time at the CIT or the Ratty.",
-        "img": "/staff/nick.jpg"
+        "img": "/staff/nick.jpg",
+        "hover":"/zodiacs/gemini.png"
     },
     {
         "id":9,
@@ -107,7 +116,8 @@
         "zodiac":"Cancer",
         "hometown":"New York, New York",
         "bio": "Hi there! I'm a junior from NYC studying CS and also Entrepreneurship! I love making origami, eating any and all pasta (except gnocchi), trying any pastries that involve raspberries, and discovering good finds on the RealReal. Feel free to talk to me about anything software engineering or Hack@Brown related :)",
-        "img": "/staff/alexis.jpg"
+        "img": "/staff/alexis.jpg",
+        "hover":"/zodiacs/cancer.png"
     },
     {
         "id":10,
@@ -118,7 +128,8 @@
         "zodiac":"Scorpio",
         "hometown":"Brooklyn, NY",
         "bio": "hi everyone! i'm a sophomore from new york concentrating in CS. in my free time, i enjoy dancing, gaming, and finding cute spots in prov (if you know any pls lmk :)).  excited to meet you all! :D",
-        "img": "/staff/nicole.jpg"
+        "img": "/staff/nicole.jpg",
+        "hover":"/zodiacs/scorpio.png"
     },
     {
         "id":10,
@@ -129,7 +140,8 @@
         "zodiac":"Virgo",
         "hometown":"Pelham, New York",
         "bio": "Hello! My name is Anna Hurd and I'm a junior studying computer science! Outside of classes, you can usually find me standing in the cereal aisle of any grocery store, trying to find a dining hall swipe, or fast asleep. I cannot wait to get to know everyone this semester! Please don't hesitate to reach out about anything from a quick question to a long existential conversation about what we're all doing here.",
-        "img": "/staff/anna.jpg"
+        "img": "/staff/anna.jpg",
+        "hover":"/zodiacs/virgo.png"
     },
     {
         "id":10,
@@ -140,7 +152,8 @@
         "zodiac":"Aries",
         "hometown":"San Francisco, California",
         "bio": "Hi! I'm Annie and I'm a sophomore from San Francisco studying computer science. I like going to the gym, Frank Ocean, and ratty soft-serve. Super excited for this year :) ",
-        "img": "/staff/annie.jpg"
+        "img": "/staff/annie.jpg",
+        "hover":"/zodiacs/aries.png"
     },
     {
         "id":10,
@@ -151,7 +164,8 @@
         "zodiac":"Pisces",
         "hometown":"Rochester, MI",
         "bio": "Hi! I’m Danny, I’m a sophomore studying APMA-CS. In my free time I enjoy watching and playing sports, going to the gym, and trying new foods all around Prov! Super excited to meet you all :) ! ",
-        "img": "/staff/danny.jpg"
+        "img": "/staff/danny.jpg",
+        "hover":"/zodiacs/pisces.png"
     },
     {
         "id":10,
@@ -162,7 +176,8 @@
         "zodiac":"Gemini",
         "hometown":"Bethesda, Maryland",
         "bio": "Hi! I'm a junior studying computer science and economics. I really love pasta and ice cream! Excited to meet you all!",
-        "img": "/staff/emily.jpg"
+        "img": "/staff/emily.jpg",
+        "hover":"/zodiacs/gemini.png"
     },
     {
         "id":10,
@@ -173,7 +188,8 @@
         "zodiac":"Taurus",
         "hometown":"Shanghai & Vancouver ",
         "bio": "Hi all! I’m a junior concentrating in CS. In my free time, you can find me growing my indoor herb garden, learning new recipes, or hosting book club tea parties.",
-        "img": "/staff/michelle.jpg"
+        "img": "/staff/michelle.jpg",
+        "hover":"/zodiacs/taurus.png"
         
     },
     {
@@ -185,7 +201,8 @@
         "zodiac":"Scorpio",
         "hometown":"New Jersey",
         "bio": "Hi everyone! I'm a junior concentrating in CS on the pre-med track. In my free time, I love to watch dramas, go cafe hopping, and take film pictures. Can't wait to meet everyone!",
-        "img": "/staff/faith.jpg"
+        "img": "/staff/faith.jpg",
+        "hover":"/zodiacs/scorpio.png"
     }
 ]
 
