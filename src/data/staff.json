@@ -203,6 +203,54 @@
         "bio": "Hi everyone! I'm a junior concentrating in CS on the pre-med track. In my free time, I love to watch dramas, go cafe hopping, and take film pictures. Can't wait to meet everyone!",
         "img": "/staff/faith.jpg",
         "hover":"/zodiacs/scorpio.png"
+    },
+    {
+        "id":10,
+        "name":"Julia Zdzilowska",
+        "role": "UTA",
+        "cslogin":"jzdzilow",
+        "pronouns":"she/her",
+        "zodiac":"Virgo",
+        "hometown":"Krakow",
+        "bio": "Hey! I'm Julia, and I'm a sophomore from Poland studying CS. I'm an avid cilantro enjoyer and have a concerning obsession with midcentury-modern architecture. You'll most likely find me on the 4th floor of the Rock watching Mindhunter or - ofc - in the CIT :)) Really excited to get to know you all!",
+        "img": "/staff/julia.jpg",
+        "hover":"/zodiacs/virgo.png"
+    },
+    {
+        "id":10,
+        "name":"Mitchell Salomon",
+        "role": "UTA",
+        "cslogin":"msalomo2",
+        "pronouns":"he/him",
+        "zodiac":"Libra",
+        "hometown":"Barrington, RI",
+        "bio": "Hey! I'm Mitchell and I'm a junior studying CS. I love rock climbing, pizza, and playing strategy games (both board games and video games!). Excited to be your TA!",
+        "img": "/staff/mitchell.jpg",
+        "hover":"/zodiacs/libra.png"
+    },
+    {
+        "id":10,
+        "name":"Alejandro Jackson",
+        "role": "UTA",
+        "cslogin":"ajacks41",
+        "pronouns":"he/him",
+        "zodiac":"Pisces",
+        "hometown":"Miami, FL",
+        "bio": "Hey there! I’m Alejandro, a junior concentrating in CS. I’m always drinking something with espresso in it, and always fiending for more. See a black-clad figure flying through campus on a shaky plank of wood? Yeah… likely me…. Shout hello! Massive fan of the Strange, Dark, & Mysterious. I look forward to meeting you all!",
+        "img": "/staff/alejandro.jpg",
+        "hover":"/zodiacs/pisces.png"
+    },
+    {
+        "id":10,
+        "name":"Albert Tang",
+        "role": "UTA",
+        "cslogin":"atang44 ",
+        "pronouns":"he/him",
+        "zodiac":"Taurus",
+        "hometown":"Boston, MA",
+        "bio": "hey! I'm a sophomore from Boston studying CS. When I'm not photosynthesizing on the main green, I love stargazing, card/word games, and all things music. Super excited to meet you all!",
+        "img": "/staff/albert.jpg",
+        "hover":"/zodiacs/taurus.png"
     }
 ]
 
