@@ -20,7 +20,7 @@
         "zodiac":"Aquarius",
         "hometown":"Los Gatos, CA",
         "bio": "Hi I'm Sam and I'm a senior studying CS. I like collaging, astrology, and watching vanderpump rules... excited to meet you all (੭˃ᴗ˂)੭",
-        "img": "/staff/sam.jpg",
+        "img": "/staff/sam2.jpg",
         "hover":"/zodiacs/aqua.png"
     },
     {
@@ -251,6 +251,30 @@
         "bio": "hey! I'm a sophomore from Boston studying CS. When I'm not photosynthesizing on the main green, I love stargazing, card/word games, and all things music. Super excited to meet you all!",
         "img": "/staff/albert.jpg",
         "hover":"/zodiacs/taurus.png"
+    },
+    {
+        "id":10,
+        "name":"Andrew Chen",
+        "role": "UTA",
+        "cslogin":"azchen",
+        "pronouns":"he/him",
+        "zodiac":"Leo",
+        "hometown":"Westborough, MA",
+        "bio": "Hi, I'm a sophomore from Massachusetts studying APMA-CS. I hit tennis balls, stash ratty fruit, lift/drop objects, and tickle piano keys. Equally skilled at forking repos and chess pieces. Will happily discuss Daniel Caesar, banana bread, or your issues with IntelliJ.",
+        "img": "/staff/andrew.jpg",
+        "hover":"/zodiacs/leo.png"
+    },
+    {
+        "id":10,
+        "name":"Kristophe Yen",
+        "role": "UTA",
+        "cslogin":"kyen2",
+        "pronouns":"he/him",
+        "zodiac":"Virgo",
+        "hometown":"Portmore,JA and Bronx,NY",
+        "bio": "Hey, ya'll nice to meet you guys I am a senior studying Computer Science. I like watching tv shows as well as acting like I hit a 12 leg parlays. If anyone wants to talk about the new JJK season or Narcos lmk!!!",
+        "img": "/staff/kristophe.jpg",
+        "hover":"/zodiacs/virgo.png"
     }
 ]
 
