@@ -39,8 +39,8 @@ function Lectures() {
                         </a>
                       </td>
                       <td>{lecture.date}</td>
-                      <td><a className='hover:text-violet-500' href={lecture.code}>{lecture.code ? 'Livecode' : ''}</a></td>
-                      <td><a className='hover:text-violet-500' href={lecture.reading}>{lecture.reading ? 'Recording' : ''}</a></td>
+                      <td><a className='hover:text-violet-500' href={lecture.code}>{lecture.code ? 'Livecode' : '—'}</a></td>
+                      <td><a className='hover:text-violet-500' href={lecture.recording}>{lecture.recording ? 'Recording' : '—'}</a></td>
                     </tr>
                   )
                 })}
