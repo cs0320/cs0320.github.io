@@ -2,7 +2,7 @@
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSei0TYC4hyiSYw4ubpX6uBSDPlSGX9UG5qVowsTGtFNTSTlFQ/viewform",
     "release": "1/25",
     "due": "2/2",
     "demos": "N/A"
@@ -10,7 +10,7 @@
 {
         "id":1,
         "title":"Sprint 1: CSV",
-        "link":"",
+        "link":"https://docs.google.com/document/d/1A072ooRZC29aHgn7RD2xUN0vp1NZn2UXU31Dp2Ia0bM/edit",
         "release": "1/25",
         "due": "2/2",
         "demos": "2/3-2/4"
