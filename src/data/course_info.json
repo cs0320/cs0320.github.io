@@ -37,8 +37,8 @@
         "id":5,
         "title": "Collab Section Reminders",
         "description" : [
-            "Every student will receive 3 late days for use on either: the prototype development portion of the CSV, Mock (formerly known as Echo), Server, and REPL sprints (no more than 2 days late per sprint); the reflection period of the above sprints (no more than 1 day late per sprint); or the integration capstone (no more than 2 late days for the capstone). ",
-            "Every student will also receive 2 section passes. Using a section pass exempts you from the check-off requirements of all sections for the given week---both the 1-hour collab section and whichever gear up or discussion is held that week. (If all group members need to use a pass on a gear up week, reach out to your assigned mentor as soon as possible so that we can provide support.)"
+            "cs0320 doesn't have one-on-one debugging hours with TAs. Instead, we have structured, TA-mentored collab sections where you will get debugging help—both from the TA and from each other. ",
+            "We expect you to bring both patience and an open mind to collab section. Don’t dismiss the format just because it’s different from the TA hours you may be used to. "
         
         ]
     },
