@@ -69,8 +69,8 @@ function Projects() {
                         <b>{gearup.title}</b>
                       </td>
                       <td>{gearup.date}</td>
-                      <td> <a href={gearup.slides}>{gearup.slides ? 'Slides' : ''}</a></td>
-                      <td><a href={gearup.recording}>{gearup.recording ? 'Recording' : ''}</a></td>
+                      <td> <a className='hover:text-violet-500' href={gearup.slides}>{gearup.slides ? 'Slides' : ''}</a></td>
+                      <td><a className='hover:text-violet-500' href={gearup.recording}>{gearup.recording ? 'Recording' : ''}</a></td>
                     </tr>
                   )
                 })}
