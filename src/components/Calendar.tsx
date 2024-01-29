@@ -22,8 +22,8 @@ function Calendar() {
                 </div>
                 <h3 className="text-l md:text-md font-bold mt-6 text-violet-500"><b>Talk to Tim</b></h3>
                 <p>
-                  Talk to Tim via <a href="https://brown.zoom.us/my/tim.browncs"><b>Zoom</b></a> on Monday from <b>12
-                  PM–12:50 PM EST.</b>
+                  Talk to Tim via <a href="https://brown.zoom.us/my/tim.browncs"><b>Zoom</b></a> on Wednesdays from <b>1:30
+                  PM–2:30 PM EST.</b>
                   Tim will also be holding an info session during the first week of class on Friday.
                 </p>
                 <div className="text-sm md:text-base pt-6">
