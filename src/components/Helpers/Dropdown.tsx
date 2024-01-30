@@ -123,6 +123,15 @@ function DropDown(props: { title: string, description: string[] }) {
                                             <a href='https://docs.google.com/forms/d/e/1FAIpQLSfr8ELAYusLPSPEJcIA7Qjvu2BtDilXffdDibSKnW6IP41jqA/viewform?usp=sharing'>Collab Section Swap Form</a>
 
                                         </li>
+                                        <li className='underline hover:text-violet-500'>
+                                            <a href='https://docs.google.com/document/d/1Rwwenh6TXRbz5IEtLCTmkK88ZHaYjlOBf1NahO2q-wA/edit?usp=sharing'>Git Guide</a>
+
+                                        </li>
+                                        <li className='underline hover:text-violet-500'>
+                                            <a href='https://docs.google.com/document/d/1tnlnhndoJsNlaeFGhnrgSLnshxiO48POYmQVhxW5Cdo/edit?usp=sharing'>Mentor Meeting Student Guide</a>
+
+                                        </li>
+                                        {/* https://docs.google.com/document/d/1tnlnhndoJsNlaeFGhnrgSLnshxiO48POYmQVhxW5Cdo/edit?usp=sharing */}
                                     </div>
                                     }
                                     {props.description && props.description.map(desc => {
