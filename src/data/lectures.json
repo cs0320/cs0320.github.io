@@ -19,9 +19,9 @@
         "id":3,
         "date":"2/1",
         "topic":"Equality in Java, Contracts",
-        "notes":"",
-        "code":"",
-        "recording":""
+        "notes":"https://cs0320.github.io/notes/equality-contracts/equality-contracts.html",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/S24/feb01-equality",
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2fd78717-b9b8-40aa-ac32-b0f4010983d2"
     },
     {
         "id":4,
