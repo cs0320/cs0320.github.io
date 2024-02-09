@@ -13,7 +13,7 @@
         "title":"Grading",
         "description":[ 
             "CSCI 0320 remains mandatory S/NC this semester and will be using a learning-goals focused grading system. You'll check off (\"earn badges\") for different learning categories in every sprint and you’ll need a certain number of badges for each category. This style of grading is also called \"mastery-based\" or \"standards-based\". Both of those terms invite misinterpretation, so we'll tend to speak of \"demonstrating command\" of a given learning category instead.",
-            "Barring special circumstances, badges can only be earned for work on the current sprint. After a sprint's code freeze has occurred, the code cannot be \"upgraded\" to earn that badge for that sprint. Instead, show improvement on the next sprint's objectives. For example, if a student doesn't earn the \"unit testing\" badge on the CSV sprint they should focus on their unit testing for Echo."
+            "Barring special circumstances, badges can only be earned for work on the current sprint. After a sprint's code freeze has occurred, the code cannot be \"upgraded\" to earn that badge for that sprint. Instead, show improvement on the next sprint's objectives. For example, if a student doesn't earn the \"unit testing\" badge on the CSV sprint they should focus on their unit testing for Server."
         ]
     },
 
