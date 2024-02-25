@@ -14,7 +14,7 @@ function Lectures() {
             Lectures
           </h1>
           <div className="text-sm md:text-base text-indigo-900">
-            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from 1:00 to 2:20 PM in Salomon 001 and recordings will be uploaded after each lecture and can also always be found on (<a href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22af71a8c8-cb54-48e5-8666-b0f40108f27a%22">Panopto</a>). The lecture notes can be found on Github pages (<a href="https://cs0320.github.io/notes/">link</a>).</p>
+            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from 1:00 to 2:20 PM in Salomon 001 and recordings will be uploaded after each lecture and can also always be found on <a href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22af71a8c8-cb54-48e5-8666-b0f40108f27a%22">Panopto</a>. The lecture notes can be found on <a href="https://cs0320.github.io/notes/">Github pages</a>.</p>
             <table className="table">
               <thead>
                 <tr className="table-header text-violet-500">
