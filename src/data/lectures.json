@@ -42,7 +42,7 @@
     {
         "id":6,
         "date":"2/13",
-        "topic":"Server Q&A",
+        "topic":"Snow Day (no class)",
         "notes":"",
         "code":"",
         "recording":""
@@ -74,8 +74,8 @@
     {
         "id":10,
         "date":"2/27",
-        "topic":"—",
-        "notes":"",
+        "topic":"Playwright, 0320 Final Project",
+        "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html",
         "code":"",
         "recording":""
     },
