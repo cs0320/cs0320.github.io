@@ -1,39 +1,37 @@
 [
-   {
-            "id":1,
-            "title":"Sprint 1: CSV",
-            "date":"1/25-1/26",
-            "slides": "https://docs.google.com/presentation/d/1fAbRmhZ-cWLYlvjIHSKsHoRzkil_StONrLTcQm4h_58/edit#slide=id.p",
-            "recording": "https://drive.google.com/file/d/154uoPOWxtyDFoZ1I9bUbCY5pQzJmDmjL/view?usp=sharing"
-        },
-        {
-            "id":3,
-            "title":"Sprint 2: Server",
-            "date":"2/8-2/9",
-            "slides": "https://docs.google.com/presentation/d/1oLtQMowi8ZtbaoQ0V-U1YNYy6EPC4Ppp9rYyo11EksY/edit#slide=id.p",
-            "recording": "https://drive.google.com/file/d/1xHqaXpnBiCI3mV9Mqr1FoMLSbGfItS19/view?usp=sharing"
-        },
-        {
-            "id":5,
-            "title":"Sprint 3: Mock",
-            "date":"2/22-2/23",
-            "slides": "https://docs.google.com/presentation/d/1qZC8m9ZgSUkkQ49_Q4KFjDJXCpqnQhmeNgAGv4JEd-0/edit?usp=sharing",
-            "recording": "https://drive.google.com/file/d/1CFN50Wtvuj5DBkNrnzPiYGWlCTrcgvf7/view?usp=sharing"
-        },
-        {
-            "id":7,
-            "title":"Sprint 4: REPL",
-            "date":"3/7-3/8",
-            "slides": "https://docs.google.com/presentation/d/1H_N2JDbVGTVYsrU89le4DDJm7gyFep4ikv_qJ2Kcwh0/edit?usp=sharing",
-            "recording": ""
-        },
-        {
-            "id":7,
-            "title":"Sprint 5: Maps",
-            "date":"3/21-3/22",
-            "slides": "",
-            "recording": ""
-        }
-    ]
-    
-    
+  {
+    "id": 1,
+    "title": "Sprint 1: CSV",
+    "date": "1/25-1/26",
+    "slides": "https://docs.google.com/presentation/d/1fAbRmhZ-cWLYlvjIHSKsHoRzkil_StONrLTcQm4h_58/edit#slide=id.p",
+    "recording": "https://drive.google.com/file/d/154uoPOWxtyDFoZ1I9bUbCY5pQzJmDmjL/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "title": "Sprint 2: Server",
+    "date": "2/8-2/9",
+    "slides": "https://docs.google.com/presentation/d/1oLtQMowi8ZtbaoQ0V-U1YNYy6EPC4Ppp9rYyo11EksY/edit#slide=id.p",
+    "recording": "https://drive.google.com/file/d/1xHqaXpnBiCI3mV9Mqr1FoMLSbGfItS19/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "title": "Sprint 3: Mock",
+    "date": "2/22-2/23",
+    "slides": "https://docs.google.com/presentation/d/1qZC8m9ZgSUkkQ49_Q4KFjDJXCpqnQhmeNgAGv4JEd-0/edit?usp=sharing",
+    "recording": "https://drive.google.com/file/d/1CFN50Wtvuj5DBkNrnzPiYGWlCTrcgvf7/view?usp=sharing"
+  },
+  {
+    "id": 7,
+    "title": "Sprint 4: REPL",
+    "date": "3/7-3/8",
+    "slides": "https://docs.google.com/presentation/d/1H_N2JDbVGTVYsrU89le4DDJm7gyFep4ikv_qJ2Kcwh0/edit?usp=sharing",
+    "recording": ""
+  },
+  {
+    "id": 7,
+    "title": "Sprint 5: Maps",
+    "date": "3/21-3/22",
+    "slides": "https://docs.google.com/document/d/1JmFyUBVsZlvY9XiiYDBQw2zK2O4nlC-Prc6vJs1PjY4/edit?usp=sharing",
+    "recording": ""
+  }
+]
