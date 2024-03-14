@@ -77,39 +77,39 @@
         "topic":"Playwright, 0320 Final Project",
         "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html",
         "code":"",
-        "recording":""
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c181a4f-27ea-4ee6-82e0-b0f4010984eb"
     },
     {
         "id":11,
         "date":"2/29",
-        "topic":"—",
-        "notes":"",
-        "code":"",
-        "recording":""
+        "topic":"Webapps: HTML/CSS, TypeScript, React, Playwright",
+        "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/S24/feb22-nyt",
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fde0afe-7706-4235-8e8d-b0f40109851d"
     },
     {
         "id":12,
         "date":"3/5",
-        "topic":"—",
-        "notes":"",
-        "code":"",
-        "recording":""
+        "topic":"Concurrency (Java)",
+        "notes":"https://cs0320.github.io/notes/java-concurrency/java-concurrency.html",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/S24/mar5_concurrent_queue_manager/src/main/java/edu/brown/cs32/livecode",
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49b555a3-ab5f-48ce-97aa-b0f40109854b"
     },
     {
         "id":13,
         "date":"3/7",
-        "topic":"—",
-        "notes":"",
-        "code":"",
-        "recording":""
+        "topic":"TypeScript/JavaScript Asynchrony",
+        "notes":"https://cs0320.github.io/notes/promises-fetch-prs/promises-fetch-prs.html",
+        "code":"https://github.com/cs0320/class-livecode/tree/main/S24/mar7_ts_fetch",
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bf75633-cea5-482b-a5ad-b0f40109856e"
     },    
     {
         "id":14,
         "date":"3/12",
-        "topic":"—",
+        "topic":"Mock Review",
         "notes":"",
-        "code":"",
-        "recording":""
+        "code":"https://github.com/cs0320-s24/mock-review",
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0542dd40-ccfc-41a8-bca5-b0f401098590"
     }, 
     {
         "id":15,
