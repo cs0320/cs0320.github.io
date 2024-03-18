@@ -66,7 +66,7 @@
     {
         "id":8,
         "title":"Sprint 5: Maps",
-        "link":"",
+        "link":"https://docs.google.com/document/d/1e5VB4FBUPLMg6j8XawiBbOvjjRy6bfRCgQ2qjaXElUk/edit",
         "release": "3/18",
         "due": "4/5",
         "demos": "4/6-4/7"
@@ -76,40 +76,48 @@
         "title":"Term Project",
         "link":"https://docs.google.com/document/d/11tnrgpSHgjZ1XASdtpC5lyx3IPlbkg4Dgyqngr9OtHQ/edit#heading=h.pee6crlpaxz6",
         "release": "2/27",
-        "due": "-",
-        "demos": "-"
+        "due": "By demo",
+        "demos": "5/9-5/11"
     },
     {
         "id":10,
         "title":"TP: Requirements, Specs, and Mockups",
         "link":"",
         "release": "-",
-        "due": "tbd",
-        "demos": "tbd"
+        "due": "4/12",
+        "demos": "4/13-4/14"
     },
     {
         "id":11,
         "title":"TP: Prototyping, Initial Dev, and Low-Level Design",
         "link":"",
         "release": "-",
-        "due": "tbd",
-        "demos": "tbd"
+        "due": "4/19",
+        "demos": "4/20-4/21"
     },
     {
         "id":12,
         "title":"TP: Further Component Development",
         "link":"",
         "release": "-",
-        "due": "tbd",
-        "demos": "tbd"
+        "due": "4/26",
+        "demos": "4/27-4/28"
     },
     {
         "id":12,
         "title":"TP: Integration",
         "link":"",
         "release": "-",
-        "due": "tbd",
-        "demos": "tbd"
+        "due": "5/3",
+        "demos": "5/4-5/5"
+    },
+    {
+        "id":13,
+        "title":"TP: Code Walk",
+        "link":"",
+        "release": "-",
+        "due": "5/3",
+        "demos": "5/4-5/9"
     }
 ]
 
