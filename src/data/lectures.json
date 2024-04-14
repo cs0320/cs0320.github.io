@@ -125,7 +125,7 @@
         "topic":"—",
         "notes":"",
         "code":"",
-        "recording":""
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b5802a0-7e04-42d7-b866-b0f4010985e0"
     },
     {
         "id":17,
@@ -133,7 +133,7 @@
         "topic":"—",
         "notes":"",
         "code":"",
-        "recording":""
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7872afd0-0b20-477c-9883-b0f401098602"
     },    
     {
         "id":18,
@@ -157,7 +157,7 @@
         "topic":"—",
         "notes":"",
         "code":"",
-        "recording":""
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96c32e9e-cd59-46ca-8dab-b0f401098664"
     },  
     {
         "id":21,
@@ -165,23 +165,23 @@
         "topic":"—",
         "notes":"",
         "code":"",
-        "recording":""
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23049677-8315-4333-be22-b0f4010986c7"
     },        
     {
         "id":22,
         "date":"4/9",
-        "topic":"—",
+        "topic":"MBT/PBT",
         "notes":"",
-        "code":"",
-        "recording":""
+        "code":"https://github.com/cs0320/class-livecode/tree/main/S24/apr9_mbt_pbt",
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47ad95d4-69db-48b1-970c-b0f4010986fb"
     },  
     {
         "id":23,
         "date":"4/11",
-        "topic":"—",
+        "topic":"Guest Lecture: Galen Winsor",
         "notes":"",
         "code":"",
-        "recording":""
+        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e1f751a-a8c5-49ab-a4c7-b0f40109872c"
     },    
     {
         "id":24,
