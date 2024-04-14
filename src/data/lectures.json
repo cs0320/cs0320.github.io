@@ -154,16 +154,16 @@
     {
         "id":20,
         "date":"4/2",
-        "topic":"—",
-        "notes":"",
+        "topic":"By request: algorithms (A-star)",
+        "notes":"https://cs0320.github.io/notes/algorithms/algorithms.html",
         "code":"",
         "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96c32e9e-cd59-46ca-8dab-b0f401098664"
     },  
     {
         "id":21,
         "date":"4/4",
-        "topic":"—",
-        "notes":"",
+        "topic":"Guest and Requirements Gathering",
+        "notes":"https://docs.google.com/presentation/d/1N01aLppNz5ggwQZ1NwHgrl20bnVmdoVC7PDPzlYTOb4",
         "code":"",
         "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23049677-8315-4333-be22-b0f4010986c7"
     },        
