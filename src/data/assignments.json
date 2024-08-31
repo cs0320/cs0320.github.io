@@ -1,131 +1,115 @@
 [
+    {
+        "id":1,
+        "title":"Onboarding Form",
+        "link":"https://docs.google.com/forms/d/e/1FAIpQLSdQW-DI0TJQgMpdOyZqxuJUQ6VWMtShb1BHIrUn0HGcaHQcLQ/viewform?usp=sf_link",
+        "release": "9/5",
+        "due": "9/8",
+        "demos": "-"
+    },
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"https://docs.google.com/forms/d/e/1FAIpQLSei0TYC4hyiSYw4ubpX6uBSDPlSGX9UG5qVowsTGtFNTSTlFQ/viewform",
-    "release": "1/25",
-    "due": "2/2",
-    "demos": "N/A"
+    "link":"",
+    "release": "9/5",
+    "due": "9/8",
+    "demos": "-"
+},
+{
+    "id":1,
+    "title":"Setup Deliverable",
+    "link":"",
+    "release": "9/5",
+    "due": "9/8",
+    "demos": "-"
 },
 {
         "id":1,
-        "title":"Sprint 1: CSV",
-        "link":"https://docs.google.com/document/d/1A072ooRZC29aHgn7RD2xUN0vp1NZn2UXU31Dp2Ia0bM/edit",
-        "release": "1/25",
-        "due": "2/2",
-        "demos": "2/3-2/4"
+        "title":"Sprint 1.1: Extensible CSV",
+        "link":"",
+        "release": "9/9",
+        "due": "9/14",
+        "demos": "9/15-9/17"
     },
     {
         "id":2,
-        "title":"CSV Review + Reflection",
-        "link":"https://docs.google.com/document/d/1g1TjxNKL-yZC3qbLhHC9oas84P9qYnTSf_fnDvWCTm8/edit#heading=h.pee6crlpaxz6",
-        "release": "2/5",
-        "due": "2/8",
-        "demos": "N/A"
+        "title":"Sprint 1.2: Searching CSV",
+        "link":"",
+        "release": "9/16",
+        "due": "9/21",
+        "demos": "9/22-9/24"
     },
     {
         "id":3,
-        "title":"Sprint 2: Server",
-        "link":"https://docs.google.com/document/d/1PFxnj8fr5E7on7xJ3XF3DURsdexFQfqIp2ZHMSqmrlE/edit#heading=h.pee6crlpaxz6",
-        "release": "2/8",
-        "due": "2/16",
-        "demos": "2/17-2/18"
+        "title":"Sprint 2.1: API Server",
+        "link":"",
+        "release": "9/23",
+        "due": "9/28",
+        "demos": "9/29-10/1"
     },
     {
         "id":4,
-        "title":"Server Review + Reflection",
-        "link":"https://docs.google.com/document/d/1QHkgekGhE1RjYhMT5e9C7Fzqj-HqWaKGNrvKnpf7PUw/edit",
-        "release": "2/19",
-        "due": "2/22",
-        "demos": "N/A"
+        "title":"Sprint 2.2: API Proxy",
+        "link":"",
+        "release": "9/30",
+        "due": "10/5",
+        "demos": "10/6-10/8"
     },
     {
         "id":5,
-        "title":"Sprint 3: Mock",
-        "link":"https://docs.google.com/document/d/1_beULz-grc57ybYk8FOX5Ls95HoWEbpR37A1dVMmRmw/edit?usp=sharing",
-        "release": "2/22",
-        "due": "3/1",
-        "demos": "3/2-3/3"
+        "title":"Sprint 3.1: Front-End Mockup",
+        "link":"",
+        "release": "10/7",
+        "due": "10/12",
+        "demos": "10/13-10/15"
     },
     {
         "id":6,
-        "title":"Mock Review + Reflection",
-        "link":"https://docs.google.com/document/d/1l4OI6e01suovY8_L7Sy9_Kttyyfry0ud62LTk_LpTYM/edit?usp=sharing",
-        "release": "3/4",
-        "due": "3/7",
-        "demos": "N/A"
+        "title":"Sprint 3.2: Data Visualization",
+        "link":"",
+        "release": "10/14",
+        "due": "10/19",
+        "demos": "10/20-10/22"
     },
     {
         "id":7,
-        "title":"Sprint 4: REPL",
-        "link":"https://docs.google.com/document/d/1ht0dtFMlSBSrURB5HM6mYEacH1P8sXAI-zG1MKwmgJM/edit?usp=sharing",
-        "release": "3/7",
-        "due": "3/15",
-        "demos": "3/16-3/17"
+        "title":"Sprint 4.1: Connecting to Server",
+        "link":"",
+        "release": "10/21",
+        "due": "10/26",
+        "demos": "10/27-10/29"
     },
     {
         "id":8,
-        "title":"Sprint 5: Maps",
-        "link":"https://docs.google.com/document/d/1e5VB4FBUPLMg6j8XawiBbOvjjRy6bfRCgQ2qjaXElUk/edit",
-        "release": "3/18",
-        "due": "4/5",
-        "demos": "4/6-4/7"
+        "title":"Sprint 4.2: Connecting to Database",
+        "link":"",
+        "release": "10/28",
+        "due": "11/2",
+        "demos": "11/3-11/5"
     },
     {
         "id":9,
-        "title":"Maps Review + Reflection",
-        "link":"https://docs.google.com/document/d/1TcaPtU3gcgZdjmfo1hTf3jdrPIKBBeynlOXR7eBKnx8/edit",
-        "release": "4/8",
-        "due": "4/11",
-        "demos": "N/A"
+        "title":"Sprint 5.1: Front-End Map",
+        "link":"",
+        "release": "11/4",
+        "due": "11/9",
+        "demos": "11/10-11/12"
+    },
+    {
+        "id":10,
+        "title":"Sprint 5.2: Mapping Data",
+        "link":"",
+        "release": "11/11",
+        "due": "11/16",
+        "demos": "11/17-11/19"
     },
     {
         "id":10,
         "title":"Term Project",
-        "link":"https://docs.google.com/document/d/11tnrgpSHgjZ1XASdtpC5lyx3IPlbkg4Dgyqngr9OtHQ/edit#heading=h.pee6crlpaxz6",
-        "release": "2/27",
+        "link":"",
+        "release": "11/18",
         "due": "By demo",
-        "demos": "5/9-5/11"
-    },
-    {
-        "id":11,
-        "title":"TP: Requirements, Specs, and Mockups",
-        "link":"",
-        "release": "-",
-        "due": "4/12",
-        "demos": "4/13-4/14"
-    },
-    {
-        "id":12,
-        "title":"TP: Prototyping, Initial Dev, and Low-Level Design",
-        "link":"",
-        "release": "-",
-        "due": "4/19",
-        "demos": "4/20-4/21"
-    },
-    {
-        "id":13,
-        "title":"TP: Further Component Development",
-        "link":"",
-        "release": "-",
-        "due": "4/26",
-        "demos": "4/27-4/28"
-    },
-    {
-        "id":14,
-        "title":"TP: Integration",
-        "link":"",
-        "release": "-",
-        "due": "5/3",
-        "demos": "5/4-5/5"
-    },
-    {
-        "id":15,
-        "title":"TP: Code Walk",
-        "link":"",
-        "release": "-",
-        "due": "5/3",
-        "demos": "5/4-5/9"
+        "demos": "12/19-12/21"
     }
 ]
 

@@ -1,21 +1,4 @@
 [
-    {
-        "id":1,
-        "title":"Prerequisites",
-        "description":[
-            "Official prerequisites for cs0320 include one of {cs0160, cs0180, cs0190, cs0200}. Familiarity with Java serves as a soft prerequisite; if you don't feel comfortable with Java or object-oriented programming yet, you may find it helpful to take cs0200 before taking cs0320."
-        ]
-
-
-    },
-    {
-        "id":2,
-        "title":"Grading",
-        "description":[ 
-            "CSCI 0320 remains mandatory S/NC this semester and will be using a learning-goals focused grading system. You'll check off (\"earn badges\") for different learning categories in every sprint and you’ll need a certain number of badges for each category. This style of grading is also called \"mastery-based\" or \"standards-based\". Both of those terms invite misinterpretation, so we'll tend to speak of \"demonstrating command\" of a given learning category instead.",
-            "Barring special circumstances, badges can only be earned for work on the current sprint. After a sprint's code freeze has occurred, the code cannot be \"upgraded\" to earn that badge for that sprint. Instead, show improvement on the next sprint's objectives. For example, if a student doesn't earn the \"unit testing\" badge on the CSV sprint they should focus on their unit testing for Server."
-        ]
-    },
 
     {
         "id":3,
@@ -28,17 +11,8 @@
         "id":5,
         "title": "Late Policy",
         "description" : [
-            "Every student will receive 3 late days for use on either: the prototype development portion of the CSV, Mock (formerly known as Echo), Server, and REPL sprints (no more than 2 days late per sprint); the reflection period of the above sprints (no more than 1 day late per sprint); or the integration capstone (no more than 2 late days for the capstone). ",
-            "Every student will also receive 2 section passes. Using a section pass exempts you from the check-off requirements of all sections for the given week---both the 1-hour collab section and whichever gear up or discussion is held that week. (If all group members need to use a pass on a gear up week, reach out to your assigned mentor as soon as possible so that we can provide support.)"
-        
-        ]
-    },
-    {
-        "id":5,
-        "title": "Collab Section Reminders",
-        "description" : [
-            "cs0320 doesn't have one-on-one debugging hours with TAs. Instead, we have structured, TA-mentored collab sections where you will get debugging help—both from the TA and from each other. ",
-            "We expect you to bring both patience and an open mind to collab section. Don’t dismiss the format just because it’s different from the TA hours you may be used to. "
+            "Every student will receive 4 late days. A maximum of 2 late days may be used on a single sprint.",
+            "Every student will also receive 2 section passes. Using a section pass exempts you from the check-off requirements of all sections for the given week---both the 1-hour collab section and whichever gear up or discussion is held that week."
         
         ]
     },

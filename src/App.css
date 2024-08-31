@@ -131,7 +131,7 @@ canvas {
   animation: animate 5s linear infinite;
   margin-top: -5rem;
   margin-bottom: 5rem;
-
+  width: 300px;
 }
 
 @keyframes animate {
@@ -167,7 +167,8 @@ canvas {
 .table-header {
   border-bottom-width: 1px;
   --tw-border-opacity: 1;
-  border-color: rgba(55,65,81,var(--tw-border-opacity));
+  /* border-color: rgba(55,65,81,var(--tw-border-opacity)); */
+  border-color: #a32022;
   font-size: 1rem;
   line-height: 1.5rem;
   --tw-text-opacity: 1;
@@ -186,12 +187,22 @@ canvas {
   cursor: default;
 }
 
+.landing {
+  background-color: #fff4d9;
+}
+
+.navbar {
+  background-color: #c87610;
+  color: #fefcd3;
+}
+
 .typing-demo {
   width: 7ch;
   animation: typing 6s steps(7, end) infinite, blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
+  color: #c87610;
 }
 
 @keyframes typing {
@@ -219,8 +230,38 @@ canvas {
     line-height: 1.5rem;
   } */
 }
+
 .image-container {
   position: relative;
+  width:300px;
+  height:300px;
+}
+
+.image-flip {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease-in-out;
+}
+
+.image-flip:hover {
+  transform: rotateY(180deg);
+}
+
+.front-image, .back-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  backface-visibility: hidden; /* Hides the image when it is flipped to the back */
+}
+
+.back-image {
+  transform: rotateY(180deg); /* Flip the back image */
+  object-fit: contain; /* Ensures the image fits within the container without cropping */
 }
 
 .image-default, .image-hover {
@@ -236,7 +277,121 @@ canvas {
   opacity: 0;
 }
 
-.image-container:hover .image-hover {
-  opacity: 0.94; /* Adjust the transparency level as needed */
-  transition: opacity 0.5s ease
+.hyperlink {
+  color: #c54805;
+  font-weight: bold;
+}
+
+.software-title {
+  /* color: #551f13; */
+  color: #77360e;
+}
+
+.text-xl {
+  /* color: #551f13; */
+  /* color: #77360e; */
+  color: #a32022;
+}
+
+.body-text {
+  color: #551f13;
+}
+
+
+.image-container-1 {
+  display: flex;
+  /* gap: 10px; */
+  position: relative;
+}
+
+.scatter-image {
+  width: 120px;
+  height: 120px;
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+/* Define the scatter animations */
+.scatter-image:hover:nth-child(1) {
+  transform: translate(-50px, -50px) rotate(-15deg);
+  opacity: 0.8;
+}
+
+.scatter-image:hover:nth-child(2) {
+  transform: translate(50px, -50px) rotate(10deg);
+  opacity: 0.8;
+}
+
+.scatter-image:hover:nth-child(3) {
+  transform: translate(-50px, 50px) rotate(20deg);
+  opacity: 0.8;
+}
+
+.scatter-image:hover:nth-child(4) {
+  transform: translate(50px, 50px) rotate(-10deg);
+  opacity: 0.8;
+}
+
+.scatter-image:hover:nth-child(5) {
+  transform: translate(0px, -50px) rotate(5deg);
+  opacity: 0.8;
+}
+
+/* Reset the other images when hovering any image */
+.scatter-image:hover ~ .scatter-image {
+  transform: translate(0px, 0px) rotate(0deg);
+  opacity: 1;
+}
+
+.useful-links {
+  background-color:rgb(200, 118, 16, 0.5);
+}
+
+.card {
+  position: relative;
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+}
+
+.Picture1 {
+  position: absolute;
+  backface-visibility: hidden;
+  cursor: grab;
+}
+
+.card:hover {
+  transform: rotateY(180deg);
+}
+
+.Picture2Me {
+  position: absolute;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+  cursor: grab;
+}
+
+.thirtytwo {
+  color: #fff4d9;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.name {
+  /* color: #551f13; */
+  color: #77360e;
+}
+
+.pronoun-row {
+  color: #c54805;
+}
+
+p {
+  color: #551f13;
+}
+
+.dropdown {
+  color: #551f13;
+}
+
+table {
+  color: #551f13;
 }

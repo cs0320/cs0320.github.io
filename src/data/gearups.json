@@ -1,37 +1,65 @@
 [
   {
     "id": 1,
-    "title": "Sprint 1: CSV",
-    "date": "1/25-1/26",
-    "slides": "https://docs.google.com/presentation/d/1fAbRmhZ-cWLYlvjIHSKsHoRzkil_StONrLTcQm4h_58/edit#slide=id.p",
-    "recording": "https://drive.google.com/file/d/154uoPOWxtyDFoZ1I9bUbCY5pQzJmDmjL/view?usp=sharing"
+    "title": "CSV",
+    "date": "9/9-9/10",
+    "slides": "",
+    "recording": ""
   },
   {
     "id": 3,
-    "title": "Sprint 2: Server",
-    "date": "2/8-2/9",
-    "slides": "https://docs.google.com/presentation/d/1oLtQMowi8ZtbaoQ0V-U1YNYy6EPC4Ppp9rYyo11EksY/edit#slide=id.p",
-    "recording": "https://drive.google.com/file/d/1xHqaXpnBiCI3mV9Mqr1FoMLSbGfItS19/view?usp=sharing"
+    "title": "Server",
+    "date": "9/23-9/24",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 1,
+    "title": "Discussion 1: Stakeholders and Design Thinking",
+    "date": "9/30-10/1",
+    "slides": "",
+    "recording": ""
   },
   {
     "id": 5,
-    "title": "Sprint 3: Mock",
-    "date": "2/22-2/23",
-    "slides": "https://docs.google.com/presentation/d/1qZC8m9ZgSUkkQ49_Q4KFjDJXCpqnQhmeNgAGv4JEd-0/edit?usp=sharing",
-    "recording": "https://drive.google.com/file/d/1CFN50Wtvuj5DBkNrnzPiYGWlCTrcgvf7/view?usp=sharing"
+    "title": "Mock",
+    "date": "10/7-10/8",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 1,
+    "title": "Discussion 2: From Maps to Algorithms",
+    "date": "10/14-10/15",
+    "slides": "",
+    "recording": ""
   },
   {
     "id": 7,
-    "title": "Sprint 4: REPL",
-    "date": "3/7-3/8",
-    "slides": "https://docs.google.com/presentation/d/1H_N2JDbVGTVYsrU89le4DDJm7gyFep4ikv_qJ2Kcwh0/edit?usp=sharing",
-    "recording": "https://drive.google.com/file/d/1cfX-or24Kyu55RBq2q14GvUUpOtqBQ-O/view"
+    "title": "REPL",
+    "date": "10/21-10/22",
+    "slides": "",
+    "recording": ""
   },
   {
     "id": 7,
-    "title": "Sprint 5: Maps",
-    "date": "3/14-3/22",
-    "slides": "https://docs.google.com/document/d/1JmFyUBVsZlvY9XiiYDBQw2zK2O4nlC-Prc6vJs1PjY4/edit?usp=sharing",
+    "title": "Maps",
+    "date": "10/28-10/29",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 7,
+    "title": "Firebase",
+    "date": "11/4-11/5",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 1,
+    "title": "Discussion 3: Labor in/and AI",
+    "date": "11/11-11/12",
+    "slides": "",
     "recording": ""
   }
 ]

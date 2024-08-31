@@ -7,8 +7,8 @@ function DropDown(props: { title: string, description: string[] }) {
             <Disclosure>
                 {({ open }) => (
                     <>
-                        <div className="border-b border-violet-500">
-                            <Disclosure.Button className="text-violet-500 py-4 font-bold text-xl md:text-2xl w-full text-left focus:underline flex justify-between items-center hover-fade">
+                        <div className="border-b border-[#c54805]">
+                            <Disclosure.Button className="py-4 font-bold dropdown md:text-2xl w-full text-left focus:underline flex justify-between items-center hover-fade">
                                 {props.title}
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
@@ -29,23 +29,27 @@ function DropDown(props: { title: string, description: string[] }) {
                             <Disclosure.Panel>
                                 {/* Your collapsible content goes here */}
 
-                                <p className="mt-1 mb-3"><ul className="list-outside pl-8 list-disc text-violet-950">
-                                {props.title === 'How to: Collab Section' && 
+                                <p className="mt-1 mb-3"><ul className="list-outside pl-8 list-disc">
+                                {props.title === 'How To: Collab Section' && 
                                     <div>
                                         <li className='mb-2'>
-                                        Arrive at your assigned collab section at the proper time every other week — use the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/e/1FAIpQLSccc2O9xFprtni4m5TAtRfE6DoI7F-F3ffLJwjee40VnDvTAQ/viewform'>swap form</a> if you can't make it.
+                                        You will serve as a debugging partner once a week for 1 hour during your assigned collab section slot. 
                                         </li>
                                         <li className='mb-2'>
-                                        Fill out the <a className='underline hover:text-violet-500' href='https://docs.google.com/forms/d/e/1FAIpQLSexW3b6QUpo5WjLMacRvETeqJmpaZnEZUhdyA4W6AL26ZBpSg/viewform?usp=sharing'>Debugging Partner Form</a> for each student you help
+                                        As a debugging partner, you will spend a maximum of 20 minutes per student + go through one iteration of the Debugging Recipe. After finishing, fill out the debugging partner form.
                                         </li>
                                         <li className='mb-2'>
-                                        Remember, you only need to spend 20 minutes per student + go through one iteration of the Debugging Recipe. 
+                                        If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline' href='https://hours.cs.brown.edu/'>hours.cs.brown.edu</a>
+                                        </li>
+                                    </div>
+                                    }
+                                    {props.title === 'Collab Section Forms' && 
+                                    <div>
+                                        <li className='mb-2'>
+                                        <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSeXeBfuO3yTzTiyZhVXbyb0J0y0u3IY_s7PG0tcm2Mqwu3mFA/viewform?usp=sf_link'>Debugging Partner Form</a>
                                         </li>
                                         <li className='mb-2'>
-                                        If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline hover:text-violet-500' href='https://hours.cs.brown.edu/'>hours.cs.brown.edu</a>
-                                        </li>
-                                        <li className='mb-2'>
-                                        Make sure you have a concrete question! If you have a question about getting started, design, or prototyping, please attend conceptual hours instead.
+                                        <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSfjYo0ccOuz4sJTY-1LoYN-YLIQryNenpTeQJBKsFFSjucw-g/viewform?usp=sf_link'>Collab Section Swap Form</a>
                                         </li>
                                     </div>
                                     }
@@ -62,7 +66,7 @@ function DropDown(props: { title: string, description: string[] }) {
                                     {props.title === 'CS0320 Manifesto' && <div>
                                         <blockquote>
                                             "Software engineering is about more than just programming. Good engineers often spend more
-                                            time reading and reviewing code than writing it. If you're skeptical, read <b><a href="https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more">this
+                                            time reading and reviewing code than writing it. If you're skeptical, read <b><a className="hyperlink" href="https://linux.slashdot.org/story/20/07/03/2133201/linus-torvalds-i-do-no-coding-any-more">this
                                                 short statement</a></b> by Linus Torvalds, one of the world's most famous programmers.
                                             <br></br>
                                             <br></br>
@@ -95,42 +99,31 @@ function DropDown(props: { title: string, description: string[] }) {
                                             "
 
                                         </blockquote>
-                                        <p className='mt-3'>– cs0320 Manifesto via the <b><a className='quick-link hover:text-violet-500' href="https://docs.google.com/document/d/1HCSUjI2X3Jp-kRHjl5q9cLnDFE-3LTmHu_OpnmMXAao/edit?usp=drive_link">Course
+                                        <p className='mt-3'>– cs0320 Manifesto via the <b><a className='quick-link' href="https://docs.google.com/document/d/1ejCvcbb-nJBkiQZlNDAEmxYf-H5lXQdVBZDkaWsu7so/edit?usp=sharing">Course
                                             Missive</a></b></p>
                                     </div>
                                     }
                                     {props.title === 'More Resources' && <div>
-                                        <li className='underline hover:text-violet-500'>
-                                            <a  href='https://docs.google.com/document/d/1HCSUjI2X3Jp-kRHjl5q9cLnDFE-3LTmHu_OpnmMXAao/edit?usp=drive_link'>Missive</a>
+                                        <li className='underline'>
+                                            <a  href='https://docs.google.com/document/d/1ejCvcbb-nJBkiQZlNDAEmxYf-H5lXQdVBZDkaWsu7so/edit?usp=sharing'>Missive</a>
                                         </li>
-                                        <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1DQHKZyFUsyjdd8pPXNAsFB1lgXzmT7b0d8GL3ReYnF4/edit?usp=drive_link'>Syllabus</a>
+                                        <li className='underline'>
+                                            <a href='https://docs.google.com/document/d/17aDeWqIe4OHaw4jw-ZydASAOcg7oU-JKtJma1bhTE2M/edit?usp=sharing'>Syllabus</a>
                                
                                         </li>
-                                        <li className='underline hover:text-violet-500'>
+                                        <li className='underline'>
                                         <a href='https://www-oreilly-com.revproxy.brown.edu/library/view/effective-java/9780134686097/?ar'>Textbook</a>
 
                                         </li>
-                                        <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1evMCV9u83hPmRm_QdPAOfjQxF4UwLKJs9seRRd2Opp0/edit?usp=drive_link'>Setup Guide</a>
+                                        <li className='underline'>
+                                            <a href='https://docs.google.com/document/d/1hke8VdRwDEBI6FH5c3z0-h5Pr9nnPMZF2Ngfc-YqjiY/edit?usp=sharing'>Documentation and Style Guide</a>
 
                                         </li>
-                                        <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1ryVWScIt7edAAXY9g24_xd6cRqfRmv15bju3SsLNzJk/edit?usp=drive_link'>Documentation and Style Guide</a>
-
-                                        </li>
-                                        <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/forms/d/e/1FAIpQLSfr8ELAYusLPSPEJcIA7Qjvu2BtDilXffdDibSKnW6IP41jqA/viewform?usp=sharing'>Collab Section Swap Form</a>
-
-                                        </li>
-                                        <li className='underline hover:text-violet-500'>
+                                        <li className='underline'>
                                             <a href='https://docs.google.com/document/d/1Rwwenh6TXRbz5IEtLCTmkK88ZHaYjlOBf1NahO2q-wA/edit?usp=sharing'>Git Guide</a>
 
                                         </li>
-                                        <li className='underline hover:text-violet-500'>
-                                            <a href='https://docs.google.com/document/d/1tnlnhndoJsNlaeFGhnrgSLnshxiO48POYmQVhxW5Cdo/edit?usp=sharing'>Mentor Meeting Student Guide</a>
-
-                                        </li>
+                                        Demo recipe
                                         {/* https://docs.google.com/document/d/1tnlnhndoJsNlaeFGhnrgSLnshxiO48POYmQVhxW5Cdo/edit?usp=sharing */}
                                     </div>
                                     }
