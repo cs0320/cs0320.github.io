@@ -1,63 +1,63 @@
 [
   {
     "id": 1,
-    "title": "CSV",
+    "title": "Preparing for CSV",
     "date": "9/9-9/10",
     "slides": "",
     "recording": ""
   },
   {
     "id": 3,
-    "title": "Server",
+    "title": "Preparing to build an API Server",
     "date": "9/23-9/24",
     "slides": "",
     "recording": ""
   },
   {
     "id": 1,
-    "title": "Discussion 1: Stakeholders and Design Thinking",
+    "title": "Stakeholders and Design Thinking",
     "date": "9/30-10/1",
     "slides": "",
     "recording": ""
   },
   {
     "id": 5,
-    "title": "Mock",
+    "title": "Preparing to build a Web Application",
     "date": "10/7-10/8",
     "slides": "",
     "recording": ""
   },
   {
     "id": 1,
-    "title": "Discussion 2: From Maps to Algorithms",
+    "title": "Technology: From Maps to Algorithms",
     "date": "10/14-10/15",
     "slides": "",
     "recording": ""
   },
   {
     "id": 7,
-    "title": "REPL",
+    "title": "Preparing for Integration",
     "date": "10/21-10/22",
     "slides": "",
     "recording": ""
   },
   {
     "id": 7,
-    "title": "Maps",
+    "title": "Preparing for Maps: Front-end",
     "date": "10/28-10/29",
     "slides": "",
     "recording": ""
   },
   {
     "id": 7,
-    "title": "Firebase",
+    "title": "Preparing for Maps: Firebase",
     "date": "11/4-11/5",
     "slides": "",
     "recording": ""
   },
   {
     "id": 1,
-    "title": "Discussion 3: Labor in/and AI",
+    "title": "Labor in/and AI",
     "date": "11/11-11/12",
     "slides": "",
     "recording": ""
