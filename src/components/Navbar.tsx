@@ -7,7 +7,7 @@ function Navbar() {
     {/* <img className="icon" src="/pumpkin.png"/> */}
         <div className="relative flex flex-col md:flex-row">
             {/* <span className="mx-auto thirtytwo leading-none ">cs0320</span> */}
-            <a href="#" className="mx-auto thirtytwo leading-none">
+            <a href="/#" className="mx-auto thirtytwo leading-none">
                 cs0320
             </a>
         </div>
