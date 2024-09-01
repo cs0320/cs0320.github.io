@@ -2,11 +2,11 @@
     {
         "name":"Tim Nelson",
         "role": "Professor",
-        "cslogin":"tnelson",
+        "cslogin":"tbn",
         "pronouns":"he/him/his",
         "zodiac":"Sagitarrius",
         "hometown":"Wherever the strategy pattern is used",
-        "bio": "Good to meet you all! I'm a first-generation college student who attended community college, a commuter-focused state college, the 'college' of an industry job, a STEM university, and... now teaches at Brown. Someone who enjoys puns might call this a collage of colleges, although not quite a universe of universities. I think that asking someone how many programming languages they know is like asking a doctor how many diseases they have, but I'm always happy to talk (and learn) about any of them.",
+        "bio": "Good to meet you all! I'm a first-generation college student who attended community college, a commuter-focused state college, the 'college' of an industry job, a STEM university, and... now teaches at Brown. Someone who enjoys puns might call this a collage of colleges, although not quite a universe of universities.",
         "img": "/staff/tim.jpg",
         "hover":"/pumpkin.png"
     },
