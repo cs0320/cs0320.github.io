@@ -6,7 +6,10 @@ function Navbar() {
     <div className="container flex flex-col flex-wrap items-center justify-between py-5 mx-auto md:flex-row max-w-7xl">
     {/* <img className="icon" src="/pumpkin.png"/> */}
         <div className="relative flex flex-col md:flex-row">
-            <span className="mx-auto thirtytwo leading-none ">cs0320</span>
+            {/* <span className="mx-auto thirtytwo leading-none ">cs0320</span> */}
+            <a href="#" className="mx-auto thirtytwo leading-none">
+                cs0320
+            </a>
         </div>
 
         <div className="inline-flex items-center ml-5 space-x-10 lg:justify-end flex-wrap">
