@@ -33,10 +33,10 @@ function DropDown(props: { title: string, description: string[] }) {
                                 {props.title === 'How To: Collab Section' && 
                                     <div>
                                         <li className='mb-2'>
-                                        You will serve as a debugging partner once a week for 1 hour during your assigned collab section slot. 
+                                        You will serve as a collab partner for 1 hour every other week during your assigned collab section slot. Collab partners discuss and help with through bugs and design questions that other students bring.
                                         </li>
                                         <li className='mb-2'>
-                                        As a debugging partner, you will spend a maximum of 20 minutes per student + go through one iteration of the Debugging Recipe. After finishing, fill out the debugging partner form.
+                                        As a collab partner helping with a bug, you will spend a maximum of 20 minutes per student (one iteration of the Debugging Recipe). After finishing, fill out the debugging partner form.
                                         </li>
                                         <li className='mb-2'>
                                         If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline' href='https://hours.cs.brown.edu/'>hours.cs.brown.edu</a>
