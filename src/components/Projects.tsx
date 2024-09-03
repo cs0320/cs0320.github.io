@@ -52,7 +52,7 @@ function Projects() {
         <img className='pb-16' src='/acorn_divider.png'></img>
           <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">Gear-Ups</h1>
           <div className="text-sm md:text-base">
-            <p>Gear-ups are interactive, lecture-style sections led by TAs that reinforce content from lecture with a specific emphasis on applying concepts to the current sprint. Gear-ups are held on the Thursday and Friday after each project's release. Attendance is mandatory, and gear-up sections will be assigned after shopping period ends.</p>
+            <p>Gear-ups are interactive, lecture-style sections led by TAs that reinforce content from lecture with a specific emphasis on applying concepts to the current sprint. Gear-ups are held on the days immediately after each project's release. Attendance is mandatory, and gear-up sections will be assigned after shopping period ends.</p>
             <table className="table">
               <thead>
                 <tr className="table-header">
