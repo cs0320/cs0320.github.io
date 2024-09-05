@@ -32,35 +32,22 @@ function DropDown(props: { title: string, description: string[] }) {
                                 <p className="mt-1 mb-3"><ul className="list-outside pl-8 list-disc">
                                 {props.title === 'How To: Collab Section' && 
                                     <div>
+                                    </div>
+                                    }
+                                    {props.title === 'Collab Section Info' && 
+                                    <div>
                                         <li className='mb-2'>
                                         You will serve as a collab partner for 1 hour every other week during your assigned collab section slot. Collab partners discuss and help with through bugs and design questions that other students bring.
                                         </li>
                                         <li className='mb-2'>
-                                        As a collab partner helping with a bug, you will spend a maximum of 20 minutes per student (one iteration of the Debugging Recipe). After finishing, fill out the debugging partner form.
+                                        As a collab partner helping with a bug, you will spend a maximum of 20 minutes per student (one iteration of the Debugging Recipe).
                                         </li>
                                         <li className='mb-2'>
-                                        If you're the one with a bug, make sure to sign up for "Debugging Partner Queue" on <a className='underline' href='https://hours.cs.brown.edu/'>hours.cs.brown.edu</a>
-                                        </li>
-                                    </div>
-                                    }
-                                    {props.title === 'Collab Section Forms' && 
-                                    <div>
-                                        <li className='mb-2'>
-                                        <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSeXeBfuO3yTzTiyZhVXbyb0J0y0u3IY_s7PG0tcm2Mqwu3mFA/viewform?usp=sf_link'>Debugging Partner Form</a>
+                                        <a className='underline' href='https://docs.google.com/document/d/1rPhDvm2U6womNb74EZLA7Zmt_KIoMObtMvG1PLjWgho/edit?usp=sharing'>Collab Section Guide</a>
                                         </li>
                                         <li className='mb-2'>
                                         <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSfjYo0ccOuz4sJTY-1LoYN-YLIQryNenpTeQJBKsFFSjucw-g/viewform?usp=sf_link'>Collab Section Swap Form</a>
                                         </li>
-                                    </div>
-                                    }
-                                    {props.title === 'How to: Conceptual Hours' && 
-                                    <div>
-                                        <li className='mb-2'>
-                                        Conceptual hours are for questions about getting started, design, or prototyping. We intend for these hours to be a more collaborative space between students and TAs, but not a place for debugging code.
-                                    </li>
-                                    <li className='mb-2'>
-                                    We can assist with setup issues but our main goal is to help you get past any blockers that stop you from getting started. If you have a concrete question or bug, please attend one of the collab sections.
-                                    </li>
                                     </div>
                                     }
                                     {props.title === 'CS0320 Manifesto' && <div>
