@@ -6,5 +6,13 @@
         "notes":"https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
         "code":"",
         "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aec951e6-5046-4937-9a97-b1da00d0bfe9"
+    },
+    {
+        "id":1,
+        "date":"9/10",
+        "topic":"Testing, Strategies, and the Debugging Recipe",
+        "notes":"https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
+        "code":"",
+        "recording":""
     }
 ]
