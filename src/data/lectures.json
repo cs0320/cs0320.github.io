@@ -14,5 +14,13 @@
         "notes":"https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
         "code":"",
         "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf7aeb9-aa28-4a64-ad39-b1da00d0c02a"
+    },
+    {
+        "id":1,
+        "date":"9/12",
+        "topic":"User Interfaces, Testing More Than Methods",
+        "notes":"https://cs0320.github.io/notes/mocking-console/mocking-console.html",
+        "code":"",
+        "recording":""
     }
 ]
