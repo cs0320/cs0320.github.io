@@ -13,7 +13,7 @@ function Projects() {
            <img className='pb-16' src='/leaf_divider.png'></img>
           <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">Assignments</h1>
           <div className="text-sm md:text-base">
-            <p>Project handouts are released at <b>8:00 AM ET</b> on the specified release day. Code submissions are due in Gradescope by <b>3:00 PM ET</b> on the specified code freeze date. Demos will take place sometime within the demo window, depending on your availabilities. </p>
+            <p>Project handouts are released at <b>8:00 AM ET</b> on the specified release day. Code submissions are due in Gradescope by <b>3:00 PM ET</b> on the specified code freeze date. Synchronous demos will take place sometime within the demo window, depending on your and your mentor's availabilities. Asynchronous demos are due in Gradescope by 3pm on the last day in the demo window.</p>
             <table className="table">
               <thead>
                 <tr className="table-header">
