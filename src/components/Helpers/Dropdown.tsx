@@ -114,6 +114,10 @@ function DropDown(props: { title: string, description: string[] }) {
                                             <a href='https://docs.google.com/document/d/1t7Fe1qL1n-57poLHckn0t1NuWFpU-bpzkPxjq5SrF7I/edit?usp=sharing'>Demo Recipe</a>
 
                                         </li>
+                                        <li className='underline'>
+                                            <a href='http://cs0320.github.io/notes/'>Lecture Notes with Exercises</a>
+
+                                        </li>
         
                                         {/* https://docs.google.com/document/d/1tnlnhndoJsNlaeFGhnrgSLnshxiO48POYmQVhxW5Cdo/edit?usp=sharing */}
                                     </div>

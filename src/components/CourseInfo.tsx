@@ -27,7 +27,6 @@ function CourseInfo() {
                 <a className="quick-link" href="https://edstem.org/us/courses/59996/discussion/" target="_blank">EdStem</a>
                 <a className="quick-link" href="https://hours.cs.brown.edu/" target="_blank">Hours</a>
                 <a className="quick-link" href="https://www.gradescope.com/courses/796961" target="_blank">Gradescope</a>
-                <a className="quick-link" href="http://cs0320.github.io/notes/" target="_blank">Lecture Notes with Exercises</a>
                 <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfr-464cuKCSqz0qH5fHloOQB-YYYZfwHoS-EJ_DEQEf7Syhg/viewform" target="_blank">Anonymous Feedback</a>
                 <a className="quick-link" href="mailto:cs0320headtas@lists.brown.edu" target="_blank">HTA Email</a>
               </div>
