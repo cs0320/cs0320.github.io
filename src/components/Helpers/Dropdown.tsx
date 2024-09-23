@@ -34,7 +34,7 @@ function DropDown(props: { title: string, description: string[] }) {
                                     <div>
                                     </div>
                                     }
-                                    {props.title === 'Collab Section Info' && 
+                                    {props.title === 'Collab Section Info/Forms' && 
                                     <div>
                                         <li className='mb-2'>
                                         You will serve as a collab partner for 1 hour every other week during your assigned collab section slot. Collab partners discuss and help with through bugs and design questions that other students bring.
