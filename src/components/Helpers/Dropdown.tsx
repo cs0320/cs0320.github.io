@@ -50,6 +50,20 @@ function DropDown(props: { title: string, description: string[] }) {
                                         </li>
                                     </div>
                                     }
+                                    {props.title === 'Gearup Info/Forms' && 
+                                    <div>
+                                        <li className='mb-2'>
+                                        Gear-ups are interactive, lecture-style sections led by TAs that reinforce content from lecture with a specific emphasis on applying concepts to the current sprint. Gear-ups are held on the days immediately after each project's release. Attendance is mandatory.
+                                        </li>
+                                        <li className='mb-2'>
+                                        For the most part, sprint gearups will alternate with mandatory discussion sections. Check the calendar for further details.
+                                        </li>
+                                        <li className='mb-2'>
+                                        <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSf2281BB3EuzP5P9DoO8AgDTAuIixk5kuDknQPt3RwKgdfxoA/viewform?usp=sf_link'>Gearup Swap Form</a>
+                                        </li>
+                                    </div>
+                                    }
+        
                                     {props.title === 'CS0320 Manifesto' && <div>
                                         <blockquote>
                                             "Software engineering is about more than just programming. Good engineers often spend more

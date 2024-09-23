@@ -28,8 +28,8 @@ function Calendar() {
                 </p>
                 <div className="text-sm md:text-base pt-6">
             
-                <DropDown title="Collab Section Info" description={[]}  />
-                {/* <DropDown title="How To: Collab Section" description={[]}  /> */}
+                <DropDown title="Collab Section Info/Forms" description={[]}  />
+                <DropDown title="Gearup Info/Forms" description={[]}  />
                 {/* <DropDown title="How to: Conceptual Hours" description={[]}  /> */}
                 </div>
             
