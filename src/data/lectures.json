@@ -38,5 +38,13 @@
         "notes":"https://cs0320.github.io/notes/apis-integration/apis-integration.html",
         "code":"",
         "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c92f6545-440d-45f9-aae9-b1da00d0c085"    
+    },
+    {
+        "id":1,
+        "date":"9/24",
+        "topic":"Groups Projects and Code Review",
+        "notes":"https://cs0320.github.io/notes/slides-links/groups-and-code-review.html",
+        "code":"",
+        "recording": ""    
     }
 ]
