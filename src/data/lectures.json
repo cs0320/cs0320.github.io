@@ -46,5 +46,13 @@
         "notes":"https://cs0320.github.io/notes/slides-links/groups-and-code-review.html",
         "code":"",
         "recording": ""    
+    },
+    {
+        "id":1,
+        "date":"9/26",
+        "topic":"Webapps: HTML, CSS, and TypeScript",
+        "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html#webapps-html-css-and-typescript",
+        "code":"",
+        "recording": ""    
     }
 ]
