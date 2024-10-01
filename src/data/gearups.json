@@ -28,13 +28,6 @@
     "recording": ""
   },
   {
-    "id": 1,
-    "title": "Technology: From Maps to Algorithms",
-    "date": "10/14-10/15",
-    "slides": "",
-    "recording": ""
-  },
-  {
     "id": 7,
     "title": "Preparing for Integration",
     "date": "10/21-10/22",
@@ -42,9 +35,16 @@
     "recording": ""
   },
   {
+    "id": 1,
+    "title": "Technology: From Maps to Algorithms",
+    "date": "10/28-10/29",
+    "slides": "",
+    "recording": ""
+  },
+  {
     "id": 7,
     "title": "Labor in/and AI",
-    "date": "10/28-10/29",
+    "date": "TBD",
     "slides": "",
     "recording": ""
   },
