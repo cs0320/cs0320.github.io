@@ -62,5 +62,13 @@
         "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html#webapps-html-css-and-typescript",
         "code":"",
         "recording": ""    
+    },
+    {
+        "id":1,
+        "date":"10/3",
+        "topic":"Generics with Wildcards, Typecasting, and Narrowing",
+        "notes":"https://cs0320.github.io/notes/generics-wildcards/generics-wildcards.html",
+        "code":"",
+        "recording": ""    
     }
 ]
