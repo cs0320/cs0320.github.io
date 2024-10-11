@@ -1,124 +1,122 @@
 [
     {
-        "id":1,
-        "date":"9/5",
-        "topic":"Success In 0320",
-        "notes":"https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
-        "code":"",
-        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aec951e6-5046-4937-9a97-b1da00d0bfe9"
+        "id": 1,
+        "date": "9/5",
+        "topic": "Success In 0320",
+        "notes": "https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aec951e6-5046-4937-9a97-b1da00d0bfe9"
     },
     {
-        "id":2,
-        "date":"9/10",
-        "topic":"Testing, Strategies, and the Debugging Recipe",
-        "notes":"https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
-        "code":"",
-        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf7aeb9-aa28-4a64-ad39-b1da00d0c02a"
+        "id": 2,
+        "date": "9/10",
+        "topic": "Testing, Strategies, and the Debugging Recipe",
+        "notes": "https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf7aeb9-aa28-4a64-ad39-b1da00d0c02a"
     },
     {
-        "id":3,
-        "date":"9/12",
-        "topic":"User Interfaces, Testing More Than Methods",
-        "notes":"https://cs0320.github.io/notes/mocking-console/mocking-console.html",
-        "code":"",
-        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f82a200-f6e1-445a-ab3d-b1da00d0c043"
+        "id": 3,
+        "date": "9/12",
+        "topic": "User Interfaces, Testing More Than Methods",
+        "notes": "https://cs0320.github.io/notes/mocking-console/mocking-console.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f82a200-f6e1-445a-ab3d-b1da00d0c043"
     },
     {
-        "id":4,
-        "date":"9/17",
-        "topic":"Proxies and Adapters",
-        "notes":"https://cs0320.github.io/notes/proxies-adapters/proxies-adapters.html",
-        "code":"",
-        "recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efb1cfa9-04b6-43e1-a70c-b1da00d0c068"
+        "id": 4,
+        "date": "9/17",
+        "topic": "Proxies and Adapters",
+        "notes": "https://cs0320.github.io/notes/proxies-adapters/proxies-adapters.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efb1cfa9-04b6-43e1-a70c-b1da00d0c068"
     },
     {
-        "id":5,
-        "date":"9/19",
-        "topic":"Web APIs and Integration Testing with Mocks",
-        "notes":"https://cs0320.github.io/notes/apis-integration/apis-integration.html",
-        "code":"",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c92f6545-440d-45f9-aae9-b1da00d0c085"    
+        "id": 5,
+        "date": "9/19",
+        "topic": "Web APIs and Integration Testing with Mocks",
+        "notes": "https://cs0320.github.io/notes/apis-integration/apis-integration.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c92f6545-440d-45f9-aae9-b1da00d0c085"
     },
     {
-        "id":6,
-        "date":"9/24",
-        "topic":"Groups Projects and Code Review",
-        "notes":"https://cs0320.github.io/notes/slides-links/groups-and-code-review.html",
-        "code":"",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56f794a0-4d49-43da-8ca3-b1da00d0c0a4"      
+        "id": 6,
+        "date": "9/24",
+        "topic": "Groups Projects and Code Review",
+        "notes": "https://cs0320.github.io/notes/slides-links/groups-and-code-review.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56f794a0-4d49-43da-8ca3-b1da00d0c0a4"
     },
     {
-        "id":7,
-        "date":"9/26",
-        "topic":"Webapps: HTML, CSS, and TypeScript",
-        "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html#webapps-html-css-and-typescript",
-        "code":"",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5ffdfba-9b44-420a-8aa1-b1da00d0c0be"    
+        "id": 7,
+        "date": "9/26",
+        "topic": "Webapps: HTML, CSS, and TypeScript",
+        "notes": "https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html#webapps-html-css-and-typescript",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5ffdfba-9b44-420a-8aa1-b1da00d0c0be"
     },
     {
-        "id":8,
-        "date":"10/1",
-        "topic":"Webapps: HTML, CSS, and TypeScript, Continued",
-        "notes":"https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html#webapps-html-css-and-typescript",
-        "code":"",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ed58e0c-ca8e-4048-b775-b1da00d0c0d9"    
+        "id": 8,
+        "date": "10/1",
+        "topic": "Webapps: HTML, CSS, and TypeScript, Continued",
+        "notes": "https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html#webapps-html-css-and-typescript",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ed58e0c-ca8e-4048-b775-b1da00d0c0d9"
     },
     {
-        "id":9,
-        "date":"10/3",
-        "topic":"Generics with Wildcards, Typecasting, and Narrowing",
-        "notes":"https://cs0320.github.io/notes/generics-wildcards/generics-wildcards.html",
-        "code":"",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20083035-7b1f-4cc9-a17b-b1da00d0c0f6"    
+        "id": 9,
+        "date": "10/3",
+        "topic": "Generics with Wildcards, Typecasting, and Narrowing",
+        "notes": "https://cs0320.github.io/notes/generics-wildcards/generics-wildcards.html",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20083035-7b1f-4cc9-a17b-b1da00d0c0f6"
     },
     {
-        "id":10,
-        "date":"10/8",
-        "topic":"Web Accessibility 'Mini Lecture'",
-        "notes":"https://docs.google.com/presentation/d/1fharpWN8yG1HWTFwCgqde_6LQtyxVTfaqJyOt9s306U",
-        "code":"https://github.com/cs0320/class-livecode/tree/main/F24/vignettes/flex_media",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c32ab3d9-0d1c-4eee-b8da-b1da00d0c110"    
+        "id": 10,
+        "date": "10/8",
+        "topic": "Web Accessibility 'Mini Lecture'",
+        "notes": "https://docs.google.com/presentation/d/1fharpWN8yG1HWTFwCgqde_6LQtyxVTfaqJyOt9s306U",
+        "code": "https://github.com/cs0320/class-livecode/tree/main/F24/vignettes/flex_media",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c32ab3d9-0d1c-4eee-b8da-b1da00d0c110"
     },
     {
-        "id":11,
-        "date":"10/10",
-        "topic":"Final Project and Fuzz Testing",
-        "notes":"",
-        "code":"",
-        "recording": ""    
+        "id": 11,
+        "date": "10/10",
+        "topic": "Final Project and Fuzz Testing",
+        "notes": "",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c6491b3-0a59-48cb-9d38-b1da00d0c126"
     },
     {
-        "id":12,
-        "date":"10/15",
-        "topic":"Async Part 1: Concurrency in Java",
-        "notes":"",
-        "code":"",
-        "recording": ""    
+        "id": 12,
+        "date": "10/15",
+        "topic": "Async Part 1: Concurrency in Java",
+        "notes": "",
+        "code": "",
+        "recording": ""
     },
     {
-        "id":13,
-        "date":"10/17",
-        "topic":"Async Part 2: Asynchrony in TypeScript",
-        "notes":"",
-        "code":"",
-        "recording": ""    
+        "id": 13,
+        "date": "10/17",
+        "topic": "Async Part 2: Asynchrony in TypeScript",
+        "notes": "",
+        "code": "",
+        "recording": ""
     },
     {
-        "id":14,
-        "date":"10/22",
-        "topic":"Routing and Authentication",
-        "notes":"",
-        "code":"",
-        "recording": ""    
+        "id": 14,
+        "date": "10/22",
+        "topic": "Routing and Authentication",
+        "notes": "",
+        "code": "",
+        "recording": ""
     },
     {
-        "id":15,
-        "date":"10/24",
-        "topic":"Guest Lecture",
-        "notes":"",
-        "code":"",
-        "recording": ""    
+        "id": 15,
+        "date": "10/24",
+        "topic": "Guest Lecture",
+        "notes": "",
+        "code": "",
+        "recording": ""
     }
-
-    
 ]
