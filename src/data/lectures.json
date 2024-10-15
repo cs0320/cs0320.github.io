@@ -91,7 +91,7 @@
         "id": 12,
         "date": "10/15",
         "topic": "Async Part 1: Concurrency in Java",
-        "notes": "",
+        "notes": "https://cs0320.github.io/notes/java-concurrency/java-concurrency.html",
         "code": "",
         "recording": ""
     },
