@@ -106,15 +106,111 @@
     {
         "id": 14,
         "date": "10/22",
-        "topic": "Routing and Authentication",
+        "topic": "Authentication (with setup exercise)",
+        "notes": "",
+        "code": "",
+        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83220d5e-3f44-423a-b294-b1da00d0c177"
+    },
+    {
+        "id": 15,
+        "date": "10/24",
+        "topic": "Guest Lecture: Michael Ljung",
         "notes": "",
         "code": "",
         "recording": ""
     },
     {
-        "id": 15,
-        "date": "10/24",
-        "topic": "Guest Lecture",
+        "id": 16,
+        "date": "10/29",
+        "topic": "TBD",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 17,
+        "date": "10/31",
+        "topic": "TBD",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 18,
+        "date": "11/5",
+        "topic": "No class (Brown holiday)",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 19,
+        "date": "11/7",
+        "topic": "Guest Lecture: Sam Dooman",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 20,
+        "date": "11/12",
+        "topic": "Guest Lecture: Laila Gamaleldin",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 21,
+        "date": "11/14",
+        "topic": "TBD",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 22,
+        "date": "11/19",
+        "topic": "Guest Lecture: Viktor Gavrielov",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 23,
+        "date": "11/21",
+        "topic": "TBD",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 24,
+        "date": "11/26",
+        "topic": "TBD",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 25,
+        "date": "11/28",
+        "topic": "No class (Fall break)",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 26,
+        "date": "12/3",
+        "topic": "TBD",
+        "notes": "",
+        "code": "",
+        "recording": ""
+    },
+    {
+        "id": 27,
+        "date": "12/5",
+        "topic": "TBD",
         "notes": "",
         "code": "",
         "recording": ""
