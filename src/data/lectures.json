@@ -162,8 +162,8 @@
     {
         "id": 21,
         "date": "11/14",
-        "topic": "TBD",
-        "notes": "",
+        "topic": "Thinking About Algorithms",
+        "notes": "https://cs0320.github.io/notes/algorithms/algorithms.html",
         "code": "",
         "recording": ""
     },
