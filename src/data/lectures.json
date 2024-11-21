@@ -178,8 +178,8 @@
     {
         "id": 23,
         "date": "11/21",
-        "topic": "TBD",
-        "notes": "",
+        "topic": "Security And Threat Modeling (All Too Briefly)",
+        "notes": "https://cs0320.github.io/notes/security/security_and_threat_modeling.html",
         "code": "",
         "recording": ""
     },
