@@ -355,7 +355,7 @@ canvas {
 
 .useful-links {
   background-color:rgb(15, 145, 44, 0.25);
-  color: black;
+  color: #5e311c;
   /* font-weight: bold; */
 }
 
@@ -398,7 +398,7 @@ canvas {
 }
 
 p {
-  color: black;
+  color:#5e311c;
 }
 
 .dropdown {
@@ -406,5 +406,5 @@ p {
 }
 
 table {
-  color: black;
+  color: #5e311c;
 }

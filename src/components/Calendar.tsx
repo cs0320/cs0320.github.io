@@ -56,7 +56,7 @@ function Calendar() {
   </div>
   <div className="grid grid-cols-2 gap-4">
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collab Section Swap Form</a>
-    <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collab Section Debugging Partner Form</a>
+    <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfwHqAbR5JmhJ4FiC81aOFKvNAW52Mxxg6FkmXbk3xBG5QAAw/viewform?usp=dialog" target="_blank" rel="noreferrer">Collab Section Debugging Partner Form</a>
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Gearup Swap Form</a>
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collaboration Crest Form</a>
   </div>
