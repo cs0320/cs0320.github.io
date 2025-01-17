@@ -58,6 +58,7 @@ function Calendar() {
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collab Section Swap Form</a>
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collab Section Debugging Partner Form</a>
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Gearup Swap Form</a>
+    <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collaboration Crest Form</a>
   </div>
 </div>
 

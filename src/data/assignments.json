@@ -27,89 +27,89 @@
         "id":1,
         "title":"Sprint 1.1: Extensible CSV",
         "link":"",
-        "release": "9/9",
-        "due": "9/14",
-        "demos": "9/15-9/17 (asynchronous)"
+        "release": "1/27",
+        "due": "2/1",
+        "demos": "2/2-2/4 (by video)"
     },
     {
         "id":2,
         "title":"Sprint 1.2: Searching CSV",
         "link":"",
-        "release": "9/16",
-        "due": "9/21",
-        "demos": "9/22-9/24 (synchronous)"
+        "release": "2/3",
+        "due": "2/8",
+        "demos": "2/9-2/11 (synchronous)"
     },
     {
         "id":3,
         "title":"Sprint 2.1: API Server",
         "link":"",
-        "release": "9/23",
-        "due": "9/28",
-        "demos": "9/29-10/1"
+        "release": "2/10",
+        "due": "2/15",
+        "demos": "2/16-2/18 (by video)"
     },
     {
         "id":4,
         "title":"Sprint 2.2: API Proxy",
         "link":"",
-        "release": "9/30",
-        "due": "10/5",
-        "demos": "10/6-10/8"
+        "release": "2/17",
+        "due": "2/22",
+        "demos": "2/23-2/25 (synchronous)"
     },
     {
         "id":5,
         "title":"Sprint 3.1: Front-End Mockup",
         "link":"",
-        "release": "10/7",
-        "due": "10/12",
-        "demos": "10/13-10/15"
+        "release": "2/24",
+        "due": "3/1",
+        "demos": "3/2-3/4 (by video)"
     },
     {
         "id":6,
         "title":"Sprint 3.2: Data Visualization",
         "link":"",
-        "release": "10/14",
-        "due": "10/19",
-        "demos": "10/20-10/22"
+        "release": "3/3",
+        "due": "3/8",
+        "demos": "3/9-3/11 (synchronous)"
     },
     {
         "id":7,
         "title":"Sprint 4.1: Connecting to Server",
         "link":"",
-        "release": "10/21",
-        "due": "10/26",
-        "demos": "10/27-10/29"
+        "release": "3/10",
+        "due": "3/15",
+        "demos": "3/16-3/18 (by video)"
     },
     {
         "id":8,
         "title":"Sprint 4.2: Connecting to Database",
         "link":"",
-        "release": "10/28",
-        "due": "11/2",
-        "demos": "11/3-11/5"
+        "release": "3/17",
+        "due": "3/22",
+        "demos": "3/23-3/25 (synchronous)"
     },
     {
         "id":9,
         "title":"Sprint 5.1: Front-End Map",
         "link":"",
-        "release": "11/4",
-        "due": "11/9",
-        "demos": "11/10-11/12"
+        "release": "3/31",
+        "due": "4/5",
+        "demos": "4/6-4/8(by video)"
     },
     {
         "id":10,
         "title":"Sprint 5.2: Mapping Data",
         "link":"",
-        "release": "11/11",
-        "due": "11/16",
-        "demos": "11/17-11/19"
+        "release": "4/7",
+        "due": "4/12",
+        "demos": "4/13-4/15 (synchronous)"
     },
     {
         "id":10,
         "title":"Term Project",
         "link":"",
-        "release": "11/18",
+        "release": "4/16",
         "due": "By demo",
-        "demos": "12/19-12/21"
+        "demos": "5/14-5/16"
     }
 ]
 
