@@ -8,7 +8,7 @@
         "hometown":"Wherever the strategy pattern is used",
         "bio": "Good to meet you all! I'm a first-generation college student who attended community college, a commuter-focused state college, the 'college' of an industry job, a STEM university, and... now teaches at Brown. Someone who enjoys puns might call this a collage of colleges, although not quite a universe of universities.",
         "img": "/staff/tim.jpg",
-        "hover":"/pumpkin.png"
+        "hover":"/tulip.png"
     },
     {
         "name":"Grace Cantarella",
@@ -18,8 +18,8 @@
         "zodiac":"",
         "hometown":"New York, NY",
         "bio": "Hi! I'm a senior from NYC studying CS. I love spicy food, playing violin, and gooey chocolate chip cookies. Excited to meet you all!",
-        "img": "/staff/grace_c.jpg",
-        "hover":"/mushroom.png"
+        "img": "/staff/grace.JPG",
+        "hover":"/tulip.png"
     },
     {
         "name":"Nicole Sanchez-Soto",
@@ -30,129 +30,7 @@
         "hometown":"Brooklyn, NY",
         "bio": "Hi there! I'm a Junior from New York concentrating in CS. I like going to the gym, listening to music (send me recs :D), and finding cute spots in prov (if you know any pls share lol :P). Excited to meet you all! (੭˃ᴗ˂)੭ ",
         "img": "/staff/nicole.jpg",
-        "hover":"/boots.png"
-    },
-    {
-        "name":"Alexis Fry",
-        "role": "UTA/STA",
-        "cslogin":"afry3",
-        "pronouns":"she/her",
-        "zodiac":"Cancer",
-        "hometown":"New York, New York",
-        "bio": "Hi there! I'm a senior from NYC studying CS and also Entrepreneurship! I love making origami, eating any and all pasta (except gnocchi), and discovering good finds on the RealReal. Feel free to talk to me about anything software engineering or Hack@Brown related :)",
-        "img": "/staff/alexis.jpg",
-        "hover":"/mushroom.png"
-    },
-    {
-        "name":"Rachel Brooks",
-        "role": "UTA/STA",
-        "cslogin":"rdbrooks",
-        "pronouns":"she/her",
-        "zodiac":"Gemini",
-        "hometown":"London",
-        "bio": "Hi! I'm a junior from London studying CS and behavioral decision sciences. I love exploring nature, photography, and going to the gym. Super excited to meet you all :)",
-        "img": "/staff/rachel.jpg",
-        "hover":"/fire.png"
-    },
-
-    {
-        "name":"John Wilkinson",
-        "role": "UTA",
-        "cslogin":"jwilkin7",
-        "pronouns":"he/him",
-        "zodiac":"Pisces",
-        "hometown":"Dedham, MA",
-        "bio": "I'm a senior from Dedham, MA studying CS and Archaeology. In the summers I'm a sailing instructor, and in my free time I love windsurfing!",
-        "img": "/staff/john.jpg",
-        "hover":"/honey.png"
-    },
-    {
-        "name":"Roberto Gonzales Matos",
-        "role": "UTA",
-        "cslogin":"rgonza27",
-        "pronouns":"he/him",
-        "zodiac":"Gemini",
-        "hometown":"Lima, Peru",
-        "bio": "Hiii everyone, I’m Roberto Gonzales, a junior studying CS. I love playing guitar, crocheting, roof climbing, and breakdancing. Feel free to reach out if you want to chat or if you think you can beat me in Mario Kart (i'm not that good but I'll try).",
-        "img": "/staff/roberto.jpg",
-        "hover":"/fire.png"
-    },
-    {
-        "name": "Sarah Ridley",
-        "role": "UTA",
-        "cslogin": "sridley",
-        "pronouns": "she/her",
-        "zodiac": "Pisces",
-        "hometown": "Durham, NC",
-        "bio": "Hi!! I'm a junior studying computer science. I love sewing, doing my nails, legos, and country music. Excited to meet you all!",
-        "img": "/staff/sarah.jpeg",
-        "hover": "/pumpkin.png"
-    },
-    {
-        "name": "Annie Ye",
-        "role": "UTA",
-        "cslogin": "aye15",
-        "pronouns": "she/her",
-        "zodiac": "Aries",
-        "hometown": "San Francisco, California ",
-        "bio": "Hi! I'm Annie and I'm a junior from San Francisco studying computer science. I like going to the gym, Frank Ocean, and matcha ice cream. Super excited for this year :)",
-        "img": "/staff/annie.JPEG",
-        "hover": "/fire.png"
-    },
-    {
-        "name": "Sophia Lim",
-        "role": "UTA",
-        "cslogin": "szlim",
-        "pronouns": "she/her",
-        "zodiac": "Sagittarius",
-        "hometown": "New Zealand",
-        "bio": "Hi everyone! My name is Sophia and I'm a junior from Auckland, New Zealand. I'm concentrating in CS-Econ and love traveling, baking, and spending time with my dog. Can't wait to get to know you all this semester :)",
-        "img": "/staff/sophia.JPG",
-        "hover": "/fire.png"
-    },
-    {
-        "name": "Asia Nguyen",
-        "role": "UTA",
-        "cslogin": "atnguyen",
-        "pronouns": "she/her",
-        "zodiac": "Aquarius",
-        "hometown": "Nashville, TN",
-        "bio": "Hi!! I'm from Nashville, TN and am a junior studying CS + IAPA.  I enjoy getting coffee, reading, and listening to music! I'm super excited for this semester and to meet you all!",
-        "img": "/staff/asia.JPG",
-        "hover": "/pumpkin.png"
-    },
-    {
-        "name": "Megan Zheng",
-        "role": "UTA",
-        "cslogin": "mzheng37",
-        "pronouns": "she/her",
-        "zodiac": "Aquarius",
-        "hometown": "Bloomington, MN",
-        "bio": "Hiii I'm Megan, and I'm a junior studying CS. I love reading mystery, learning languages, and going to restaurants and cafes with friends and family. Can't wait to meet you all : D !! ",
-        "img": "/staff/megan.JPG",
-        "hover": "/tree.png"
-    },
-    {
-        "name": "Michelle Ding",
-        "role": "UTA",
-        "cslogin": "mding16",
-        "pronouns": "she/her",
-        "zodiac": "Taurus",
-        "hometown": "Shanghai & Vancouver",
-        "bio": "Hi all! I’m a senior concentrating in CS. In my free time, you can find me growing my indoor herb garden, learning new recipes, or hosting book club tea parties.",
-        "img": "/staff/michelle.jpeg",
-        "hover": "/honey.png"
-    },
-    {
-        "name": "Keanu Huynh",
-        "role": "UTA",
-        "cslogin": "kthuynh",
-        "pronouns": "he/him",
-        "zodiac": "Taurus",
-        "hometown": "Los Angeles, CA",
-        "bio": "hi! i'm a junior from la studying cs and iapa! in my free time i love b-movie schlock, gaming, and photography! if it's something to brag about, i own the griddy in fortnite. if it's not, i don't own the griddy in fortnite.",
-        "img": "/staff/keanu.jpeg",
-        "hover": "/leaf.png"
+        "hover":"/tulip.png"
     },
     {
         "name": "Alejandro Jackson",
@@ -163,18 +41,73 @@
         "hometown": "Miami, Florida",
         "bio": "Hi! I’m Alejandro, a senior concentrating in CS. I’m always drinking something with espresso in it, and always fiending for more. See someone zooming through campus on a shaky plank of wood? Likely me…. Shout hello! Massive fan of the Strange, Dark, & Mysterious (iykyk). I look forward to meeting you all!",
         "img": "/staff/alejandro.jpeg",
-        "hover": "/coffee.png"
+        "hover":"/tulip.png"
     },
     {
-        "name": "Joyce Li",
-        "role": "UTA",
-        "cslogin": "jli455",
+        "name": "Sana Saab",
+        "role": "UTA/STA",
+        "cslogin": "sgsaab",
         "pronouns": "she/her",
-        "zodiac": "Scorpio",
-        "hometown": "Richmond, VA",
-        "bio": "Hi! I'm Joyce, and I'm a senior studying CS and education. I like dancing, short films, and exploring new places. Super excited to meet you all :D",
-        "img": "/staff/joyce.png",
-        "hover": "/leaf.png"
+        "zodiac": "",
+        "hometown": "",
+        "bio": "Hi! I'm Sana, and I'm a sophomore from Michigan studying CS. I like learning new types of dance (albeit badly), trying out new clubs and hobbies, and going on adventures!",
+        "img": "/staff/sana.jpg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name":"Kathy Li",
+        "role": "UTA/STA",
+        "cslogin":"kli181",
+        "pronouns":"she/her",
+        "zodiac":"",
+        "hometown":"",
+        "bio": "Hi!! :D I'm Kathy Li, a sophomore from Davis, California, studying CS and STS! I love video games, crosswords, Legos, and impulse spending. So excited to meet y'all - come talk to me anytime!",
+        "img": "/staff/kathy.jpg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name": "Annie Ye",
+        "role": "UTA",
+        "cslogin": "aye15",
+        "pronouns": "she/her",
+        "zodiac": "",
+        "hometown": "San Francisco, California",
+        "bio": "Hi! I’m a junior from San Francisco studying Computer Science. I like hitting back and bi at the gym, drinking Thai tea, and eating crunchy green grapes. I’m looking forward for this semester!",
+        "img": "/staff/annie.jpeg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name":"Emily Perelman",
+        "role": "UTA",
+        "cslogin":"eperelm2",
+        "pronouns":"she/her",
+        "zodiac":"",
+        "hometown":"",
+        "bio": "Hi! I'm a senior studying computer science and economics. I love pasta and ice cream! Excited to meet you all!",
+        "img": "/staff/emily.jpeg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name": "Megan Zheng",
+        "role": "UTA",
+        "cslogin": "mzheng37",
+        "pronouns": "she/her",
+        "zodiac": "Aquarius",
+        "hometown": "Bloomington, MN",
+        "bio": "Hello!! My name is Megan, and I'm a junior studying CS. I really like food, coffee, sleep, and books. Can't wait to meet you all (๑˃ᴗ˂)ﻭ",
+        "img": "/staff/megan.jpeg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name": "Aisosa Idahosa",
+        "role": "UTA",
+        "cslogin": "aidahosa",
+        "pronouns": "she/her",
+        "zodiac": "Pisces",
+        "hometown": "Durham, NC",
+        "bio": "Hi everyone! I'm a sophomore from the Philly area studying studying CS and VISA. In my free time, I love reading, crocheting, and recently I've been getting into ceramics! Super excited to TA this class and meet all of y'all!",
+        "img": "/staff/aisosa.png",
+        "hover":"/tulip.png"
     },
     {
         "name": "Jacob Stifelman",
@@ -185,7 +118,40 @@
         "hometown": "Englewood, NJ",
         "bio": "Hi, I'm Jake! I'm a senior studying computer science and history. In my free time I love running, basketball, and listening to Taylor Swift!!",
         "img": "/staff/jacob.jpg",
-        "hover": "/fire.png"
+        "hover":"/tulip.png"
+    },
+    {
+        "name":"Ashton Glover",
+        "role": "UTA",
+        "cslogin":"agglover",
+        "pronouns":"he/him",
+        "zodiac":"",
+        "hometown":"",
+        "bio": "Hi everyone! My name is Ashton, and I am a junior from York, South Carolina studying CS. I am a big fan of random adventures, hiking, and sports (especially soccer). Looking forward to meeting everyone!",
+        "img": "/staff/ashton.jpeg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name":"Roberto Gonzales Matos",
+        "role": "UTA",
+        "cslogin":"rgonza27",
+        "pronouns":"he/him",
+        "zodiac":"Gemini",
+        "hometown":"Lima, Peru",
+        "bio": "Hiii everyone, I’m Roberto Gonzales, a junior studying CS. I love playing guitar, crocheting, roof climbing, and breakdancing. Feel free to reach out if you want to chat or if you think you can beat me in Mario Kart (i'm not that good but I'll try).",
+        "img": "/staff/roberto.jpg",
+        "hover":"/tulip.png"
+    },
+    {
+        "name": "Joyce Li",
+        "role": "UTA",
+        "cslogin": "jli455",
+        "pronouns": "she/her",
+        "zodiac": "Scorpio",
+        "hometown": "Richmond, VA",
+        "bio": "Hi! I'm Joyce, and I'm a senior studying CS and education. I like dancing, short films, and exploring new places. Super excited to meet you all :D",
+        "img": "/staff/joyce.png",
+        "hover": "/tulip.png"
     }
 ]
 

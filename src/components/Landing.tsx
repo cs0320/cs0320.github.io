@@ -36,11 +36,12 @@ function Landing() {
                 {/* <img src="https://i.ibb.co/v157KXq/IMG-0021-removebg-preview.png" alt="Flower"/> */}
               {/* </div> */}
               <div className="image-container-1">
-                <img src="/pumpkin.png" alt="Image 1" className="scatter-image"/>
-                <img src="/fire.png" alt="Image 2" className="scatter-image"/>
-                <img src="/leaf.png" alt="Image 3" className="scatter-image"/>
-                <img src="/mushroom.png" alt="Image 4" className="scatter-image"/>
-                <img src="/sun.png" alt="Image 5" className="scatter-image"/>
+              <img src="/tulip.png" alt="" className="scatter-image"/>
+                <img src="/bee.png" alt="" className="scatter-image"/>
+                <img src="/trees.png" alt="" className="scatter-image"/>
+                <img src="/bird.png" alt="" className="scatter-image"/>
+                <img src="/flowers.png" alt="" className="scatter-image"/>
+                {/* <img src="/tulip.png" alt="Image 5" className="scatter-image"/> */}
             </div>
             </div>
           </div>

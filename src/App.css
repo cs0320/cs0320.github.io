@@ -168,7 +168,7 @@ canvas {
   border-bottom-width: 1px;
   --tw-border-opacity: 1;
   /* border-color: rgba(55,65,81,var(--tw-border-opacity)); */
-  border-color: #a32022;
+  border-color: #0a6e20;
   font-size: 1rem;
   line-height: 1.5rem;
   --tw-text-opacity: 1;
@@ -188,12 +188,12 @@ canvas {
 }
 
 .landing {
-  background-color: #fff4d9;
+  background-color: #fcf7d7;
 }
 
 .navbar {
-  background-color: #c87610;
-  color: #fefcd3;
+  background-color: #0f912c;
+  color: #fff8bd;
 }
 
 .typing-demo {
@@ -202,7 +202,9 @@ canvas {
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
-  color: #c87610;
+  /* color: #0f912c; */
+  /* color: #0263d9; */
+  color: #e6507b;
 }
 
 @keyframes typing {
@@ -244,10 +246,10 @@ canvas {
   transform-style: preserve-3d;
   transition: transform 0.6s ease-in-out;
 }
-
+/* 
 .image-flip:hover {
   transform: rotateY(180deg);
-}
+} */
 
 .front-image, .back-image {
   position: absolute;
@@ -278,23 +280,32 @@ canvas {
 }
 
 .hyperlink {
-  color: #c54805;
+  color: #0a6e20;
   font-weight: bold;
 }
 
 .software-title {
   /* color: #551f13; */
-  color: #77360e;
+  /* color: #0263d9; */
+  color: #0f912c;
 }
 
 .text-xl {
   /* color: #551f13; */
   /* color: #77360e; */
-  color: #a32022;
+  color: #e6507b;
+}
+
+.text-xl-x {
+  /* color: #551f13; */
+  /* color: #77360e; */
+  color: #e6507b;
+  font-size: 8mm;
+  font-weight: bolder;
 }
 
 .body-text {
-  color: #551f13;
+  color: #0263d9;
 }
 
 
@@ -305,7 +316,7 @@ canvas {
 }
 
 .scatter-image {
-  width: 120px;
+  width: 130px;
   height: 120px;
   transition: transform 0.5s ease, opacity 0.5s ease;
 }
@@ -343,7 +354,9 @@ canvas {
 }
 
 .useful-links {
-  background-color:rgb(200, 118, 16, 0.5);
+  background-color:rgb(15, 145, 44, 0.25);
+  color: black;
+  /* font-weight: bold; */
 }
 
 .card {
@@ -377,21 +390,21 @@ canvas {
 
 .name {
   /* color: #551f13; */
-  color: #77360e;
+  color: #0a6e20;
 }
 
 .pronoun-row {
-  color: #c54805;
+  color:#5e311c;
 }
 
 p {
-  color: #551f13;
+  color: black;
 }
 
 .dropdown {
-  color: #551f13;
+  color: #0a6e20;
 }
 
 table {
-  color: #551f13;
+  color: black;
 }

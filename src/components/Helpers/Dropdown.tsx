@@ -34,7 +34,7 @@ function DropDown(props: { title: string, description: string[] }) {
                                     <div>
                                     </div>
                                     }
-                                    {props.title === 'Collab Section Info/Forms' && 
+                                    {props.title === 'Collab Section Info' && 
                                     <div>
                                         <li className='mb-2'>
                                         You will serve as a collab partner for 1 hour every other week during your assigned collab section slot. Collab partners discuss and help with through bugs and design questions that other students bring.
@@ -45,12 +45,12 @@ function DropDown(props: { title: string, description: string[] }) {
                                         <li className='mb-2'>
                                         <a className='underline' href='https://docs.google.com/document/d/1rPhDvm2U6womNb74EZLA7Zmt_KIoMObtMvG1PLjWgho/edit?usp=sharing'>Collab Section Guide</a>
                                         </li>
-                                        <li className='mb-2'>
-                                        <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSfjYo0ccOuz4sJTY-1LoYN-YLIQryNenpTeQJBKsFFSjucw-g/viewform?usp=sf_link'>Collab Section Swap Form</a>
-                                        </li>
+                                        {/* <li className='mb-2'> */}
+                                        {/* <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSfjYo0ccOuz4sJTY-1LoYN-YLIQryNenpTeQJBKsFFSjucw-g/viewform?usp=sf_link'>Collab Section Swap Form</a> */}
+                                        {/* </li> */}
                                     </div>
                                     }
-                                    {props.title === 'Gearup Info/Forms' && 
+                                    {props.title === 'Gearup Info' && 
                                     <div>
                                         <li className='mb-2'>
                                         Gear-ups are interactive, lecture-style sections led by TAs that reinforce content from lecture with a specific emphasis on applying concepts to the current sprint. Gear-ups are held on the days immediately after each project's release. Attendance is mandatory.
@@ -58,9 +58,9 @@ function DropDown(props: { title: string, description: string[] }) {
                                         <li className='mb-2'>
                                         For the most part, sprint gearups will alternate with mandatory discussion sections. Check the calendar for further details.
                                         </li>
-                                        <li className='mb-2'>
-                                        <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSf2281BB3EuzP5P9DoO8AgDTAuIixk5kuDknQPt3RwKgdfxoA/viewform?usp=sf_link'>Gearup Swap Form</a>
-                                        </li>
+                                        {/* <li className='mb-2'> */}
+                                        {/* <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSf2281BB3EuzP5P9DoO8AgDTAuIixk5kuDknQPt3RwKgdfxoA/viewform?usp=sf_link'>Gearup Swap Form</a> */}
+                                        {/* </li> */}
                                     </div>
                                     }
         

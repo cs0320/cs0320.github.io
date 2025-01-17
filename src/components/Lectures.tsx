@@ -9,12 +9,12 @@ function Lectures() {
     <div>
       <section id="lectures">
         <div className="max-w-5xl mx-auto px-6 pt-16">
-           <img className='pb-16' src='/leaf_divider.png'></img>
+           <img className='pb-16' src='/tree-divider.png' alt=""></img>
           <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 neon-text-yellow">
             Lectures
           </h1>
           <div className="text-sm md:text-base">
-            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from<b> 1:00 to 2:20 PM</b> in <b>85 Waterman St 130</b> and recordings will be uploaded after each lecture and can also always be found on <a className='hyperlink' href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=0&isFromTeams=false#folderID=%2259307d1e-6c59-49df-b5ec-b1da00cfd4c6%22">Panopto</a>. The lecture notes can be found on <a className='hyperlink' href="https://cs0320.github.io/notes/">Github pages</a>.</p>
+            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from<b> 1:00 to 2:20 PM</b> in <b>Metcalf Research Building Auditorium</b> and recordings will be uploaded after each lecture and can also always be found on <a className='hyperlink' href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=0&isFromTeams=false#folderID=%2259307d1e-6c59-49df-b5ec-b1da00cfd4c6%22">Panopto</a>. The lecture notes can be found on <a className='hyperlink' href="https://cs0320.github.io/notes/">Github pages</a>.</p>
             <table className="table">
               <thead>
                 <tr className="table-header">
@@ -29,7 +29,7 @@ function Lectures() {
                   return (
                     <tr key={lecture.id}>
                       <td className="py-3">
-                        <a href={lecture.notes} target="_blank" style={{ pointerEvents: lecture.notes ? 'auto' : 'none' }}  className="inline-flex items-center assignment-link">
+                        <a href={lecture.notes} target="_blank" rel="noreferrer" style={{ pointerEvents: lecture.notes ? 'auto' : 'none' }}  className="inline-flex items-center assignment-link">
                           <b>{lecture.topic}</b>
                           {lecture.notes &&
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">

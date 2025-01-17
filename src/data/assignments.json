@@ -2,31 +2,31 @@
     {
         "id":1,
         "title":"Onboarding Form",
-        "link":"https://docs.google.com/forms/d/e/1FAIpQLSdQW-DI0TJQgMpdOyZqxuJUQ6VWMtShb1BHIrUn0HGcaHQcLQ/viewform?usp=sf_link",
-        "release": "9/5",
-        "due": "9/8",
+        "link":"",
+        "release": "1/23",
+        "due": "1/26",
         "demos": "-"
     },
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"https://docs.google.com/forms/d/e/1FAIpQLSfuMwSpvg4qHrdJiSFVqGmbTXqDwIzGxNryjLjPKLfNebwHEA/viewform?usp=sf_link",
-    "release": "9/5",
-    "due": "9/8",
+    "link":"",
+    "release": "1/23",
+    "due": "1/26",
     "demos": "-"
 },
 {
     "id":1,
     "title":"Setup Deliverable",
-    "link":"https://docs.google.com/document/d/1dELld4fdrtMxVkSN-FUxJqlM_MYiMl0mRUMJRRkkSrQ/edit?usp=sharing",
-    "release": "9/5",
-    "due": "9/8",
+    "link":"",
+    "release": "1/23",
+    "due": "1/26",
     "demos": "-"
 },
 {
         "id":1,
         "title":"Sprint 1.1: Extensible CSV",
-        "link":"https://docs.google.com/document/d/11aZe2BLRmg_K7_ZS-RomA3rQSyh-poW1F95djeSsftA/edit",
+        "link":"",
         "release": "9/9",
         "due": "9/14",
         "demos": "9/15-9/17 (asynchronous)"
@@ -34,7 +34,7 @@
     {
         "id":2,
         "title":"Sprint 1.2: Searching CSV",
-        "link":"https://docs.google.com/document/d/1CWW5pcwDjxy8R5MivTz6ULmqMHpsryADqIJRUZ3KvVU/edit?usp=sharing",
+        "link":"",
         "release": "9/16",
         "due": "9/21",
         "demos": "9/22-9/24 (synchronous)"
@@ -42,7 +42,7 @@
     {
         "id":3,
         "title":"Sprint 2.1: API Server",
-        "link":"https://docs.google.com/document/d/1ncXobjK7ElBEFNgLd7qU-igb3SUyLJNVfIUzE5S6mZo/edit?usp=sharing",
+        "link":"",
         "release": "9/23",
         "due": "9/28",
         "demos": "9/29-10/1"
@@ -50,7 +50,7 @@
     {
         "id":4,
         "title":"Sprint 2.2: API Proxy",
-        "link":"https://docs.google.com/document/d/1FFJi6I1Tg73rbwAIX7OfYqw64aBSEKrT6HwTyYyB8vk/edit?usp=sharing",
+        "link":"",
         "release": "9/30",
         "due": "10/5",
         "demos": "10/6-10/8"
@@ -58,7 +58,7 @@
     {
         "id":5,
         "title":"Sprint 3.1: Front-End Mockup",
-        "link":"https://docs.google.com/document/d/11cuGAquHORk5FfwO3pkcJxpstnqlZO7PHc4mrugWGZ8/edit?usp=sharing",
+        "link":"",
         "release": "10/7",
         "due": "10/12",
         "demos": "10/13-10/15"
@@ -66,7 +66,7 @@
     {
         "id":6,
         "title":"Sprint 3.2: Data Visualization",
-        "link":"https://docs.google.com/document/d/1B7vgUH4N0H-JW_LWoLpEkHtcl7ge86y5cJRBAY1Na3U/edit?usp=sharing",
+        "link":"",
         "release": "10/14",
         "due": "10/19",
         "demos": "10/20-10/22"
@@ -74,7 +74,7 @@
     {
         "id":7,
         "title":"Sprint 4.1: Connecting to Server",
-        "link":"https://docs.google.com/document/d/1E_PpsdfsWHP5I6PzIneirKM3CGFYo8gdOWchwIj-gY0/edit?usp=sharing",
+        "link":"",
         "release": "10/21",
         "due": "10/26",
         "demos": "10/27-10/29"
@@ -82,7 +82,7 @@
     {
         "id":8,
         "title":"Sprint 4.2: Connecting to Database",
-        "link":"https://docs.google.com/document/d/1eHxbq_IC6xU5lUzZPidMc60otd7AAfSxtTmlP6ShIjM/edit?usp=sharing",
+        "link":"",
         "release": "10/28",
         "due": "11/2",
         "demos": "11/3-11/5"
@@ -90,7 +90,7 @@
     {
         "id":9,
         "title":"Sprint 5.1: Front-End Map",
-        "link":"https://docs.google.com/document/d/1ACyqrf4tO4swYtPF9JCvowL-k2aZ5HnRe2l7F2w7heA/edit?usp=sharing",
+        "link":"",
         "release": "11/4",
         "due": "11/9",
         "demos": "11/10-11/12"
@@ -98,7 +98,7 @@
     {
         "id":10,
         "title":"Sprint 5.2: Mapping Data",
-        "link":"https://docs.google.com/document/d/1lUM-ZbHwfLd_l6668wV7IMiwTsbJ2FRNxFFEHDIg6qk/edit?usp=sharing",
+        "link":"",
         "release": "11/11",
         "due": "11/16",
         "demos": "11/17-11/19"
@@ -106,7 +106,7 @@
     {
         "id":10,
         "title":"Term Project",
-        "link":"https://docs.google.com/document/d/1ag5aJDOlKyQDgE0nERDkMIXDjj1ER0hGYOwJ-ZQwGn8/edit?tab=t.0#heading=h.pee6crlpaxz6",
+        "link":"",
         "release": "11/18",
         "due": "By demo",
         "demos": "12/19-12/21"

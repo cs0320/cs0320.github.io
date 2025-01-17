@@ -19,11 +19,17 @@ function Navbar() {
             <a href="#assignments" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out ">
                 Assignments
             </a>
+            <a href="#gearups" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out ">
+                Gear-Ups
+            </a>
             <a href="#lectures" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out ">
                 Lectures
             </a>
             <a href="#calendar" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out ">
                 Hours
+            </a>
+            <a href="#forms" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out ">
+                Forms
             </a>
             <a href="#staff" className="text-base font-medium leading-6 whitespace-no-wrap transition duration-150 ease-in-out ">
                 Staff
