@@ -56,8 +56,10 @@ function Calendar() {
   </div>
   <div className="grid grid-cols-2 gap-4">
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collab Section Swap Form</a>
+    <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSeW5b0kMKDgQL-ktRDrsOT7YyHIvmDXRm2TpW3YVgGT3DLZFw/viewform?usp=dialog" target="_blank" rel="noreferrer">Gearup Swap Form</a>
     <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfwHqAbR5JmhJ4FiC81aOFKvNAW52Mxxg6FkmXbk3xBG5QAAw/viewform?usp=dialog" target="_blank" rel="noreferrer">Collab Section Debugging Partner Form</a>
-    <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Gearup Swap Form</a>
+    <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfV6cqh0OTpO43pgzOKeCwsxjTYiHlcSW_24tBTD65owwNfAA/viewform?usp=dialog" target="_blank" rel="noreferrer">Design Dicussion Form</a>
+    <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe6XtyXXCO-yUTgGQo_X_rIL08hUswbdNFDX_NmY7l1oXHJ2A/viewform?usp=dialog" target="_blank" rel="noreferrer">Collab Section Attendance Form</a>
     <a className="quick-link" href="google.com" target="_blank" rel="noreferrer">Collaboration Crest Form</a>
   </div>
 </div>
