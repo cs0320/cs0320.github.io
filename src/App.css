@@ -353,6 +353,13 @@ canvas {
   opacity: 1;
 }
 
+/* Hide images on mobile */
+@media (max-width: 768px) {
+  .image-container-1 {
+    display: none;
+  }
+}
+
 .useful-links {
   background-color:rgb(15, 145, 44, 0.25);
   color: #5e311c;

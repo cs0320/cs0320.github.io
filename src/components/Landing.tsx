@@ -30,18 +30,13 @@ function Landing() {
           </div>
           <div className="w-full md:w-1/2">
             <div className="w-full h-auto">
-              {/* <div className='imgBox'> */}
-                {/* <img src='/pumpkin.png'/> */}
-                {/* <img src='https://i.ibb.co/Hnj8gdw/185-2x.png'></img> */}
-                {/* <img src="https://i.ibb.co/v157KXq/IMG-0021-removebg-preview.png" alt="Flower"/> */}
-              {/* </div> */}
+
               <div className="image-container-1">
               <img src="/tulip.png" alt="" className="scatter-image"/>
                 <img src="/bee.png" alt="" className="scatter-image"/>
                 <img src="/trees.png" alt="" className="scatter-image"/>
                 <img src="/bird.png" alt="" className="scatter-image"/>
                 <img src="/flowers.png" alt="" className="scatter-image"/>
-                {/* <img src="/tulip.png" alt="Image 5" className="scatter-image"/> */}
             </div>
             </div>
           </div>
