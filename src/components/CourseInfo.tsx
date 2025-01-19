@@ -24,10 +24,10 @@ function CourseInfo() {
               <div className='flex flex-wrap'>
                 <a className="quick-link" href="https://docs.google.com/document/d/17aDeWqIe4OHaw4jw-ZydASAOcg7oU-JKtJma1bhTE2M/edit?usp=sharing" target="_blank" rel="noreferrer">Syllabus</a>
                 <a className="quick-link" href="https://docs.google.com/document/d/1ejCvcbb-nJBkiQZlNDAEmxYf-H5lXQdVBZDkaWsu7so/edit?usp=sharing" target="_blank" rel="noreferrer">Missive</a>
-                <a className="quick-link" href="https://edstem.org/us/courses/59996/discussion/" target="_blank" rel="noreferrer">EdStem</a>
+                <a className="quick-link" href="https://edstem.org/us/courses/73931/discussion/" target="_blank" rel="noreferrer">EdStem</a>
                 <a className="quick-link" href="https://hours.cs.brown.edu/" target="_blank" rel="noreferrer">Hours</a>
                 <a className="quick-link" href="https://www.gradescope.com/courses/796961" target="_blank" rel="noreferrer">Gradescope</a>
-                <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfr-464cuKCSqz0qH5fHloOQB-YYYZfwHoS-EJ_DEQEf7Syhg/viewform" target="_blank" rel="noreferrer">Anonymous Feedback</a>
+                <a className="quick-link" href="https://docs.google.com/forms/d/16eNi6kifhAjNhC4JevDkcwRkBZ2Ky1immxln0mRFjFI/viewform" target="_blank" rel="noreferrer">Anonymous Feedback</a>
                 <a className="quick-link" href="mailto:cs0320headtas@lists.brown.edu" target="_blank" rel="noreferrer">HTA Email</a>
               </div>
             </div>
