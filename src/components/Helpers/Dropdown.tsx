@@ -43,7 +43,7 @@ function DropDown(props: { title: string, description: string[] }) {
                                         As a collab partner helping with a bug, you will spend a maximum of 20 minutes per student (one iteration of the Debugging Recipe).
                                         </li>
                                         <li className='mb-2'>
-                                        <a className='underline' href='https://docs.google.com/document/d/1rPhDvm2U6womNb74EZLA7Zmt_KIoMObtMvG1PLjWgho/edit?usp=sharing'>Collab Section Guide</a>
+                                        <a className='underline' href='https://docs.google.com/document/d/1pC1wyiZZeipHTtnaf6V7Az9dAVDjlf9zdWs_Qg6_yeM/edit?usp=sharing'>Collab Section Guide</a>
                                         </li>
                                         {/* <li className='mb-2'> */}
                                         {/* <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSfjYo0ccOuz4sJTY-1LoYN-YLIQryNenpTeQJBKsFFSjucw-g/viewform?usp=sf_link'>Collab Section Swap Form</a> */}

@@ -22,8 +22,8 @@ function CourseInfo() {
               </div>
             </div>
               <div className='flex flex-wrap'>
-                <a className="quick-link" href="https://docs.google.com/document/d/17aDeWqIe4OHaw4jw-ZydASAOcg7oU-JKtJma1bhTE2M/edit?usp=sharing" target="_blank" rel="noreferrer">Syllabus</a>
-                <a className="quick-link" href="https://docs.google.com/document/d/1ejCvcbb-nJBkiQZlNDAEmxYf-H5lXQdVBZDkaWsu7so/edit?usp=sharing" target="_blank" rel="noreferrer">Missive</a>
+                <a className="quick-link" href="https://docs.google.com/document/d/1nhHPLYoO6QnxDmsd7lNued6lcUzKHU4_pU7ZoqL3XwE/edit?usp=sharing" target="_blank" rel="noreferrer">Syllabus</a>
+                <a className="quick-link" href="https://docs.google.com/document/d/1DraeodFA053Y9LgCryLCiXLsY-pVoLUrNEMwllqmc-E/edit?usp=sharing" target="_blank" rel="noreferrer">Missive</a>
                 <a className="quick-link" href="https://edstem.org/us/courses/73931/discussion/" target="_blank" rel="noreferrer">EdStem</a>
                 <a className="quick-link" href="https://hours.cs.brown.edu/" target="_blank" rel="noreferrer">Hours</a>
                 <a className="quick-link" href="https://www.gradescope.com/courses/796961" target="_blank" rel="noreferrer">Gradescope</a>
