@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"Onboarding Form",
-        "link":"",
+        "link":"https://docs.google.com/forms/d/e/1FAIpQLSe_HxIzSExsktRtPSFQJZ0H6vj_QufgwUGYIL0xsklho-KYPw/viewform?usp=dialog",
         "release": "1/23",
         "due": "1/26",
         "demos": "-"
@@ -10,7 +10,7 @@
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSc5787d-jZ4DdAbi6Ea6a11-mDeMqW9_afgm1dgbObz3zgVKA/viewform?usp=dialog",
     "release": "1/23",
     "due": "1/26",
     "demos": "-"
@@ -18,7 +18,7 @@
 {
     "id":1,
     "title":"Setup Deliverable",
-    "link":"",
+    "link":"https://docs.google.com/document/d/1LnMolWwBW24wcG2wPtcBbffcLzyU_uIM-go2MIn0QxE/edit?usp=sharing",
     "release": "1/23",
     "due": "1/26",
     "demos": "-"
