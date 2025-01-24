@@ -14,7 +14,10 @@ function Lectures() {
             Lectures
           </h1>
           <div className="text-sm md:text-base">
-            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from<b> 1:00 to 2:20 PM</b> in <b>Metcalf Research Building Auditorium</b> and recordings will be uploaded after each lecture and can also always be found on <a className='hyperlink' href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=0&isFromTeams=false#folderID=%2259307d1e-6c59-49df-b5ec-b1da00cfd4c6%22">Panopto</a>. The lecture notes can be found on <a className='hyperlink' href="https://cs0320.github.io/notes/">Github pages</a>.</p>
+            <p>cs0320 is taught by Tim Nelson. Lectures are held every Tuesday and Thursday from<b> 1:00 to 2:20 PM</b> in <b>Metcalf Research Building Auditorium</b> and recordings will be uploaded after each lecture and can also always be found on 
+            <a className='hyperlink' href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=0&isFromTeams=false#folderID=%2259307d1e-6c59-49df-b5ec-b1da00cfd4c6%22">Panopto</a>. 
+            The lecture notes can be found on <a className='hyperlink' href="https://cs0320.github.io/notes/">Github pages</a>.
+            Class livecode can be found in <a className='hyperlink' href="https://github.com/cs0320/class-livecode">this Github repo</a>.</p>
             <table className="table">
               <thead>
                 <tr className="table-header">
