@@ -32,7 +32,7 @@ function Lectures() {
                   return (
                     <tr key={lecture.id}>
                       <td className="py-3">
-                        <a href={lecture.notes} target="_blank" rel="noreferrer" style={{ pointerEvents: lecture.notes ? 'auto' : 'none' }}  className="inline-flex items-center assignment-link">
+                        <a href={lecture.notes} target="_blank" rel="noreferrer" style={{ pointerEvents: lecture.notes ? 'auto' : 'none' }}  className="inline-flex hyperlink items-center assignment-link">
                           <b>{lecture.topic}</b>
                           {lecture.notes &&
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
