@@ -117,7 +117,7 @@ function DropDown(props: { title: string, description: string[] }) {
 
                                         </li>
                                         <li className='underline'>
-                                            <a href='https://docs.google.com/document/d/1hke8VdRwDEBI6FH5c3z0-h5Pr9nnPMZF2Ngfc-YqjiY/edit?usp=sharing'>Documentation and Style Guide</a>
+                                            <a href='https://docs.google.com/document/d/1DvXpCbndn7L4D2sZEkNFc-0qzg87LE7X-9myUBVBIWI/edit?usp=sharing'>Documentation and Style Guide</a>
 
                                         </li>
                                         <li className='underline'>
