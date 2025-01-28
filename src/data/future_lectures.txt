@@ -1,4 +1,12 @@
- {
+    {
+        "id":2,
+        "date":"1/28",
+        "topic":"",
+        "notes":"",
+        "code":"",
+        "reading":""
+    },
+    {
         "id":2,
         "date":"1/30",
         "topic":"",
@@ -6,8 +14,9 @@
         "code":"",
         "reading":""
     },
+
      {
-        "id":3,
+        "id":4,
         "date":"2/1",
         "topic":"",
         "notes":"",

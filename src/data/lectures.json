@@ -1,10 +1,18 @@
 [
-    {
-        "id": 1,
-        "date": "01/23",
-        "topic": "Success In 0320",
-        "notes": "https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
-        "code": "",
-        "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9681caaa-3368-4af8-9457-b26501700bb9"
-    }
+  {
+    "id": 1,
+    "date": "01/23",
+    "topic": "Success In 0320",
+    "notes": "https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
+    "code": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9681caaa-3368-4af8-9457-b26501700bb9"
+  },
+  {
+    "id": 2,
+    "date": "1/28",
+    "topic": "Comparators and Testing",
+    "notes": "https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
+    "code": "",
+    "reading": ""
+  }
 ]
