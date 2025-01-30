@@ -14,5 +14,13 @@
     "notes": "https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
     "code": "",
     "reading": ""
+  },
+  {
+    "id": 3,
+    "date": "1/30",
+    "topic": "Mocking Console",
+    "notes": "https://cs0320.github.io/notes/mocking-console/mocking-console.html",
+    "code": "",
+    "reading": ""
   }
 ]
