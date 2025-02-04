@@ -22,5 +22,13 @@
     "notes": "https://cs0320.github.io/notes/mocking-console/mocking-console.html",
     "code": "",
     "reading": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5da82a00-582c-4c01-bc51-b26501700c47"
+  }, 
+  {
+    "id": 4,
+    "date": "2/4",
+    "topic": "Proxies and Adapters",
+    "notes": "https://cs0320.github.io/notes/proxies-adapters/proxies-adapters.html",
+    "code": "",
+    "recording": ""
   }
 ]
