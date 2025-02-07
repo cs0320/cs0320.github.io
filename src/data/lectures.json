@@ -4,7 +4,7 @@
     "date": "01/23",
     "topic": "Success In 0320",
     "notes": "https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
-    "code": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/jan23-generics",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9681caaa-3368-4af8-9457-b26501700bb9"
   },
   {
@@ -12,7 +12,7 @@
     "date": "1/28",
     "topic": "Comparators and Testing",
     "notes": "https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
-    "code": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/jan28-seatingsorting",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13bb29b7-ff5e-4ece-90dd-b26501700c25"
   },
   {
@@ -28,7 +28,7 @@
     "date": "2/4",
     "topic": "Proxies and Adapters",
     "notes": "https://cs0320.github.io/notes/proxies-adapters/proxies-adapters.html",
-    "code": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/feb04-proxy",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7711a4ab-b568-4829-b84a-b26501700c75"
   },
   {
@@ -36,7 +36,7 @@
     "date": "2/6",
     "topic": "Web APIs",
     "notes": "https://cs0320.github.io/notes/apis-integration/apis-integration.html",
-    "code": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/feb06_nws_api",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94cad417-7989-45ac-b66a-b26501700c93"
   }
 ]
