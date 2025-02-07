@@ -30,5 +30,13 @@
     "notes": "https://cs0320.github.io/notes/proxies-adapters/proxies-adapters.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7711a4ab-b568-4829-b84a-b26501700c75"
+  },
+  {
+    "id": 5,
+    "date": "2/6",
+    "topic": "Web APIs",
+    "notes": "https://cs0320.github.io/notes/apis-integration/apis-integration.html",
+    "code": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94cad417-7989-45ac-b66a-b26501700c93"
   }
 ]
