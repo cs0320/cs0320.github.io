@@ -10,7 +10,7 @@
   {
     "id": 2,
     "date": "1/28",
-    "topic": "Comparators and Testing",
+    "topic": "More Strategies, More Testing",
     "notes": "https://cs0320.github.io/notes/comparators-and-testing/comparators-and-testing.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/S25/jan28-seatingsorting",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13bb29b7-ff5e-4ece-90dd-b26501700c25"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "date": "1/30",
-    "topic": "Mocking Console",
+    "topic": "UIs, Testing More Than Methods",
     "notes": "https://cs0320.github.io/notes/mocking-console/mocking-console.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5da82a00-582c-4c01-bc51-b26501700c47"
@@ -38,5 +38,13 @@
     "notes": "https://cs0320.github.io/notes/apis-integration/apis-integration.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/S25/feb06_nws_api",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94cad417-7989-45ac-b66a-b26501700c93"
+  },
+  {
+    "id": 6,
+    "date": "2/11",
+    "topic": "Group Projects and Code Review",
+    "notes": "https://cs0320.github.io/notes/slides-links/groups-and-code-review.html",
+    "code": "",
+    "recording": ""
   }
 ]
