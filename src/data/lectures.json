@@ -45,14 +45,14 @@
     "topic": "Group Projects and Code Review",
     "notes": "https://cs0320.github.io/notes/slides-links/groups-and-code-review.html",
     "code": "",
-    "recording": ""
-  }, 
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9d81fd3c-6201-4ba2-ad9a-b28201113362"
+  },
   {
-    "id" : 7,
+    "id": 7,
     "date": "2/13",
     "topic": "Webapps: HTML, TypeScript, and Testing",
     "notes": "https://cs0320.github.io/notes/html-react-playwright/html-react-playwright.html",
     "code": "",
-    "recording": ""
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b45c8b3e-7932-48ca-ad05-b26501700cd4"
   }
 ]
