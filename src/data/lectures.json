@@ -72,11 +72,20 @@
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b067c7c-90e9-4e00-9dfe-b26501700d1c"
   },
   {
-    "id": 9,
+    "id": 10,
     "date": "2/25",
     "topic": "Flexbox Froggy",
     "notes": "https://docs.google.com/presentation/d/1JXHmwkgtJlW7pNmnAGcViWhNZI0PgGjbgvpSLi_T1fI/edit?usp=sharing",
     "code": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=431df22a-40b8-45f5-be93-b26501700d44"
+  }, 
+  {
+    "id": 11,
+    "date": "2/27",
+    "topic": "Term Projects",
+    "notes": "",
+    "code": "",
     "recording": ""
   }
+
 ]
