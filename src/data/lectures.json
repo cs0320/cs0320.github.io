@@ -94,5 +94,13 @@
     "notes": "https://cs0320.github.io/notes/java-concurrency/java-concurrency.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d32081cc-7619-4f50-be5a-b26501700d81"
+  },
+  {
+    "id": 13,
+    "date": "3/6",
+    "topic": "Promises and TypeScript Asynchrony",
+    "notes": "https://cs0320.github.io/notes/promises-fetch-prs/promises-fetch-prs.html",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/mar06_ts_fetch/src",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60fe8f3e-3d6c-4b70-8f1b-b26501700d9c"
   }
 ]
