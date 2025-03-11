@@ -102,5 +102,13 @@
     "notes": "https://cs0320.github.io/notes/promises-fetch-prs/promises-fetch-prs.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/S25/mar06_ts_fetch/src",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60fe8f3e-3d6c-4b70-8f1b-b26501700d9c"
+  },
+  {
+    "id": 14,
+    "date": "3/11",
+    "topic": "Authentication and Clerk",
+    "notes": "https://docs.google.com/document/d/185TNZ4XMQelgVYUoR6aBvbPQUYKttVabx70g87D-nPE/edit?usp=sharing",
+    "code": "",
+    "recording": ""
   }
 ]
