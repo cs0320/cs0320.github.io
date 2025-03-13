@@ -114,6 +114,22 @@
   {
     "id": 15,
     "date": "3/13",
+    "topic": "Random Testing (Part 1)",
+    "notes": "https://cs0320.github.io/notes/mbt_pbt/mbt_pbt.html",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/mar13_mbt_llm",
+    "recording": ""
+  },
+  {
+    "id": 16,
+    "date": "3/18",
+    "topic": "",
+    "notes": "",
+    "code": "",
+    "recording": ""
+  },
+  {
+    "id": 17,
+    "date": "3/20",
     "topic": "",
     "notes": "",
     "code": "",
