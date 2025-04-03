@@ -129,10 +129,67 @@
   },
   {
     "id": 17,
-    "date": "3/20",
-    "topic": "Requirements and Firebase",
-    "notes": "https://cs0320.github.io/notes/slides-links/requirements-and-firebase.html",
+    "date": "4/1",
+    "topic": "Vignettes: Anonymous Functions and Structural Typing",
+    "notes": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/S25/vignettes/apr1",
+    "recording": ""
+  },
+  {
+    "id": 18,
+    "date": "4/3",
+    "topic": "Security, all too briefly (Part 1)",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94b669d3-f527-4b05-964c-b26501700e26"
+    "recording": ""
+  },
+  {
+    "id": 18,
+    "date": "4/8",
+    "topic": "Security, all too briefly (Part 2)",
+    "notes": "",
+    "code": "",
+    "recording": ""
+  },
+  {
+    "id": 19,
+    "date": "4/10",
+    "topic": "Optional: Future of 0320",
+    "notes": "",
+    "code": "",
+    "recording": ""
+  },
+  {
+    "id": 20,
+    "date": "4/15",
+    "topic": "Engineering Mindset: Algorithms",
+    "notes": "",
+    "code": "",
+    "recording": ""
+  },
+  {
+    "id": 21,
+    "date": "4/17",
+    "topic": "GUEST",
+    "notes": "",
+    "code": "",
+    "recording": ""
+  },
+  {
+    "id": 22,
+    "date": "4/22",
+    "topic": "Beyond Testing: Verification",
+    "notes": "",
+    "code": "",
+    "recording": ""
+  },
+  {
+    "id": 23,
+    "date": "4/24",
+    "topic": "GUEST",
+    "notes": "",
+    "code": "",
+    "recording": ""
   }
+
 ]
