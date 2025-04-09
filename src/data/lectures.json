@@ -139,7 +139,7 @@
     "id": 18,
     "date": "4/3",
     "topic": "Security, all too briefly (Part 1)",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/security/security_and_threat_modeling.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f27509c2-311a-4f68-8a97-b26501700e90"
   },
@@ -147,7 +147,7 @@
     "id": 18,
     "date": "4/8",
     "topic": "Security, all too briefly (Part 2)",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/security/security_and_threat_modeling.html",
     "code": "",
     "recording": ""
   },
