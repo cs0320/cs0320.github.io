@@ -3,62 +3,6 @@
     "id": 1,
     "title": "Preparing for CSV",
     "date": "1/27-1/28",
-    "slides": "https://docs.google.com/presentation/d/1JVT9Xop_9E5NV-L_r5VPSLZrv324S8eCpDmPFCR-7kU/edit#slide=id.p",
-    "recording": "https://drive.google.com/file/d/18FNympe5FoM8rtNzrp2biedUnx9HllNV/view?usp=sharing"
-  },
-  {
-    "id": 2,
-    "title": "Preparing to build an API Server",
-    "date": "2/10-2/11",
-    "slides": "https://docs.google.com/presentation/d/1IAz82kfSOB7Oy2K-5ZmlX5qCRZf6r58XTROSIG_Eg-U/edit#slide=id.g27a4702ee29_0_7",
-    "recording": "https://drive.google.com/file/d/1-fJlP4RKu9W0J071Smc5cGJX5AuND_-r/view?usp=sharing"
-  },
-  {
-    "id": 3,
-    "title": "Stakeholders and Design Thinking",
-    "date": "2/19-2/20",
-    "slides": "",
-    "recording": "https://brown.zoom.us/rec/share/mF8Yl5_jPe4nohpu35c8mw1EA_e9RMUfeigZe8thuL56AECr9jPsxi4ZLJdKbvUZ.EZjyGzihGVT94ISb"
-  },
-  {
-    "id": 4,
-    "title": "Preparing to build a Web Application",
-    "date": "2/24-2/25",
-    "slides": "https://docs.google.com/presentation/d/1gUdLRPlSpeRiucD_zaKdKGCwNY3LzMmuFK9oJzomksk/edit?usp=sharing",
-    "recording": "https://brown.zoom.us/rec/share/8KFwdnjLC8osEoVYEaX05v5UmJP7VdHv5HMub--6rDL5DRmFHR9I8kHtlqQWRbe1.gBk1-09rd6aeFLzm?startTime=1740437826000"
-  },
-  {
-    "id": 5,
-    "title": "Preparing for Integration",
-    "date": "3/10-3/11",
-    "slides": "https://docs.google.com/presentation/d/1EbdDoJe_cPGMl7TfZ3mTLw-yKntzN3Y_Q7jwxSlhjQ4/edit?usp=sharing",
-    "recording": ""
-  },
-  {
-    "id": 6,
-    "title": "Technology: From Maps to Algorithms",
-    "date": "3/17-3/18",
-    "slides": "",
-    "recording": ""
-  },
-  {
-    "id": 7,
-    "title": "Preparing for Maps: Front-end",
-    "date": "3/31-4/1",
-    "slides": "https://docs.google.com/document/d/1PM4ZO-WHSvarJnI7VxKAgRVUzRwt5P0tTe37jcygdTU/edit?usp=sharing",
-    "recording": ""
-  },
-  {
-    "id": 8,
-    "title": "Labor in/and AI",
-    "date": "4/7-4/8",
-    "slides": "",
-    "recording": ""
-  },
-  {
-    "id": 9,
-    "title": "Firestore",
-    "date": "TBD (or in class)",
     "slides": "",
     "recording": ""
   }

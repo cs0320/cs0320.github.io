@@ -30,7 +30,8 @@ function Landing() {
           </div>
           <div className="w-full md:w-1/2">
             <div className="w-full h-auto">
-
+              <div className="text-xl-x">
+                <em>This site is being updated for Fall 2025. Information may not be current.</em></div>
               <div className="image-container-1">
               <img src="/tulip.png" alt="" className="scatter-image"/>
                 <img src="/bee.png" alt="" className="scatter-image"/>

@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"Onboarding Form",
-        "link":"https://docs.google.com/forms/d/e/1FAIpQLSe_HxIzSExsktRtPSFQJZ0H6vj_QufgwUGYIL0xsklho-KYPw/viewform?usp=dialog",
+        "link":"",
         "release": "1/23",
         "due": "1/26",
         "demos": "-"
@@ -10,7 +10,7 @@
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"https://docs.google.com/forms/d/e/1FAIpQLSc5787d-jZ4DdAbi6Ea6a11-mDeMqW9_afgm1dgbObz3zgVKA/viewform?usp=dialog",
+    "link":"",
     "release": "1/23",
     "due": "1/26",
     "demos": "-"
@@ -18,95 +18,87 @@
 {
     "id":1,
     "title":"Setup Deliverable",
-    "link":"https://docs.google.com/document/d/1LnMolWwBW24wcG2wPtcBbffcLzyU_uIM-go2MIn0QxE/edit?usp=sharing",
+    "link":"",
     "release": "1/23",
     "due": "1/26",
     "demos": "-"
 },
 {
         "id":1,
-        "title":"Sprint 1.1: Extensible CSV",
-        "link":"https://docs.google.com/document/d/1kYOf-eJP5KIFfHkZIJcEui-o65MAnwTakw0Q1eQ9kBw/edit?usp=sharing",
+        "title":"Sprint 1: TypeScript CSV",
+        "link":"",
         "release": "1/27",
         "due": "2/1",
         "demos": "2/2-2/3 (by video)"
     },
     {
         "id":2,
-        "title":"Sprint 1.2: Searching CSV",
-        "link":"https://docs.google.com/document/d/11HXWMyKyDR6mUAG33pft6qC5d2IIuDrxqKA6UOWeJ3A/edit?usp=sharing",
+        "title":"Sprint 2: Extensible CSV",
+        "link":"",
         "release": "2/3",
         "due": "2/8",
         "demos": "2/9-2/11 (synchronous)"
     },
     {
         "id":3,
-        "title":"Sprint 2.1: API Server",
-        "link":"https://docs.google.com/document/d/1doaPnarqg4y9N1k0ciHzSV1X8M8stH-WJOZ02K6OF2A/edit?usp=sharing",
+        "title":"Sprint 3: API Server",
+        "link":"",
         "release": "2/10",
         "due": "2/15",
         "demos": "2/16-2/17 (by video)"
     },
     {
         "id":4,
-        "title":"Sprint 2.2: API Proxy",
-        "link":"https://docs.google.com/document/d/1ZqTrwSJgpFciyEEFpoVGBN2ynmFdOhvD45Z38eGIVW8/edit?usp=sharing",
+        "title":"Sprint 4: API Proxy",
+        "link":"",
         "release": "2/17",
         "due": "2/22",
         "demos": "2/23-2/25 (synchronous)"
     },
     {
         "id":5,
-        "title":"Sprint 3.1: Front-End Mockup",
-        "link":"https://docs.google.com/document/d/1_btJb4frwrxdf-M5ea8xVzBmA42diirZ2ZWQHLgnxNI/edit?usp=sharing",
+        "title":"Sprint 5: Webapps and Accessibility",
+        "link":"",
         "release": "2/24",
         "due": "3/1",
         "demos": "3/2-3/3 (by video)"
     },
     {
         "id":6,
-        "title":"Sprint 3.2: Data Visualization",
-        "link":"https://docs.google.com/document/d/1ldb2pvg87-SETEA9-wAc8HurXaenAkmf4yqDZW5kTcg/edit?usp=sharing",
+        "title":"Sprint 6: Cloud Storage and Pins",
+        "link":"",
         "release": "3/3",
         "due": "3/8",
         "demos": "3/9-3/11 (synchronous)"
     },
     {
         "id":7,
-        "title":"Sprint 4.1: Connecting to Server",
-        "link":"https://docs.google.com/document/d/1aL5ZzhyqlZ1iK58Ox7rQX_r40qrk68WLLSX5dM70XhI/edit?usp=sharing",
+        "title":"Sprint 7: Pathfinding 1",
+        "link":"",
         "release": "3/10",
         "due": "3/15",
         "demos": "3/16-3/17 (by video)"
     },
     {
         "id":8,
-        "title":"Sprint 4.2: Connecting to Database",
-        "link":"https://docs.google.com/document/d/1FdJ0jJ2VjngSbBoWToyBVulWcxoK87X1XF7Y9HqIKLM/edit?usp=sharing",
+        "title":"Sprint 8: Pathfinding 2",
+        "link":"",
         "release": "3/17",
         "due": "3/22",
         "demos": "3/31-4/1 (synchronous)"
     },
     {
         "id":9,
-        "title":"Sprint 5.1: Front-End Map",
-        "link":"https://docs.google.com/document/d/1AcwMgZaO8yYdCL8d3aMxhAjmehUdPVV3xfW-g65NULY/edit?usp=sharing",
+        "title":"Sprint 9: TBD",
+        "link":"",
         "release": "3/31",
         "due": "4/5",
         "demos": "4/6-4/7(by video)"
     },
     {
         "id":10,
-        "title":"Sprint 5.2: Mapping Data",
-        "link":"https://docs.google.com/document/d/1X852gonR_TjcDNOzcWq3K6wV4-sBC_L5xN2w8bmDeg4/edit?usp=sharing",
-        "release": "4/7",
-        "due": "4/12",
-        "demos": "4/13-4/15 (synchronous)"
-    },
-    {
-        "id":10,
         "title":"Term Project",
-        "link":"https://docs.google.com/document/d/1aG1CIDZknnfhzkH1qEjQrpvS76GaxYD3uBNzL52QqFw/edit?usp=sharing",
+        "link":"",
         "release": "4/2",
         "due": "By demo",
         "demos": "5/14-5/16"
