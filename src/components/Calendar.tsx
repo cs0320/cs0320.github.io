@@ -19,7 +19,7 @@ function Calendar() {
                 <div className="hours-container">
                   <iframe
                     title="Calendar"
-                    src="https://calendar.google.com/calendar/u/0?cid=Y181OGRmOTM5ZDY0ZGQ2MjAwYTVjY2EyNDU2OGU2NTNkMzk4YmRkNTc4MjFkOTc3MDBkOGYxOGUzMTNjMjcxOWMzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
+                    src="https://calendar.google.com/calendar/u/0?cid=https://calendar.google.com/calendar/embed?src=c_58df939d64dd6200a5cca24568e653d398bdd[…]3c2719c3%40group.calendar.google.com&ctz=America%2FNew_York"
                     style={{ border: "solid 5px rgb(230 139 80)" }}
                     width="100%"
                     height="600"
