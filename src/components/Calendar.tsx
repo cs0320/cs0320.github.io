@@ -8,7 +8,14 @@ function Calendar() {
       <section id="calendar">
         <div className="max-w-5xl mx-auto px-6 pt-16">
           <img className="pb-8" src="/honey-jar-divider.png" alt=""></img>
-          <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
+          <h1
+            className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500"
+            style={{
+              background: "#fcedd7ae",
+              width: "15%",
+              borderRadius: "10px",
+            }}
+          >
             Calendar
           </h1>
           <div className="text-sm md:text-base">
@@ -25,7 +32,14 @@ function Calendar() {
                     height="600"
                   ></iframe>
                 </div>
-                <h3 className="text-l md:text-md font-bold mt-6">
+                <h3
+                  className="text-l md:text-md font-bold mt-6"
+                  style={{
+                    background: "#fcedd7ae",
+                    width: "11%",
+                    borderRadius: "5px",
+                  }}
+                >
                   <b>Talk to Tim</b>
                 </h3>
                 <p

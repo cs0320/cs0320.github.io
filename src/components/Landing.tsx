@@ -17,14 +17,11 @@ function Landing() {
   const { scrollY } = useScroll();
   const prefersReduced = useReducedMotion();
 
-  // Parallax factor (keep your negative direction)
   const factor = prefersReduced ? 0 : -0.28;
 
-  // Smooth pixel-based translate
   const rawY = useTransform(scrollY, (v) => v * factor);
   const y = useSpring(rawY, { stiffness: 140, damping: 22, mass: 0.8 });
 
-  // --- NEW: compute the required image height so it never runs out ---
   const [imgHeight, setImgHeight] = useState<number>(
     typeof window !== "undefined" ? window.innerHeight * 2 : 2000
   );
@@ -32,7 +29,6 @@ function Landing() {
   useLayoutEffect(() => {
     const update = () => {
       const vh = window.innerHeight;
-      // robust page height calculation across browsers
       const doc = document;
       const pageH = Math.max(
         doc.body.scrollHeight,
@@ -43,13 +39,12 @@ function Landing() {
         doc.documentElement.clientHeight
       );
       const maxScroll = Math.max(0, pageH - vh);
-      const needed = Math.ceil(vh + Math.abs(factor) * maxScroll) + 50; // +200px safety buffer
+      const needed = Math.ceil(vh + Math.abs(factor) * maxScroll) + 50;
       setImgHeight(needed);
     };
 
     update();
 
-    // Recalculate when layout/content changes
     const ro = new ResizeObserver(update);
     ro.observe(document.body);
 
@@ -65,16 +60,14 @@ function Landing() {
 
   return (
     <section className="landing relative overflow-hidden px-2 py-32 md:px-0 font-mono">
-      {/* Ultra-smooth parallax background on its own fixed layer */}
       <motion.div
         aria-hidden
         className="pointer-events-none fixed inset-0 -z-10 [will-change:transform] [backface-visibility:hidden]"
       >
         <motion.img
-          src="/background.png"
+          src="/background.gif"
           alt=""
           draggable={false}
-          // IMPORTANT: remove any fixed height classes like h-[200vh]
           className="w-full object-cover object-top select-none"
           style={{ y, height: imgHeight }}
           loading="eager"
@@ -82,7 +75,6 @@ function Landing() {
         />
       </motion.div>
 
-      {/* Foreground Content */}
       <div className="relative z-10 container items-center max-w-6xl px-8 mx-auto xl:px-5">
         <div className="flex flex-wrap items-center sm:-mx-3 px-8">
           <div className="w-full md:w-1/2 md:px-3 lg:px-8">
@@ -97,12 +89,12 @@ function Landing() {
           </div>
           <div className="w-full md:w-1/2">
             <div className="w-full h-auto">
-              <div className="text-xl-x">
+              {/* <div className="text-xl-x">
                 <em>
                   This site is being updated for Fall 2025. Information may not
                   be current.
                 </em>
-              </div>
+              </div> */}
               <div className="image-container-1">
                 <img src="/hot-choco.png" alt="" className="scatter-image" />
                 <img src="/fire.png" alt="" className="scatter-image" />
@@ -115,7 +107,6 @@ function Landing() {
         </div>
       </div>
 
-      {/* Sections */}
       <CourseInfo />
       <Projects />
       <Lectures />

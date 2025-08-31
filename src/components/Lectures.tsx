@@ -8,7 +8,14 @@ function Lectures() {
       <section id="lectures">
         <div className="max-w-5xl mx-auto px-6 pt-16">
           <img className="pb-16" src="/apple-divider.png" alt=""></img>
-          <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 neon-text-yellow">
+          <h1
+            className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 neon-text-yellow"
+            style={{
+              background: "#fcedd7ae",
+              width: "15%",
+              borderRadius: "10px",
+            }}
+          >
             Lectures
           </h1>
           <div className="text-sm md:text-base">

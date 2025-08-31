@@ -3,6 +3,7 @@
   --color-primary: #333366;
   --color-secondary: #875e19;
   --color-accent: #e46c34;
+  --color-dropdown: #b05328;
   --color-link: #0a6e20;
   --color-text-main: #5e311c;
   --color-body: #0263d9;
@@ -458,7 +459,7 @@ p {
 }
 
 .dropdown {
-  color: var(--color-secondary);
+  color: var(--color-dropdown);
 }
 
 table {
