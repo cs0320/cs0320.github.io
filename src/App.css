@@ -205,11 +205,16 @@ canvas {
 }
 
 .landing {
-  background-color: #fcf7d7;
+  /* background-color: #fcf7d7; */
+  /* background-image: url(./../public/background.png); */
+  background-repeat: no-repeat; /* don't repeat horizontally OR vertically */
+  background-size: 100% auto; /* scale to full width */
+  background-position: top center;
+  background-attachment: scroll; /* important for JS to control */
 }
 
 .navbar {
-  background-color: #a4721c;
+  background-color: #815811;
   color: #fff8bd;
 }
 
@@ -380,7 +385,7 @@ canvas {
 }
 
 .useful-links {
-  background-color: rgba(145, 123, 15, 0.25);
+  background-color: rgba(97, 80, 62, 0.25);
   color: #5e311c;
   /* font-weight: bold; */
 }

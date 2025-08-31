@@ -1,5 +1,11 @@
+import {
+  motion,
+  useScroll,
+  useTransform,
+  useSpring,
+  useReducedMotion,
+} from "framer-motion";
 import "../App.css";
-// import SceneViewer from './SceneViewer';
 import Calendar from "./Calendar";
 import CourseInfo from "./CourseInfo";
 import Lectures from "./Lectures";
@@ -7,12 +13,39 @@ import Projects from "./Projects";
 import Staff from "./Staff";
 
 function Landing() {
+  const { scrollY } = useScroll();
+  const prefersReduced = useReducedMotion();
+
+  // Parallax factor: move bg slower than the page (tweak 0.20–0.35)
+  const factor = prefersReduced ? 0 : -0.28;
+
+  // Raw pixel-based translate
+  const rawY = useTransform(scrollY, (v) => v * factor);
+
+  // Smooth it with a spring (tweak damping/stiffness to taste)
+  const y = useSpring(rawY, { stiffness: 140, damping: 22, mass: 0.8 });
+
   return (
-    // style={{backgroundColor: '#0c0036'}}
-    // 1D1058
-    // style={{backgroundColor: '#1D1058'}}
-    <section className="landing px-2  py-32 md:px-0 font-mono ">
-      <div className="container items-center max-w-6xl px-8 mx-auto xl:px-5">
+    <section className="landing relative overflow-hidden px-2 py-32 md:px-0 font-mono">
+      {/* Ultra-smooth parallax background on its own fixed layer */}
+      <motion.div
+        aria-hidden
+        className="pointer-events-none fixed inset-0 -z-10 [will-change:transform] [backface-visibility:hidden]"
+      >
+        {/* Use an actual <img> so the GPU handles transforms cheaply */}
+        <motion.img
+          src="/background.png"
+          alt=""
+          draggable={false}
+          // Height > 100vh so we never expose gaps while we translate
+          className="w-full h-[200vh] object-cover object-top select-none"
+          style={{ y, height: "max-content" }}
+          loading="eager"
+          decoding="async"
+        />
+      </motion.div>
+      {/* Foreground Content */}
+      <div className="relative z-10 container items-center max-w-6xl px-8 mx-auto xl:px-5">
         <div className="flex flex-wrap items-center sm:-mx-3 px-8">
           <div className="w-full md:w-1/2 md:px-3 lg:px-8">
             <div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
@@ -44,6 +77,7 @@ function Landing() {
         </div>
       </div>
 
+      {/* Sections */}
       <CourseInfo />
       <Projects />
       <Lectures />
