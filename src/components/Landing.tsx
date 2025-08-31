@@ -5,6 +5,7 @@ import {
   useSpring,
   useReducedMotion,
 } from "framer-motion";
+import React, { useState, useLayoutEffect } from "react"; // add this
 import "../App.css";
 import Calendar from "./Calendar";
 import CourseInfo from "./CourseInfo";
@@ -16,14 +17,51 @@ function Landing() {
   const { scrollY } = useScroll();
   const prefersReduced = useReducedMotion();
 
-  // Parallax factor: move bg slower than the page (tweak 0.20–0.35)
+  // Parallax factor (keep your negative direction)
   const factor = prefersReduced ? 0 : -0.28;
 
-  // Raw pixel-based translate
+  // Smooth pixel-based translate
   const rawY = useTransform(scrollY, (v) => v * factor);
-
-  // Smooth it with a spring (tweak damping/stiffness to taste)
   const y = useSpring(rawY, { stiffness: 140, damping: 22, mass: 0.8 });
+
+  // --- NEW: compute the required image height so it never runs out ---
+  const [imgHeight, setImgHeight] = useState<number>(
+    typeof window !== "undefined" ? window.innerHeight * 2 : 2000
+  );
+
+  useLayoutEffect(() => {
+    const update = () => {
+      const vh = window.innerHeight;
+      // robust page height calculation across browsers
+      const doc = document;
+      const pageH = Math.max(
+        doc.body.scrollHeight,
+        doc.documentElement.scrollHeight,
+        doc.body.offsetHeight,
+        doc.documentElement.offsetHeight,
+        doc.body.clientHeight,
+        doc.documentElement.clientHeight
+      );
+      const maxScroll = Math.max(0, pageH - vh);
+      const needed = Math.ceil(vh + Math.abs(factor) * maxScroll) + 50; // +200px safety buffer
+      setImgHeight(needed);
+    };
+
+    update();
+
+    // Recalculate when layout/content changes
+    const ro = new ResizeObserver(update);
+    ro.observe(document.body);
+
+    window.addEventListener("resize", update);
+    window.addEventListener("load", update);
+
+    return () => {
+      ro.disconnect();
+      window.removeEventListener("resize", update);
+      window.removeEventListener("load", update);
+    };
+  }, [factor]);
 
   return (
     <section className="landing relative overflow-hidden px-2 py-32 md:px-0 font-mono">
@@ -32,18 +70,18 @@ function Landing() {
         aria-hidden
         className="pointer-events-none fixed inset-0 -z-10 [will-change:transform] [backface-visibility:hidden]"
       >
-        {/* Use an actual <img> so the GPU handles transforms cheaply */}
         <motion.img
           src="/background.png"
           alt=""
           draggable={false}
-          // Height > 100vh so we never expose gaps while we translate
-          className="w-full h-[200vh] object-cover object-top select-none"
-          style={{ y, height: "max-content" }}
+          // IMPORTANT: remove any fixed height classes like h-[200vh]
+          className="w-full object-cover object-top select-none"
+          style={{ y, height: imgHeight }}
           loading="eager"
           decoding="async"
         />
       </motion.div>
+
       {/* Foreground Content */}
       <div className="relative z-10 container items-center max-w-6xl px-8 mx-auto xl:px-5">
         <div className="flex flex-wrap items-center sm:-mx-3 px-8">

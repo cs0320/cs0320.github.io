@@ -13,7 +13,13 @@ function Projects() {
             Assignments
           </h1>
           <div className="text-sm md:text-base">
-            <p>
+            <p
+              style={{
+                backgroundColor: "#fcedd7ae",
+                borderRadius: "20px",
+                padding: "3px",
+              }}
+            >
               Project handouts are released at <b>8:00 AM ET</b> on the
               specified release day. Code submissions are due in Gradescope by{" "}
               <b>3:00 PM ET</b> on the specified due date. Synchronous demos
@@ -84,7 +90,13 @@ function Projects() {
             Gear-Ups
           </h1>
           <div className="text-sm md:text-base">
-            <p>
+            <p
+              style={{
+                backgroundColor: "#fcedd7ae",
+                borderRadius: "20px",
+                padding: "3px",
+              }}
+            >
               Gear-ups are interactive, lecture-style sections led by TAs that
               reinforce content from lecture with a specific emphasis on
               applying concepts to the current sprint. Gear-ups are held on the

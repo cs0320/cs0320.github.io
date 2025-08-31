@@ -13,7 +13,13 @@ function CourseInfo() {
           </h1>
           <div className="text-sm md:text-base">
             <div className="body-text space-y-8">
-              <p>
+              <p
+                style={{
+                  backgroundColor: "#fcedd7ae",
+                  borderRadius: "20px",
+                  padding: "3px",
+                }}
+              >
                 CSCI 0320 focuses on designing, building, testing, and
                 maintaining systems collaboratively. It covers programming
                 techniques (using Java and TypeScript with various frameworks),

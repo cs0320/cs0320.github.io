@@ -28,7 +28,13 @@ function Calendar() {
                 <h3 className="text-l md:text-md font-bold mt-6">
                   <b>Talk to Tim</b>
                 </h3>
-                <p>
+                <p
+                  style={{
+                    backgroundColor: "#fcedd7ae",
+                    borderRadius: "5px",
+                    padding: "3px",
+                  }}
+                >
                   Talk to Tim in <b>CIT 355</b> on Thursdays from{" "}
                   <b>2:30 PM–3:30 PM EST</b> (right after lecture).
                 </p>
