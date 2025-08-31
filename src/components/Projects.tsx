@@ -17,7 +17,7 @@ function Projects() {
               style={{
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
-                padding: "3px",
+                padding: "10px",
               }}
             >
               Project handouts are released at <b>8:00 AM ET</b> on the
@@ -101,7 +101,7 @@ function Projects() {
               style={{
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
-                padding: "3px",
+                padding: "10px",
               }}
             >
               Gear-ups are interactive, lecture-style sections led by TAs that

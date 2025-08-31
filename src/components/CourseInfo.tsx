@@ -17,7 +17,7 @@ function CourseInfo() {
                 style={{
                   backgroundColor: "#fcedd7ae",
                   borderRadius: "20px",
-                  padding: "3px",
+                  padding: "10px",
                 }}
               >
                 CSCI 0320 focuses on designing, building, testing, and

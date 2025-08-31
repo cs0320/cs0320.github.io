@@ -23,7 +23,7 @@ function Lectures() {
               style={{
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
-                padding: "3px",
+                padding: "10px",
               }}
             >
               cs0320 is taught by Tim Nelson. Lectures are held every Tuesday

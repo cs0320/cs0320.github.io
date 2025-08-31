@@ -6,8 +6,14 @@ function DropDown(props: { title: string; description: string[] }) {
       <Disclosure>
         {({ open }) => (
           <>
-            <div className="border-b border-[#c54805]">
-              <Disclosure.Button className="py-4 font-bold dropdown md:text-2xl w-full text-left focus:underline flex justify-between items-center hover-fade">
+            <div
+              className="border-b border-[#c54805]"
+              style={{ background: "#fcedd7ae", borderRadius: "5px" }}
+            >
+              <Disclosure.Button
+                className="py-4 font-bold dropdown md:text-2xl w-full text-left focus:underline flex justify-between items-center hover-fade"
+                style={{ padding: "10px" }}
+              >
                 {props.title}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

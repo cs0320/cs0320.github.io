@@ -32,26 +32,26 @@ function Calendar() {
                     height="600"
                   ></iframe>
                 </div>
-                <h3
-                  className="text-l md:text-md font-bold mt-6"
-                  style={{
-                    background: "#fcedd7ae",
-                    width: "11%",
-                    borderRadius: "5px",
-                  }}
-                >
-                  <b>Talk to Tim</b>
-                </h3>
-                <p
+                <div
                   style={{
                     backgroundColor: "#fcedd7ae",
                     borderRadius: "5px",
                     padding: "3px",
+                    marginTop: "1.5rem",
                   }}
                 >
-                  Talk to Tim in <b>CIT 355</b> on Thursdays from{" "}
-                  <b>2:30 PM–3:30 PM EST</b> (right after lecture).
-                </p>
+                  <h3 className="text-l md:text-md font-bold">
+                    <b>Talk to Tim</b>
+                  </h3>
+                  <p
+                    style={{
+                      padding: "3px",
+                    }}
+                  >
+                    Talk to Tim in <b>CIT 355</b> on Thursdays from{" "}
+                    <b>2:30 PM–3:30 PM EST</b> (right after lecture).
+                  </p>
+                </div>
                 <div className="text-sm md:text-base pt-6">
                   <DropDown title="Collab Section Info" description={[]} />
                   <DropDown title="Gearup Info" description={[]} />
