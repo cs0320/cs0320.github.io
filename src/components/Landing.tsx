@@ -77,6 +77,9 @@ function Landing() {
 
       <div className="relative z-10 container items-center max-w-6xl px-8 mx-auto xl:px-5">
         <div className="flex flex-wrap items-center sm:-mx-3 px-8">
+          <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
+            If you are waitlisted for the course, <em>you must keep it in your cart</em> as a "prospective student" or you will receive no updates! 
+          </h1>
           <div className="w-full md:w-1/2 md:px-3 lg:px-8">
             <div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
               <h1 className="text-4xl font-extrabold tracking-tight sm:text-5xl md:text-4xl lg:text-5xl xl:text-6xl">
