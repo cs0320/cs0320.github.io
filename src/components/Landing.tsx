@@ -72,7 +72,7 @@ function Landing({ animationEnabled }: LandingProps) {
           className="pointer-events-none fixed inset-0 -z-10 [will-change:transform] [backface-visibility:hidden]"
         >
           <motion.img
-            src={!effectiveReduced ? "/background.gif" : "/background.png"}
+            src={effectiveReduced ? "/background.png" : "/background.gif"}
             alt=""
             draggable={false}
             className="w-full object-cover object-top select-none"
