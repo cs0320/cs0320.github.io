@@ -72,7 +72,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href=""
+                  href="https://edstem.org/us/courses/85500/discussion"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -88,7 +88,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href=""
+                  href="https://www.gradescope.com/courses/1110634"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -96,7 +96,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href=""
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSefNxCWAyazMD5IECOnyk1hEPuK9bRcchMQ9NIILmfnfNl3iA/viewform?usp=dialog"
                   target="_blank"
                   rel="noreferrer"
                 >
