@@ -13,12 +13,17 @@ import Lectures from "./Lectures";
 import Projects from "./Projects";
 import Staff from "./Staff";
 
-function Landing() {
+
+interface LandingProps {
+  animationEnabled: boolean;
+}
+
+function Landing({ animationEnabled }: LandingProps) {
   const { scrollY } = useScroll();
   const prefersReduced = useReducedMotion();
-
-  const factor = prefersReduced ? 0 : -0.28;
-
+  // If animation is disabled, act as if prefersReduced is true
+  const effectiveReduced = prefersReduced || !animationEnabled;
+  const factor = effectiveReduced ? 0 : -0.28;
   const rawY = useTransform(scrollY, (v) => v * factor);
   const y = useSpring(rawY, { stiffness: 140, damping: 22, mass: 0.8 });
 
@@ -60,20 +65,22 @@ function Landing() {
 
   return (
     <section className="landing relative overflow-hidden px-2 py-32 md:px-0 font-mono">
-      <motion.div
-        aria-hidden
-        className="pointer-events-none fixed inset-0 -z-10 [will-change:transform] [backface-visibility:hidden]"
-      >
-        <motion.img
-          src="/background.gif"
-          alt=""
-          draggable={false}
-          className="w-full object-cover object-top select-none"
-          style={{ y, height: imgHeight }}
-          loading="eager"
-          decoding="async"
-        />
-      </motion.div>
+
+      {/* Animated background if enabled, static otherwise */}
+        <motion.div
+          aria-hidden
+          className="pointer-events-none fixed inset-0 -z-10 [will-change:transform] [backface-visibility:hidden]"
+        >
+          <motion.img
+            src={effectiveReduced ? "/background.png" : "/background.gif"}
+            alt=""
+            draggable={false}
+            className="w-full object-cover object-top select-none"
+            style={{ y, height: imgHeight }}
+            loading="eager"
+            decoding="async"
+          />
+        </motion.div>
 
       <div className="relative z-10 container items-center max-w-6xl px-8 mx-auto xl:px-5">
         <div className="flex flex-wrap items-center sm:-mx-3 px-8">
