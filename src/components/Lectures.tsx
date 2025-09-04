@@ -28,7 +28,7 @@ function Lectures() {
             >
               cs0320 is taught by Tim Nelson. Lectures are held every Tuesday
               and Thursday from<b> 1:00 to 2:20 PM</b> in{" "}
-              <b>Metcalf Research Building Auditorium</b> and recordings will be
+              <b>Barus & Holley 168 (we were moved; always double-check!)</b> and recordings will be
               uploaded after each lecture and can also always be found on{" "}
               <a
                 className="hyperlink"
@@ -56,6 +56,7 @@ function Lectures() {
                   <th>Date</th>
                   <th>Code</th>
                   <th>Recording</th>
+                  <th>Readings</th>
                 </tr>
               </thead>
               <tbody>
@@ -102,6 +103,13 @@ function Lectures() {
                           <a className="" href={lecture.recording}>
                             {lecture.recording ? "Recording" : "—"}
                           </a>
+                        </td>
+                        <td>
+                          {lecture.readings.map(reading => {
+                            return <p>&bull; <a className="" href={reading.url}>
+                              {reading.title}
+                            </a></p>
+                          })}
                         </td>
                       </tr>
                     );
