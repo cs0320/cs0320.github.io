@@ -27,20 +27,32 @@ function Lectures() {
               }}
             >
               cs0320 is taught by Tim Nelson. Lectures are held every Tuesday
-              and Thursday from<b> 1:00 to 2:20 PM</b> in{" "}
-              <b>Barus & Holley 168 (we were moved; always double-check!)</b> and recordings will be
+              and Thursday from<b> 10:30AM to 11:50PM (new time!)</b> in{" "}
+              <b>Barus & Holley 168 (we were moved; always double-check!)</b></p>
+              <p
+               style={{
+                backgroundColor: "#fcedd7ae",
+                borderRadius: "20px",
+                padding: "10px",
+              }}>Recordings will be
               uploaded after each lecture and can also always be found on{" "}
               <a
                 className="hyperlink"
                 href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2291697858-2c90-4eb5-9e08-b265016af9df%22"
               >
                 Panopto
-              </a>
-              . The lecture notes can be found on{" "}
+              </a>.</p>
+
+              <p
+                style={{
+                backgroundColor: "#fcedd7ae",
+                borderRadius: "20px",
+                padding: "10px",
+              }}>The lecture notes can be found{" "}
               <a className="hyperlink" href="https://cs0320.github.io/notes/">
-                Github pages
+                here
               </a>
-              . Class livecode can be found in{" "}
+              , and class livecode can be found in{" "}
               <a
                 className="hyperlink"
                 href="https://github.com/cs0320/class-livecode"
