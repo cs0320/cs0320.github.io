@@ -1,9 +1,31 @@
 [
   {
     "id": 1,
-    "title": "Preparing for CSV",
+    "title": "Gitting Started",
     "date": "9/8-9/9",
     "slides": "",
     "recording": ""
+  },
+  {
+    "id": 2,
+    "title": "AI Use",
+    "date": "9/15-9/16",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 3,
+    "title": "Server",
+    "date": "9/22-9/23",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 4,
+    "title": "...",
+    "date": "...",
+    "slides": "",
+    "recording": ""
   }
+
 ]
