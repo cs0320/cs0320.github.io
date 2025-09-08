@@ -27,7 +27,7 @@ function Lectures() {
               }}
             >
               cs0320 is taught by Tim Nelson. Lectures are held every Tuesday
-              and Thursday from<b> 10:30AM to 11:50PM (new time!)</b> in{" "}
+              and Thursday from<b> 10:30AM to 11:50AM (new time!)</b> in{" "}
               <b>Barus & Holley 168 (we were moved; always double-check!)</b></p>
               <p
                style={{
