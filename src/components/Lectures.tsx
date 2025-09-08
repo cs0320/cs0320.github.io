@@ -84,7 +84,7 @@ function Lectures() {
                             style={{
                               pointerEvents: lecture.notes ? "auto" : "none",
                             }}
-                            className="inline-flex hyperlink items-center assignment-link"
+                            className="inline-flex items-center assignment-link"
                           >
                             <b>{lecture.topic}</b>
                             {lecture.notes && (
@@ -107,18 +107,18 @@ function Lectures() {
                         </td>
                         <td>{lecture.date}</td>
                         <td>
-                          <a className="" href={lecture.code}>
-                            {lecture.code ? "Livecode" : "—"}
-                          </a>
+                          {lecture.code ?                           
+                          <a className="hyperlink" href={lecture.code}>Code</a>
+                          : "-"}
                         </td>
                         <td>
-                          <a className="" href={lecture.recording}>
-                            {lecture.recording ? "Recording" : "—"}
-                          </a>
+                          {lecture.recording ? 
+                            <a className="hyperlink" href={lecture.recording}>Recording</a>
+                            : "-"}
                         </td>
                         <td>
                           {lecture.readings.map(reading => {
-                            return <p>&bull; <a className="" href={reading.url}>
+                            return <p>&bull; <a className="hyperlink" href={reading.url}>
                               {reading.title}
                             </a></p>
                           })}
