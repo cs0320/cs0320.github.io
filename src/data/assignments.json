@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"Onboarding Form",
-        "link":"",
+        "link":"https://docs.google.com/forms/d/e/1FAIpQLSfPTmXfxxfkDEdoFHRhyHWT6_wSllN6Nhu9dNnVbi2cqbiCSA/viewform?usp=dialog",
         "release": "9/4",
         "due": "9/7",
         "demos": "-"
@@ -10,7 +10,15 @@
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSe-ZPvIctWEiCs_dCzTzkgJTeHflEzY7oKJz3U-eXLi6M6gNg/viewform?usp=header",
+    "release": "9/4",
+        "due": "9/7",
+    "demos": "-"
+},
+{
+    "id":1,
+    "title":"AI Use Agreement Quiz",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSekkLhqmA55nr-HYjq1u_V5uaIswohy-bHS29sGfPYGgT9byQ/viewform?usp=dialog",
     "release": "9/4",
         "due": "9/7",
     "demos": "-"
@@ -18,7 +26,7 @@
 {
     "id":1,
     "title":"Setup Deliverable",
-    "link":"",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLScviDUZeeEeQnkrslT-vVqXbGavsOp8AzdmO1E8QvudbbCcnA/viewform?usp=dialog",
     "release": "9/4",
         "due": "9/7",
     "demos": "-"
@@ -26,7 +34,7 @@
 {
         "id":1,
         "title":"Sprint 1: TypeScript CSV",
-        "link":"",
+        "link":"https://docs.google.com/document/d/1DWR9ookp1vvvluoxsLmZSq3VbXdi24eSi2uaY8cuqlY/edit?usp=sharing",
         "release": "9/8",
         "due": "9/13",
         "demos": "9/14-9/15 (by video)"
