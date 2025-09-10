@@ -93,7 +93,7 @@ function Calendar() {
             <div className="grid grid-cols-2 gap-4">
               <a
                 className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLScVR_C6BOdOuu7k_sbSQsc07DumOGJHV8w5EYlCh9GMNdisiw/viewform?usp=dialog"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSc5nT2USx-cRFGPIDa87vNpxk8bxMgxyCAmsd02dFMRYQeF_Q/viewform"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -101,7 +101,7 @@ function Calendar() {
               </a>
               <a
                 className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSeW5b0kMKDgQL-ktRDrsOT7YyHIvmDXRm2TpW3YVgGT3DLZFw/viewform?usp=dialog"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdetrddxBF5XVUvodlp-3qFallXdmxjwuPZDgs7IJiZmewZqQ/viewform"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -109,24 +109,16 @@ function Calendar() {
               </a>
               <a
                 className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfwHqAbR5JmhJ4FiC81aOFKvNAW52Mxxg6FkmXbk3xBG5QAAw/viewform?usp=dialog"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdaNjaNVleEh_KJ8Cn-iWYzY3tMfHLVQ2l2C5FUfBADpXbIAw/viewform"
                 target="_blank"
                 rel="noreferrer"
               >
                 Collab Section Debugging Partner Form
               </a>
-              <a
-                className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfV6cqh0OTpO43pgzOKeCwsxjTYiHlcSW_24tBTD65owwNfAA/viewform?usp=dialog"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Design Dicussion Form
-              </a>
               {/* <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe6XtyXXCO-yUTgGQo_X_rIL08hUswbdNFDX_NmY7l1oXHJ2A/viewform?usp=dialog" target="_blank" rel="noreferrer">Collab Section Attendance Form</a> */}
               <a
                 className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSeI8FOS1ciXUiCAx3uXEKU5n5_CxQbMb7zlQ4qYDfWfDgaJeA/viewform?usp=dialog"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSfEWYzBGeS9N4TBvxSK2frad2YqnjCKknW4DjY4RqerMN-eNw/viewform"
                 target="_blank"
                 rel="noreferrer"
               >
