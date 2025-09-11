@@ -48,7 +48,7 @@ function Lectures() {
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
                 padding: "10px",
-              }}>The lecture notes can be found{" "}
+              }}>All lecture notes can be found{" "}
               <a className="hyperlink" href="https://cs0320.github.io/notes/">
                 here
               </a>
@@ -59,7 +59,7 @@ function Lectures() {
               >
                 this Github repo
               </a>
-              .
+              . We won't be adding individual links to the table below.
             </p>
             <table className="table">
               <thead>

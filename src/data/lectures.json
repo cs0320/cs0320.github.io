@@ -11,5 +11,26 @@
      {"title": "Types (up to Transforming Data)", "url": "https://docs.google.com/document/d/115A3utnCRM71jOGlXV6hqGzvHgA7psPo218JpXtnSPI"},
      {"title": "Clever Manka", "url": "https://www.gutenberg.org/files/33002/33002-h/33002-h.htm#Page_165"}
     ]
+  },
+  {
+    "id": 2,
+    "date": "09/09",
+    "topic": "TypeScript, Lambdas, and Validation",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": 
+    []
+  },
+  {
+    "id": 3,
+    "date": "09/11",
+    "topic": "Narrowing and Refinements",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": 
+    [{"title": "Types (remainder)", "url": "https://docs.google.com/document/d/115A3utnCRM71jOGlXV6hqGzvHgA7psPo218JpXtnSPI"},
+     {"title": "Vibe Coding Day 8", "url": "https://xcancel.com/jasonlk/status/1946053598267179130#m"}]
   }
 ]
