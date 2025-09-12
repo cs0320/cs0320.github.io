@@ -156,7 +156,7 @@ function DropDown(props: { title: string; description: string[] }) {
                     {props.title === "More Resources" && (
                       <div>
                         <li className="underline">
-                          <a href="https://docs.google.com/document/d/1ejCvcbb-nJBkiQZlNDAEmxYf-H5lXQdVBZDkaWsu7so/edit?usp=sharing">
+                          <a href="https://docs.google.com/document/d/1r_htAalUyKAH_Zwy-Wzz-Ecu5yghfmXp6xVTY9JaSEA/edit?usp=sharing">
                             Missive
                           </a>
                         </li>
