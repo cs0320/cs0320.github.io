@@ -38,7 +38,7 @@ function Lectures() {
               uploaded after each lecture and can also always be found on{" "}
               <a
                 className="hyperlink"
-                href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2291697858-2c90-4eb5-9e08-b265016af9df%22"
+                href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2266b9e9e2-07aa-4460-ac5b-b348016201d8%22"
               >
                 Panopto
               </a>.</p>
@@ -48,7 +48,7 @@ function Lectures() {
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
                 padding: "10px",
-              }}>The lecture notes can be found{" "}
+              }}>All lecture notes can be found{" "}
               <a className="hyperlink" href="https://cs0320.github.io/notes/">
                 here
               </a>
@@ -59,7 +59,7 @@ function Lectures() {
               >
                 this Github repo
               </a>
-              .
+              . We won't be adding individual links to the table below.
             </p>
             <table className="table">
               <thead>
