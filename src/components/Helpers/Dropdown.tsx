@@ -155,34 +155,19 @@ function DropDown(props: { title: string; description: string[] }) {
                     )}
                     {props.title === "More Resources" && (
                       <div>
-                        <li className="underline">
-                          <a href="https://docs.google.com/document/d/1r_htAalUyKAH_Zwy-Wzz-Ecu5yghfmXp6xVTY9JaSEA/edit?usp=sharing">
-                            Missive
-                          </a>
-                        </li>
-                        <li className="underline">
-                          <a href="https://docs.google.com/document/d/17aDeWqIe4OHaw4jw-ZydASAOcg7oU-JKtJma1bhTE2M/edit?usp=sharing">
-                            Syllabus
-                          </a>
-                        </li>
-                        <li className="underline">
-                          <a href="https://www-oreilly-com.revproxy.brown.edu/library/view/effective-java/9780134686097/?ar">
-                            Textbook
-                          </a>
-                        </li>
-                        <li className="underline">
+                        {/* <li className="underline">
                           <a href="https://docs.google.com/document/d/1DvXpCbndn7L4D2sZEkNFc-0qzg87LE7X-9myUBVBIWI/edit?usp=sharing">
                             Documentation and Style Guide
                           </a>
-                        </li>
+                        </li> */}
                         <li className="underline">
                           <a href="https://docs.google.com/document/d/1Rwwenh6TXRbz5IEtLCTmkK88ZHaYjlOBf1NahO2q-wA/edit?usp=sharing">
                             Git Guide
                           </a>
                         </li>
                         <li className="underline">
-                          <a href="https://docs.google.com/document/d/114mqKkhSCpf4-0ASQ-kdXeRqscsVi4Mt0pVbV4gA4mQ/edit?tab=t.0#heading=h.5stac8a1mtke">
-                            Demo Recipe
+                          <a href="https://docs.google.com/document/d/1B8bDFwUiwgf5Iuew-up1su4owCyx0IUHohWIqsp-tHY/edit?usp=sharing">
+                            Grading and Demo Recipe
                           </a>
                         </li>
                         <li className="underline">
