@@ -101,14 +101,6 @@ function Calendar() {
               </a>
               <a
                 className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSdetrddxBF5XVUvodlp-3qFallXdmxjwuPZDgs7IJiZmewZqQ/viewform"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Gearup Swap Form
-              </a>
-              <a
-                className="quick-link"
                 href="https://docs.google.com/forms/d/e/1FAIpQLSdaNjaNVleEh_KJ8Cn-iWYzY3tMfHLVQ2l2C5FUfBADpXbIAw/viewform"
                 target="_blank"
                 rel="noreferrer"
@@ -116,14 +108,6 @@ function Calendar() {
                 Collab Section Debugging Partner Form
               </a>
               {/* <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe6XtyXXCO-yUTgGQo_X_rIL08hUswbdNFDX_NmY7l1oXHJ2A/viewform?usp=dialog" target="_blank" rel="noreferrer">Collab Section Attendance Form</a> */}
-              <a
-                className="quick-link"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfEWYzBGeS9N4TBvxSK2frad2YqnjCKknW4DjY4RqerMN-eNw/viewform"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Collaboration Crest Form
-              </a>
             </div>
           </div>
         </div>
