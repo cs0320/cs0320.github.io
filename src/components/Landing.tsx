@@ -22,7 +22,7 @@ function Landing({ animationEnabled }: LandingProps) {
   const prefersReduced = useReducedMotion();
   // If animation is disabled, act as if prefersReduced is true
   const effectiveReduced = prefersReduced || !animationEnabled;
-  const factor = effectiveReduced ? 0 : -0.27;
+  const factor = effectiveReduced ? 0 : -0.25;
   const rawY = useTransform(scrollY, (v) => v * factor);
   const y = useSpring(rawY, { stiffness: 140, damping: 22, mass: 0.8 });
 

@@ -130,5 +130,38 @@
     "bio": "Hi everyone! I'm Anant, a 4th year in the Brown | RISD program studying CS and Photography from Kolkata, India. I love making images, playing video games, caffeine, watching music videos w friends, and being on the main green. Excited to meet you all!",
     "img": "/staff/anant.jpg",
     "hover": "/hot-choco.png"
+  },
+  {
+    "name": "Kaley Newlin",
+    "role": "UTA",
+    "cslogin": "knewlin",
+    "pronouns": "she/her",
+    "zodiac": "",
+    "hometown": "",
+    "bio": "Hello! I am Kaley, a senior from Orange County California studying CS and Cognitive Neuroscience! You will often find me playing video games/board games, watching horror movies, or learning Persian. I'd love to get a coffee and chat!",
+    "img": "/staff/kaley.jpg",
+    "hover": "/candle.png"
+  },
+  {
+    "name": "Stanley Ndichu",
+    "role": "UTA/STA",
+    "cslogin": "sndichu",
+    "pronouns": "he/him",
+    "zodiac": "",
+    "hometown": "",
+    "bio": "Hi everyone! I’m Stanley, a senior studying cs. I’m a big fan of soccer, animation and stand up comedy. Outside of code, I’m passionate about mental health, especially awareness and advocacy. Feel free to reach out if you want to chat!",
+    "img": "/staff/stanley.jpeg",
+    "hover": "/umbrella.png"
+  },
+  {
+    "name": "Jimin Ryu",
+    "role": "UTA",
+    "cslogin": "jlryu",
+    "pronouns": "he/him",
+    "zodiac": "",
+    "hometown": "",
+    "bio": "Hi! I'm Jimin, and I'm a senior from Boise, Idaho studying APMA and CS. I enjoy basketball, music, hanging out with friends, and learning new things. I'm excited to meet everyone and to be a TA for CS32 this semester!",
+    "img": "/staff/jimin.jpg",
+    "hover": "/log.png"
   }
 ]
