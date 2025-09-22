@@ -48,8 +48,7 @@ function Calendar() {
                       padding: "3px",
                     }}
                   >
-                    Talk to Tim in <b>CIT 355</b> on Thursdays from{" "}
-                    <b>2:30 PM–3:30 PM EST</b> (right after lecture).
+                    These are shown on the calendar! You can drop by with any question, whether it's about low-level code problems or course policy or general CS advice. (Priority will be given to 0320 questions, of course.)
                   </p>
                 </div>
                 <div className="text-sm md:text-base pt-6">
