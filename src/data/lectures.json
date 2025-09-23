@@ -32,5 +32,32 @@
     "readings": 
     [{"title": "Types (remainder)", "url": "https://docs.google.com/document/d/115A3utnCRM71jOGlXV6hqGzvHgA7psPo218JpXtnSPI"},
      {"title": "Vibe Coding Day 8", "url": "https://xcancel.com/jasonlk/status/1946053598267179130#m"}]
+  },
+  {
+    "id": 4,
+    "date": "09/16",
+    "topic": "Branding and Immutability",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 5,
+    "date": "09/18",
+    "topic": "Threads and Promises",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 6,
+    "date": "09/23",
+    "topic": "Teams, Code Review, Sprint 2 to Sprint 3",
+    "notes": "https://docs.google.com/presentation/d/1vG__W6xRQ5uZm-dELCPExUUONDpSzMCzJ5qy7REd75Y/edit?usp=sharing",
+    "code": "",
+    "recording": "",
+    "readings": []
   }
 ]
