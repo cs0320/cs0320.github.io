@@ -59,5 +59,14 @@
     "code": "",
     "recording": "",
     "readings": []
+  },
+  {
+    "id": 7,
+    "date": "09/25",
+    "topic": "Sprint 3 Q&A, Mocking Supplement",
+    "notes": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/F25/sep25_mocking_brain_jar",
+    "recording": "",
+    "readings": [{"title": "(Canva) Yes, You Can Use AI in Our Interviews. In fact, we insist", "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/"}]
   }
 ]
