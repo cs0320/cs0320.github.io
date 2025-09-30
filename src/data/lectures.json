@@ -68,5 +68,15 @@
     "code": "https://github.com/cs0320/class-livecode/tree/main/F25/sep25_mocking_brain_jar",
     "recording": "",
     "readings": [{"title": "(Canva) Yes, You Can Use AI in Our Interviews. In fact, we insist", "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/"}]
+  },
+  {
+    "id": 8,
+    "date": "09/30",
+    "topic": "Retrospective and Web",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": [{"title": "Adventures in Copilot (Part 1)", "url": "https://tnelson.github.io/2025/08/07/copilot.html"},
+                 {"title": "Adventures in Copilot (Part 2)", "url": "https://tnelson.github.io/2025/09/22/copilot-2.html"}]
   }
 ]
