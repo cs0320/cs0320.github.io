@@ -136,9 +136,11 @@ function Projects() {
                           </a>
                         </td>
                         <td>
-                          <a className="hyperlink" href={gearup.recording}>
-                            {gearup.recording ? "Recording" : ""}
-                          </a>
+                          {gearup.recording
+                          ? gearup.recording === "N/A" || gearup.recording === "n/a"
+                            ? "N/A"
+                            : <a className="hyperlink" href={gearup.recording}>Recording</a>
+                          : ""}
                         </td>
                       </tr>
                     );
