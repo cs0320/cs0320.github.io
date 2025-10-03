@@ -36,10 +36,30 @@
   },
   {
     "id": 6,
-    "title": "...",
-    "date": "...",
+    "title": "Playwright",
+    "date": "10/14-10/15",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 7,
+    "title": "Technology",
+    "date": "10/20-10/21",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 8,
+    "title": "TBD",
+    "date": "10/27-10/28",
+    "slides": "",
+    "recording": ""
+  },
+  {
+    "id": 9,
+    "title": "Stakeholders",
+    "date": "11/3-11/4",
     "slides": "",
     "recording": ""
   }
-
 ]
