@@ -78,5 +78,24 @@
     "recording": "",
     "readings": [{"title": "Adventures in Copilot (Part 1)", "url": "https://tnelson.github.io/2025/08/07/copilot.html"},
                  {"title": "Adventures in Copilot (Part 2)", "url": "https://tnelson.github.io/2025/09/22/copilot-2.html"}]
+  },
+  {
+    "id": 9,
+    "date": "10/02",
+    "topic": "TypeScript and React",
+    "notes": "https://cs0320.github.io/notes/06_html_react/html-react-playwright.html",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 10,
+    "date": "10/07",
+    "topic": "UI and Accessibility",
+    "notes": "https://docs.google.com/presentation/d/1wURMcFeZ1kaSVseTFZrXPhfKQkN5qhI7bkZXMp2jhHw/edit?usp=sharing",
+    "code": "",
+    "recording": "",
+    "readings": []
   }
+
 ]
