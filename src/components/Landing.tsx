@@ -63,7 +63,7 @@ function Landing({ animationEnabled }: LandingProps) {
   }, [factor]);
 
   return (
-    <section className="landing relative overflow-hidden px-2 py-32 md:px-0 font-mono">
+    <section className="landing relative overflow-y-hidden overflow-x-auto px-2 py-32 md:px-0 font-mono">
       {/* Animated background if enabled, static otherwise */}
       <motion.div
         aria-hidden
