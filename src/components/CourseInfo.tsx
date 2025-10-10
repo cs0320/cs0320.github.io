@@ -9,7 +9,7 @@ function CourseInfo() {
       <section id="course-info">
         <div className="max-w-5xl mx-auto px-6 pt-32 pb-16">
           <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
-            Welcome to cs32!
+            Welcome to cs0320/1340!
           </h1>
           <div className="text-sm md:text-base">
             <div className="body-text space-y-8">
@@ -20,7 +20,7 @@ function CourseInfo() {
                   padding: "10px",
                 }}
               >
-                CSCI 0320 focuses on designing, building, testing, and
+                CSCI 0320/1340 focuses on designing, building, testing, and
                 maintaining systems collaboratively. It covers programming
                 techniques (using Java and TypeScript with various frameworks),
                 object-oriented design, advanced testing (e.g., fuzz testing),

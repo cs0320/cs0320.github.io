@@ -28,13 +28,13 @@ function Lectures() {
             >
               cs0320 is taught by Tim Nelson. Lectures are held every Tuesday
               and Thursday from<b> 10:30AM to 11:50AM (new time!)</b> in{" "}
-              <b>Barus & Holley 168 (we were moved; always double-check!)</b></p>
+              <b>Barus & Holley 168</b></p>
               <p
                style={{
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
                 padding: "10px",
-              }}>Recordings will be
+              }}><b>Recordings</b> will be
               uploaded after each lecture and can also always be found on{" "}
               <a
                 className="hyperlink"
@@ -48,7 +48,7 @@ function Lectures() {
                 backgroundColor: "#fcedd7ae",
                 borderRadius: "20px",
                 padding: "10px",
-              }}>All lecture notes can be found{" "}
+              }}><b>Lecture notes</b> can be found{" "}
               <a className="hyperlink" href="https://cs0320.github.io/notes/">
                 here
               </a>
@@ -59,12 +59,13 @@ function Lectures() {
               >
                 this Github repo
               </a>
-              . We won't be adding individual links to the table below.
+              . Always check these resources for additional content. Not every resource (especially in the notes) fits a specific lecture slot.
             </p>
             <table className="table">
               <thead>
                 <tr className="table-header">
                   <th>Topic</th>
+                  <th>Notes</th>
                   <th>Date</th>
                   <th>Code</th>
                   <th>Recording</th>
@@ -87,7 +88,7 @@ function Lectures() {
                             className="inline-flex items-center assignment-link"
                           >
                             <b>{lecture.topic}</b>
-                            {lecture.notes && (
+                            {/* {lecture.notes && (
                               <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 className="h-4 w-4 ml-2"
@@ -102,8 +103,12 @@ function Lectures() {
                                   d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
                                 ></path>
                               </svg>
-                            )}
+                            )} */}
                           </a>
+                        </td>
+                        <td>
+                        {lecture.notes ? 
+                              <a className="hyperlink" href={lecture.notes}>Notes</a> : ""}
                         </td>
                         <td>{lecture.date}</td>
                         <td>

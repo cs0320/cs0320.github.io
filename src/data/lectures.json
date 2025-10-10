@@ -15,7 +15,7 @@
   {
     "id": 2,
     "date": "09/09",
-    "topic": "TypeScript, Lambdas, and Validation",
+    "topic": "TypeScript and Validation",
     "notes": "https://cs0320.github.io/notes/02_lambdas_validation/02_lambdas_validation.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8ba854e-5e1b-4454-b47d-b34d01630249",
@@ -54,7 +54,7 @@
   {
     "id": 6,
     "date": "09/23",
-    "topic": "Teams, Code Review, Sprint 2 to Sprint 3",
+    "topic": "Teams, Code Review, Sprint 3",
     "notes": "https://docs.google.com/presentation/d/1vG__W6xRQ5uZm-dELCPExUUONDpSzMCzJ5qy7REd75Y/edit?usp=sharing",
     "code": "",
     "recording": "",
@@ -63,7 +63,7 @@
   {
     "id": 7,
     "date": "09/25",
-    "topic": "Sprint 3 Q&A, Mocking Supplement",
+    "topic": "Q&A, Mocking Supplement",
     "notes": "http://localhost:3000/04_refinements_mutability/04.5.apis-integration.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/F25/sep25_mocking_brain_jar",
     "recording": "",
