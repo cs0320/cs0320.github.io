@@ -3,7 +3,7 @@
     "id": 1,
     "date": "09/04",
     "topic": "Success In 0320",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8190c90-892c-4af8-a11f-b34d016301ea",
     "readings": 
@@ -16,7 +16,7 @@
     "id": 2,
     "date": "09/09",
     "topic": "TypeScript, Lambdas, and Validation",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/02_lambdas_validation/02_lambdas_validation.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8ba854e-5e1b-4454-b47d-b34d01630249",
     "readings": 
@@ -26,7 +26,7 @@
     "id": 3,
     "date": "09/11",
     "topic": "Narrowing and Refinements",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/03_bias_narrowing_refinements/03_bias_narrowing_refinements.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bdacdb52-5e1c-4a6a-b588-b34d01630274",
     "readings": 
@@ -37,7 +37,7 @@
     "id": 4,
     "date": "09/16",
     "topic": "Branding and Immutability",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/04_refinements_mutability/04_refinements_mutability.html",
     "code": "",
     "recording": "",
     "readings": []
@@ -46,7 +46,7 @@
     "id": 5,
     "date": "09/18",
     "topic": "Threads and Promises",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/05_threads_promises/05_threads_promises.html",
     "code": "",
     "recording": "",
     "readings": []
@@ -64,7 +64,7 @@
     "id": 7,
     "date": "09/25",
     "topic": "Sprint 3 Q&A, Mocking Supplement",
-    "notes": "",
+    "notes": "http://localhost:3000/04_refinements_mutability/04.5.apis-integration.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/F25/sep25_mocking_brain_jar",
     "recording": "",
     "readings": [{"title": "(Canva) Yes, You Can Use AI in Our Interviews. In fact, we insist", "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/"}]
@@ -96,6 +96,14 @@
     "code": "",
     "recording": "",
     "readings": []
+  },
+  {
+    "id": 11,
+    "date": "10/09",
+    "topic": "Guest: Sam Dooman",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
   }
-
 ]
