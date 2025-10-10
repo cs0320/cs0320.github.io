@@ -39,7 +39,7 @@
     "topic": "Branding and Immutability",
     "notes": "https://cs0320.github.io/notes/04_refinements_mutability/04_refinements_mutability.html",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02cf7475-c696-4481-981f-b34d016302a0",
     "readings": []
   },
   {
@@ -48,7 +48,7 @@
     "topic": "Threads and Promises",
     "notes": "https://cs0320.github.io/notes/05_threads_promises/05_threads_promises.html",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb7ab602-ac0d-4322-9a03-b34d016302c6",
     "readings": []
   },
   {
@@ -57,7 +57,7 @@
     "topic": "Teams, Code Review, Sprint 3",
     "notes": "https://docs.google.com/presentation/d/1vG__W6xRQ5uZm-dELCPExUUONDpSzMCzJ5qy7REd75Y/edit?usp=sharing",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9a2187d-a54f-47ea-b1d9-b34d016302eb",
     "readings": []
   },
   {
@@ -66,7 +66,7 @@
     "topic": "Q&A, Mocking Supplement",
     "notes": "http://localhost:3000/04_refinements_mutability/04.5.apis-integration.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/F25/sep25_mocking_brain_jar",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b57787e-241b-426c-a467-b34d01630314",
     "readings": [{"title": "(Canva) Yes, You Can Use AI in Our Interviews. In fact, we insist", "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/"}]
   },
   {
@@ -75,7 +75,7 @@
     "topic": "Retrospective and Web",
     "notes": "https://docs.google.com/presentation/d/1BRcN5XKMr8UMb-mL5LqJZJvrq3HTdXxNTgEdhzXrspk/edit?usp=sharing",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51acd5a6-6a03-4851-a8fe-b34d01630333",
     "readings": [{"title": "Adventures in Copilot (Part 1)", "url": "https://tnelson.github.io/2025/08/07/copilot.html"},
                  {"title": "Adventures in Copilot (Part 2)", "url": "https://tnelson.github.io/2025/09/22/copilot-2.html"}]
   },
@@ -85,7 +85,7 @@
     "topic": "TypeScript and React",
     "notes": "https://cs0320.github.io/notes/06_html_react/html-react-playwright.html",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55b86033-9d8e-4995-a6d1-b34d01630359",
     "readings": []
   },
   {
@@ -94,7 +94,7 @@
     "topic": "UI and Accessibility",
     "notes": "https://docs.google.com/presentation/d/1wURMcFeZ1kaSVseTFZrXPhfKQkN5qhI7bkZXMp2jhHw/edit?usp=sharing",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3552cfb3-409d-4270-bccb-b34d01630387",
     "readings": [{"title": "Why Doctors Hate Their Computers", "url": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"}]
   },
   {
@@ -103,7 +103,7 @@
     "topic": "Guest: Sam Dooman",
     "notes": "",
     "code": "",
-    "recording": "",
+    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6737c03a-eee2-47c7-8827-b34d016303a9",
     "readings": []
   }
 ]
