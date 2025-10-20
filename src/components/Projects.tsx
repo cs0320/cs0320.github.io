@@ -22,10 +22,10 @@ function Projects() {
             >
               Project handouts are released at <b>8:00 AM ET</b> on the
               specified release day. Code submissions are due in Gradescope by{" "}
-              <b>3:00 PM ET</b> on the specified due date. Synchronous demos
+              <b>11:59 PM ET</b> on the specified due date. Synchronous demos
               will take place sometime within the demo window, depending on your
               and your mentor's availabilities. Asynchronous demos are due in
-              Gradescope by <strong>8:00pm</strong> on Monday.
+              Gradescope by <strong>11:59pm</strong> on the specified due date.
             </p>
             <table className="table">
               <thead>
