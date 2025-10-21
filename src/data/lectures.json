@@ -117,13 +117,23 @@
   },
   {
     "id": 13,
-    "date": "10/14",
+    "date": "10/16",
     "topic": "Stakeholders, Beyond Map and Filter",
     "notes": "https://docs.google.com/presentation/d/1GriF9_tzH-8rovtRdj82XfzLxKErtCAzRK6ZSnLS6Dw/edit?usp=sharing",
     "code": "",
     "recording": "",
     "readings": []
+  },
+  {
+    "id": 14,
+    "date": "10/21",
+    "topic": "Functions as Values, Path Finding (Part 1)",
+    "notes": "https://cs0320.github.io/notes/algorithms/algorithms.html",
+    "code": "https://github.com/cs0320/class-livecode/blob/main/F25/koans/the_same_picture/byo_generator.ts",
+    "recording": "",
+    "readings": []
   }
+
 
   
 ]
