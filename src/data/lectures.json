@@ -132,6 +132,15 @@
     "code": "https://github.com/cs0320/class-livecode/blob/main/F25/koans/the_same_picture/byo_generator.ts",
     "recording": "",
     "readings": []
+  },
+  {
+    "id": 15,
+    "date": "10/23",
+    "topic": "Path Finding (Part 2)",
+    "notes": "https://cs0320.github.io/notes/algorithms/supplement.html",
+    "code": "",
+    "recording": "",
+    "readings": []
   }
 
 
