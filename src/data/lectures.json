@@ -141,7 +141,119 @@
     "code": "",
     "recording": "",
     "readings": []
+  },
+  {
+    "id": 16,
+    "date": "10/28",
+    "topic": "Security (Part 1)",
+    "notes": "https://docs.google.com/presentation/d/1g-iesYd5D0PhmjHw39zx6XqWXhDGNzMPd8w1RfG5Ado/edit?usp=sharing",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 17,
+    "date": "10/30",
+    "topic": "Security (Part 2)",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 18,
+    "date": "11/4",
+    "topic": "Property-Based Testing and Sprint 9",
+    "notes": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/F25/nov4_mbt",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 19,
+    "date": "11/6",
+    "topic": "Requirements Gathering, Sprint Discussion",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 20,
+    "date": "11/11",
+    "topic": "",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 21,
+    "date": "11/13",
+    "topic": "",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 22,
+    "date": "11/18",
+    "topic": "Guest!",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 23,
+    "date": "11/20",
+    "topic": "",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 24,
+    "date": "11/25",
+    "topic": "Future of 0320 (Optional)",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 25,
+    "date": "12/2",
+    "topic": "Guest!",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 26,
+    "date": "12/4",
+    "topic": "Guest!",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 27,
+    "date": "12/9",
+    "topic": "No class: likely CS dept talk",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
   }
+
+
+
+
 
 
   
