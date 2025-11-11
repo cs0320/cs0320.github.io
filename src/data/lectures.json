@@ -181,16 +181,16 @@
   {
     "id": 20,
     "date": "11/11",
-    "topic": "TBD (Possibly beyond testing)",
-    "notes": "",
+    "topic": "Course advice and more security",
+    "notes": "https://docs.google.com/presentation/d/1aEamBg3s7fmfkzfz6J4VznBcMMjR-O6hGU3HK6SzJEs/edit?usp=sharing",
     "code": "",
     "recording": "",
-    "readings": []
+    "readings": [{"title": "Andrej Karpathy: Software Is Changing (Again)", "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ"}]
   },
   {
     "id": 21,
     "date": "11/13",
-    "topic": "",
+    "topic": "Beyond Testing!",
     "notes": "",
     "code": "",
     "recording": "",
@@ -208,7 +208,7 @@
   {
     "id": 23,
     "date": "11/20",
-    "topic": "",
+    "topic": "Final Project Discussion",
     "notes": "",
     "code": "",
     "recording": "",
@@ -250,11 +250,6 @@
     "recording": "",
     "readings": []
   }
-
-
-
-
-
 
   
 ]
