@@ -54,7 +54,7 @@ function CourseInfo() {
               <div className="flex flex-wrap">
                 <a
                   className="quick-link"
-                  href="https://docs.google.com/document/d/18a-qUAK8MId8rL55Tdy94dbYdJ3kvNLzeqVgnJpcDK8/edit?tab=t.0"
+                  href="https://docs.google.com/document/d/1LLKjPRvVxobRcu8yFdv-B1EM-pdA0bWmqiRJNZJg-wo/edit?tab=t.0"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -62,7 +62,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href="https://docs.google.com/document/d/1r_htAalUyKAH_Zwy-Wzz-Ecu5yghfmXp6xVTY9JaSEA/edit?usp=sharing"
+                  href="https://docs.google.com/document/d/1SlciWB344FHta0zwQWC-QGS7CR5ybAl4HYg4Prl7wqw/edit?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -86,7 +86,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href="https://www.gradescope.com/courses/1110634"
+                  href="https://www.gradescope.com/courses/1367251"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -94,7 +94,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSefNxCWAyazMD5IECOnyk1hEPuK9bRcchMQ9NIILmfnfNl3iA/viewform?usp=dialog"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSe6Ew6gsALQxf0qVOepNFgTGdkxhFBszCHCWGyaGy8FCkJ8TA/viewform?"
                   target="_blank"
                   rel="noreferrer"
                 >
