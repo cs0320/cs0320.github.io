@@ -45,7 +45,7 @@ function DropDown(props: { title: string; description: string[] }) {
                 >
                   <ul className="list-outside pl-8 list-disc">
                     {props.title === "How To: Collab Section" && <div></div>}
-                    {props.title === "Collab Section Info" && (
+                    {/* {props.title === "Collab Section Info" && (
                       <div>
                         <li className="mb-2">
                           You will serve as a collab partner for 1 hour every
@@ -66,11 +66,8 @@ function DropDown(props: { title: string; description: string[] }) {
                             Collab Section Guide
                           </a>
                         </li>
-                        {/* <li className='mb-2'> */}
-                        {/* <a className='underline' href='https://docs.google.com/forms/d/e/1FAIpQLSfjYo0ccOuz4sJTY-1LoYN-YLIQryNenpTeQJBKsFFSjucw-g/viewform?usp=sf_link'>Collab Section Swap Form</a> */}
-                        {/* </li> */}
                       </div>
-                    )}
+                    )} */}
                     {props.title === "Gearup Info" && (
                       <div>
                         <li className="mb-2">

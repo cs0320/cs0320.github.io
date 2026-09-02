@@ -50,7 +50,7 @@ function Calendar() {
                   </p>
                 </div>
                 <div className="text-sm md:text-base pt-6">
-                  <DropDown title="Collab Section Info" description={[]} />
+                  {/* <DropDown title="Collab Section Info" description={[]} /> */}
                   <DropDown title="Gearup Info" description={[]} />
                   {/* <DropDown title="How to: Conceptual Hours" description={[]}  /> */}
                 </div>
@@ -88,22 +88,22 @@ function Calendar() {
               </div>
             </div>
             <div className="grid grid-cols-2 gap-4">
-              <a
+              {/* <a
                 className="quick-link"
                 href="https://docs.google.com/forms/d/e/1FAIpQLSc5nT2USx-cRFGPIDa87vNpxk8bxMgxyCAmsd02dFMRYQeF_Q/viewform"
                 target="_blank"
                 rel="noreferrer"
               >
                 Collab Section Swap Form
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 className="quick-link"
                 href="https://docs.google.com/forms/d/e/1FAIpQLSdaNjaNVleEh_KJ8Cn-iWYzY3tMfHLVQ2l2C5FUfBADpXbIAw/viewform"
                 target="_blank"
                 rel="noreferrer"
               >
                 Collab Section Debugging Partner Form
-              </a>
+              </a> */}
               {/* <a className="quick-link" href="https://docs.google.com/forms/d/e/1FAIpQLSe6XtyXXCO-yUTgGQo_X_rIL08hUswbdNFDX_NmY7l1oXHJ2A/viewform?usp=dialog" target="_blank" rel="noreferrer">Collab Section Attendance Form</a> */}
             </div>
           </div>

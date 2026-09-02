@@ -11,28 +11,6 @@
     "hover": "/tree.png"
   },
   {
-    "name": "Roberto Gonzales",
-    "role": "HTA",
-    "cslogin": "rgonza27",
-    "pronouns": "he/him",
-    "zodiac": "Gemini",
-    "hometown": "Lima, Peru",
-    "bio": "Hiii everyone, I’m Roberto, a senior studying CS. I love playing guitar, crocheting, roof climbing, and breakdancing. Feel free to reach out if you want to chat or if you think you can beat me in Mario Kart.",
-    "img": "/staff/roberto.jpg",
-    "hover": "/hot-choco.png"
-  },
-  {
-    "name": "Annie Ye",
-    "role": "HTA",
-    "cslogin": "aye15",
-    "pronouns": "she/her",
-    "zodiac": "",
-    "hometown": "San Francisco",
-    "bio": "Hi! I’m a senior from San Francisco studying Computer Science. I like hitting back and bi at the gym, drinking overpriced matcha, and listening to Frank Ocean. Super excited to meet you all!",
-    "img": "/staff/annie.jpg",
-    "hover": "/fire.png"
-  },
-  {
     "name": "Sana Saab",
     "role": "HTA",
     "cslogin": "sgsaab",
@@ -44,8 +22,19 @@
     "hover": "/apple-basket.png"
   },
   {
+    "name": "Marissa Shaffer",
+    "role": "HTA",
+    "cslogin": "",
+    "pronouns": "",
+    "zodiac": "",
+    "hometown": "",
+    "bio": "",
+    "img": "",
+    "hover": ""
+  },
+  {
     "name": "Joshua Bala",
-    "role": "UTA",
+    "role": "HTA",
     "cslogin": "jlbala",
     "pronouns": "he/him",
     "zodiac": "",
@@ -53,28 +42,6 @@
     "bio": "Heyyy, my name is Joshua Bala and I'm a Junior studying cs. Big fan of basketball, anime, boba and any apple deserts. Also I dabble in hiking and biking. Very excited for this semester and TAing this class!!!!!!!",
     "img": "/staff/josh.jpg",
     "hover": "/pie.png"
-  },
-  {
-    "name": "Sophia Lim",
-    "role": "UTA",
-    "cslogin": "szlim",
-    "pronouns": "She/Her",
-    "zodiac": "",
-    "hometown": "Auckland, New Zealand",
-    "bio": "Hi!! I'm Sophia from Auckland, New Zealand and I'm studying CS-Econ. I love baking, beaches, and travelling to new places. This is my second semester TAing CS32 and I am super excited to meet you all <3",
-    "img": "/staff/sophia.JPG",
-    "hover": "/hot-choco.png"
-  },
-  {
-    "name": "Emily Wang",
-    "role": "UTA",
-    "cslogin": "emwang",
-    "pronouns": "she/her",
-    "zodiac": "",
-    "hometown": "Chicago suburbs",
-    "bio": "Hi! I'm a senior from the Chicago suburbs studying CS. I love noodles, crochet, and playing Ghibli music on violin. Excited to meet everyone! :D",
-    "img": "/staff/emily.jpg",
-    "hover": "/yarn.png"
   },
   {
     "name": "Aisosa Idahosa",
@@ -88,80 +55,36 @@
     "hover": "/pie.png"
   },
   {
-    "name": "Julie Chung",
+    "name": "Alondra Perez",
     "role": "UTA",
-    "cslogin": "hchung33",
-    "pronouns": "She/her/hers",
-    "zodiac": "",
-    "hometown": "West Hartford, CT & New York, NY",
-    "bio": "Hi everyone! My name is Julie, and I'm a senior from West Hartford, CT & New York, NY. I love to make music, cook, and play tennis (not great, but trying to get better). My recently developed hobby is meal prepping. I accept any and all cooking advice. Super excited to meet everyone!",
-    "img": "/staff/julie.jpg",
-    "hover": "/apple.png"
-  },
-  {
-    "name": "Asia Nguyen",
-    "role": "UTA",
-    "cslogin": "atnguyen",
-    "pronouns": "she/her/hers",
-    "zodiac": "",
-    "hometown": "Nashville",
-    "bio": "Hi everyone! My name is Asia, and I'm a senior from Nashville studying CS + IAPA. I love reading, getting sweet treats, and going to concerts! I'm looking forward to this semester and meeting you all!",
-    "img": "/staff/asia.JPG",
-    "hover": "/honey-jar.png"
-  },
-  {
-    "name": "Alison Zeng",
-    "role": "UTA/STA",
-    "cslogin": "avzeng",
-    "pronouns": "she/her",
+    "cslogin": "",
+    "pronouns": "",
     "zodiac": "",
     "hometown": "",
-    "bio": "Hi! I'm a junior studying Computer Science and Linguistics. Some things that are bringing me joy as of late are biking, writing (mostly poetry, occasional prose), and comedy panel shows.",
-    "img": "/staff/alison.jpg",
-    "hover": "/honey-jar.png"
+    "bio": "",
+    "img": "",
+    "hover": ""
   },
   {
-    "name": "Anant Saraf",
-    "role": "UTA/STA",
-    "cslogin": "asaraf8",
-    "pronouns": "he/him",
-    "zodiac": "",
-    "hometown": "Kolkata, India",
-    "bio": "Hi everyone! I'm Anant, a 4th year in the Brown | RISD program studying CS and Photography from Kolkata, India. I love making images, playing video games, caffeine, watching music videos w friends, and being on the main green. Excited to meet you all!",
-    "img": "/staff/anant.jpg",
-    "hover": "/hot-choco.png"
-  },
-  {
-    "name": "Kaley Newlin",
+    "name": "Ellie Hong",
     "role": "UTA",
-    "cslogin": "knewlin",
-    "pronouns": "she/her",
+    "cslogin": "",
+    "pronouns": "",
     "zodiac": "",
     "hometown": "",
-    "bio": "Hello! I am Kaley, a senior from Orange County California studying CS and Cognitive Neuroscience! You will often find me playing video games/board games, watching horror movies, or learning Persian. I'd love to get a coffee and chat!",
-    "img": "/staff/kaley.jpg",
-    "hover": "/candle.png"
+    "bio": "",
+    "img": "",
+    "hover": ""
   },
   {
-    "name": "Stanley Ndichu",
-    "role": "UTA/STA",
-    "cslogin": "sndichu",
-    "pronouns": "he/him",
-    "zodiac": "",
-    "hometown": "",
-    "bio": "Hi everyone! I’m Stanley, a senior studying cs. I’m a big fan of soccer, animation and stand up comedy. Outside of code, I’m passionate about mental health, especially awareness and advocacy. Feel free to reach out if you want to chat!",
-    "img": "/staff/stanley.jpeg",
-    "hover": "/umbrella.png"
-  },
-  {
-    "name": "Jimin Ryu",
+    "name": "Yuyuan Huang",
     "role": "UTA",
-    "cslogin": "jlryu",
-    "pronouns": "he/him",
+    "cslogin": "",
+    "pronouns": "",
     "zodiac": "",
     "hometown": "",
-    "bio": "Hi! I'm Jimin, and I'm a senior from Boise, Idaho studying APMA and CS. I enjoy basketball, music, hanging out with friends, and learning new things. I'm excited to meet everyone and to be a TA for CS32 this semester!",
-    "img": "/staff/jimin.jpg",
-    "hover": "/log.png"
-  }
+    "bio": "",
+    "img": "",
+    "hover": ""
+  }  
 ]

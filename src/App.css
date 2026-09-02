@@ -193,6 +193,11 @@ canvas {
   padding: 12px 16px; /* space inside cells */
 }
 
+/* Zebra striping so rows are easier to track across the table */
+.table tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
 /* Header row (your green underline, optional) */
 .table thead th {
   border-bottom: 2px solid #c68336;

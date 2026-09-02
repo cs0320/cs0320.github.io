@@ -1,115 +1,107 @@
 [
   {
     "id": 1,
-    "date": "09/04",
-    "topic": "Success In 0320",
-    "notes": "https://cs0320.github.io/notes/success-in-0320/success-in-0320.html",
+    "date": "09/09 W",
+    "topic": "Success in 0320",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8190c90-892c-4af8-a11f-b34d016301ea",
-    "readings": 
-    [{"title": "Missive", "url": "https://docs.google.com/document/d/1r_htAalUyKAH_Zwy-Wzz-Ecu5yghfmXp6xVTY9JaSEA/"},
-     {"title": "Types (up to Transforming Data)", "url": "https://docs.google.com/document/d/115A3utnCRM71jOGlXV6hqGzvHgA7psPo218JpXtnSPI"},
-     {"title": "Clever Manka", "url": "https://www.gutenberg.org/files/33002/33002-h/33002-h.htm#Page_165"}
-    ]
+    "recording": "",
+    "readings": []
   },
   {
     "id": 2,
-    "date": "09/09",
-    "topic": "TypeScript and Validation",
-    "notes": "https://cs0320.github.io/notes/02_lambdas_validation/02_lambdas_validation.html",
+    "date": "09/11 F",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8ba854e-5e1b-4454-b47d-b34d01630249",
-    "readings": 
-    []
+    "recording": "",
+    "readings": []
   },
   {
     "id": 3,
-    "date": "09/11",
-    "topic": "Narrowing and Refinements",
-    "notes": "https://cs0320.github.io/notes/03_bias_narrowing_refinements/03_bias_narrowing_refinements.html",
+    "date": "09/14 M",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bdacdb52-5e1c-4a6a-b588-b34d01630274",
-    "readings": 
-    [{"title": "Types (remainder)", "url": "https://docs.google.com/document/d/115A3utnCRM71jOGlXV6hqGzvHgA7psPo218JpXtnSPI"},
-     {"title": "Vibe Coding Day 8", "url": "https://xcancel.com/jasonlk/status/1946053598267179130#m"}]
+    "recording": "",
+    "readings": []
   },
   {
     "id": 4,
-    "date": "09/16",
-    "topic": "Branding and Immutability",
-    "notes": "https://cs0320.github.io/notes/04_refinements_mutability/04_refinements_mutability.html",
+    "date": "09/16 W",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02cf7475-c696-4481-981f-b34d016302a0",
+    "recording": "",
     "readings": []
   },
   {
     "id": 5,
-    "date": "09/18",
-    "topic": "Threads and Promises",
-    "notes": "https://cs0320.github.io/notes/05_threads_promises/05_threads_promises.html",
+    "date": "09/18 F",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb7ab602-ac0d-4322-9a03-b34d016302c6",
+    "recording": "",
     "readings": []
   },
   {
     "id": 6,
-    "date": "09/23",
-    "topic": "Teams, Code Review, Sprint 3",
-    "notes": "https://docs.google.com/presentation/d/1vG__W6xRQ5uZm-dELCPExUUONDpSzMCzJ5qy7REd75Y/edit?usp=sharing",
+    "date": "09/21 M",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9a2187d-a54f-47ea-b1d9-b34d016302eb",
+    "recording": "",
     "readings": []
   },
   {
     "id": 7,
-    "date": "09/25",
-    "topic": "Q&A, Mocking Supplement",
-    "notes": "http://localhost:3000/04_refinements_mutability/04.5.apis-integration.html",
-    "code": "https://github.com/cs0320/class-livecode/tree/main/F25/sep25_mocking_brain_jar",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6b57787e-241b-426c-a467-b34d01630314",
-    "readings": [{"title": "(Canva) Yes, You Can Use AI in Our Interviews. In fact, we insist", "url": "https://www.canva.dev/blog/engineering/yes-you-can-use-ai-in-our-interviews/"}]
+    "date": "09/23 W",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
   },
   {
     "id": 8,
-    "date": "09/30",
-    "topic": "Retrospective and Web",
-    "notes": "https://docs.google.com/presentation/d/1BRcN5XKMr8UMb-mL5LqJZJvrq3HTdXxNTgEdhzXrspk/edit?usp=sharing",
+    "date": "09/25 F",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51acd5a6-6a03-4851-a8fe-b34d01630333",
-    "readings": [{"title": "Adventures in Copilot (Part 1)", "url": "https://tnelson.github.io/2025/08/07/copilot.html"},
-                 {"title": "Adventures in Copilot (Part 2)", "url": "https://tnelson.github.io/2025/09/22/copilot-2.html"}]
+    "recording": "",
+    "readings": []
   },
   {
     "id": 9,
-    "date": "10/02",
-    "topic": "TypeScript and React",
-    "notes": "https://cs0320.github.io/notes/06_html_react/html-react-playwright.html",
+    "date": "09/28 M",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55b86033-9d8e-4995-a6d1-b34d01630359",
+    "recording": "",
     "readings": []
   },
   {
     "id": 10,
-    "date": "10/07",
-    "topic": "UI and Accessibility",
-    "notes": "https://docs.google.com/presentation/d/1wURMcFeZ1kaSVseTFZrXPhfKQkN5qhI7bkZXMp2jhHw/edit?usp=sharing",
+    "date": "09/30 W",
+    "topic": "Guest Lecture",
+    "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3552cfb3-409d-4270-bccb-b34d01630387",
-    "readings": [{"title": "Why Doctors Hate Their Computers", "url": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"}]
+    "recording": "",
+    "readings": []
   },
   {
     "id": 11,
-    "date": "10/09",
-    "topic": "Guest: Sam Dooman",
+    "date": "10/02 F",
+    "topic": "Guest Lecture",
     "notes": "",
     "code": "",
-    "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6737c03a-eee2-47c7-8827-b34d016303a9",
+    "recording": "",
     "readings": []
   },
   {
     "id": 12,
-    "date": "10/14",
-    "topic": "Term Projects",
+    "date": "10/05 M",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -117,44 +109,44 @@
   },
   {
     "id": 13,
-    "date": "10/16",
-    "topic": "Stakeholders, Beyond Map and Filter",
-    "notes": "https://docs.google.com/presentation/d/1GriF9_tzH-8rovtRdj82XfzLxKErtCAzRK6ZSnLS6Dw/edit?usp=sharing",
+    "date": "10/07 W",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 14,
-    "date": "10/21",
-    "topic": "Functions as Values, Path Finding (Part 1)",
-    "notes": "https://cs0320.github.io/notes/algorithms/algorithms.html",
-    "code": "https://github.com/cs0320/class-livecode/blob/main/F25/koans/the_same_picture/byo_generator.ts",
+    "date": "10/09 F",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 15,
-    "date": "10/23",
-    "topic": "Path Finding (Part 2)",
-    "notes": "https://cs0320.github.io/notes/algorithms/supplement.html",
+    "date": "10/14 W",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 16,
-    "date": "10/28",
-    "topic": "Security (Part 1)",
-    "notes": "https://docs.google.com/presentation/d/1g-iesYd5D0PhmjHw39zx6XqWXhDGNzMPd8w1RfG5Ado/edit?usp=sharing",
+    "date": "10/16 F",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 17,
-    "date": "10/30",
-    "topic": "Security (Part 2)",
+    "date": "10/19 M",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -162,44 +154,44 @@
   },
   {
     "id": 18,
-    "date": "11/4",
-    "topic": "Property-Based Testing and Sprint 9",
+    "date": "10/21 W",
+    "topic": "TBD",
     "notes": "",
-    "code": "https://github.com/cs0320/class-livecode/tree/main/F25/nov4_mbt",
+    "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 19,
-    "date": "11/6",
-    "topic": "Requirements Gathering, Sprint Discussion",
-    "notes": "https://docs.google.com/presentation/d/1x6gFnuDhfZdxqDrwp9ZCEMzdJjG4WZuv359_1xi3Bgs/edit?usp=sharing",
+    "date": "10/23 F",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 20,
-    "date": "11/11",
-    "topic": "Course advice and more security",
-    "notes": "https://docs.google.com/presentation/d/1aEamBg3s7fmfkzfz6J4VznBcMMjR-O6hGU3HK6SzJEs/edit?usp=sharing",
+    "date": "10/26 M",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
     "recording": "",
-    "readings": [{"title": "Andrej Karpathy: Software Is Changing (Again)", "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ"}]
+    "readings": []
   },
   {
     "id": 21,
-    "date": "11/13",
-    "topic": "Beyond Testing!",
-    "notes": "https://docs.google.com/presentation/d/1fBupkgyLhTrYQqxYjz4zJikjkM4fPuLbR5llmBUL7oU/edit?usp=sharing",
+    "date": "10/28 W",
+    "topic": "TBD",
+    "notes": "",
     "code": "",
     "recording": "",
     "readings": []
   },
   {
     "id": 22,
-    "date": "11/18",
-    "topic": "Guest!",
+    "date": "10/30 F",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -207,8 +199,8 @@
   },
   {
     "id": 23,
-    "date": "11/20",
-    "topic": "Final Project Discussion",
+    "date": "11/02 M",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -216,8 +208,8 @@
   },
   {
     "id": 24,
-    "date": "11/25",
-    "topic": "Future of 0320 (Optional)",
+    "date": "11/04 W",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -225,8 +217,8 @@
   },
   {
     "id": 25,
-    "date": "12/2",
-    "topic": "Guest!",
+    "date": "11/06 F",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -234,8 +226,8 @@
   },
   {
     "id": 26,
-    "date": "12/4",
-    "topic": "Guest!",
+    "date": "11/09 M",
+    "topic": "TBD",
     "notes": "",
     "code": "",
     "recording": "",
@@ -243,13 +235,92 @@
   },
   {
     "id": 27,
-    "date": "12/9",
-    "topic": "No class: likely CS dept talk",
+    "date": "11/11 W",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 28,
+    "date": "11/13 F",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 29,
+    "date": "11/16 M",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 30,
+    "date": "11/18 W",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 31,
+    "date": "11/20 F",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 32,
+    "date": "11/23 M",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 33,
+    "date": "11/30 M",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 34,
+    "date": "12/02 W",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 35,
+    "date": "12/04 F",
+    "topic": "TBD",
+    "notes": "",
+    "code": "",
+    "recording": "",
+    "readings": []
+  },
+  {
+    "id": 36,
+    "date": "12/07 M",
+    "topic": "Guest Lecture",
     "notes": "",
     "code": "",
     "recording": "",
     "readings": []
   }
-
-  
 ]
