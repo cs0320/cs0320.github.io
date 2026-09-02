@@ -38,9 +38,9 @@ function Calendar() {
                     marginTop: "1.5rem",
                   }}
                 >
-                  <h3 className="text-l md:text-md font-bold">
+                  <h2 className="text-l md:text-md font-bold">
                     <b>Talk to Tim</b>
-                  </h3>
+                  </h2>
                   <p
                     style={{
                       padding: "3px",
