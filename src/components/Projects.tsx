@@ -130,7 +130,7 @@ function Projects() {
                         <td>
                           {" "}
                           <a className="hyperlink" href={gearup.slides}>
-                            {gearup.slides ? "Slides" : ""}
+                            {gearup.slides ? "Slides" : "-"}
                           </a>
                         </td>
                         <td>
@@ -138,7 +138,7 @@ function Projects() {
                           ? gearup.recording === "N/A" || gearup.recording === "n/a"
                             ? "N/A"
                             : <a className="hyperlink" href={gearup.recording}>Recording</a>
-                          : ""}
+                          : "-"}
                         </td>
                       </tr>
                     );
