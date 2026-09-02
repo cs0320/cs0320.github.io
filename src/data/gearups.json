@@ -2,57 +2,41 @@
   {
     "id": 1,
     "title": "Gitting Started",
-    "date": "9/8-9/9",
-    "slides": "https://docs.google.com/presentation/d/12CnPaJNOnoW1e-BhsEwVrv4HnpjfEx6qskzRXsAI9do/edit?slide=id.g3779e72c9df_1_115#slide=id.g3779e72c9df_1_115",
-    "recording": "https://drive.google.com/file/d/1mzKJozbvoaeyt46jM5yVpGcsyqgOFF-g/view?usp=sharing"
+    "date": "9/8-9/9"
   },
   {
     "id": 2,
     "title": "AI Use",
-    "date": "9/15-9/16",
-    "slides": "https://docs.google.com/presentation/d/1CsKyrym2NSSX_7PED2jKBiVBVGNRSuYypcpbwtlCgdc/edit?usp=sharing",
-    "recording": "https://drive.google.com/file/d/11JfMxwtfM89MxEVQx5I3seYCAmH0mu4v/view?usp=sharing"
+    "date": "9/15-9/16"
   },
   {
     "id": 3,
     "title": "Server",
-    "date": "9/22-9/23",
-    "slides": "https://docs.google.com/presentation/d/1Y1BCxg-ZQWwiGedigLrRNaPFO9g3srtTKqn5-Vo75k0/edit?slide=id.g36506d30866_2_96#slide=id.g36506d30866_2_96",
-    "recording": "https://drive.google.com/file/d/14vBWIEaF_EebFN3smmw4gSJkjKzM7Qss/view?usp=drive_link"
+    "date": "9/22-9/23"
   },
   {
     "id": 4,
     "title": "Labor in/and AI",
-    "date": "9/29-9/30",
-    "slides": "https://docs.google.com/presentation/d/15fESFPpsdNfkzIUIAi8VIzSrcO1Po6SuRWOtS4hUBQg/edit?slide=id.g4dfce81f19_0_45#slide=id.g4dfce81f19_0_45",
-    "recording": "N/A"
+    "date": "9/29-9/30"
   },
   {
     "id": 5,
     "title": "Mock",
-    "date": "10/6-10/7",
-    "slides": "https://docs.google.com/presentation/d/1T4z54kpgm49ijROzJi8fANuaCUfs9kBqro4rSPw-fSQ/edit?usp=sharing",
-    "recording": "https://drive.google.com/file/d/1FKmkifsYg9_ur6PsEYrwgTxqZjOLeOUQ/view?usp=sharing"
+    "date": "10/6-10/7"
   },
   {
     "id": 6,
     "title": "Firebase",
-    "date": "10/14-10/15",
-    "slides": "https://docs.google.com/presentation/d/1Jdqj5GFVYeKQUfR_Y8Ah78wtHyBABcLDid-3GUmi-5s/edit?usp=sharing",
-    "recording": "https://drive.google.com/file/d/12Oi8yoD1e49nLb1VK8THtEg58XmWIio8/view?usp=drive_link"
+    "date": "10/14-10/15"
   },
   {
     "id": 7,
     "title": "Technology",
-    "date": "10/20-10/21",
-    "slides": "https://docs.google.com/presentation/d/1oQDi_IjslBNBnhNgDCcYGbAtYB1MBsLS4pxXktHHZ0A/edit?slide=id.g27ae3d3d435_0_1985#slide=id.g27ae3d3d435_0_1985",
-    "recording": "N/A"
+    "date": "10/20-10/21"
   },
   {
     "id": 8,
     "title": "Project Design",
-    "date": "11/3-11/4",
-    "slides": "https://docs.google.com/presentation/d/1QPXarUU_9TigV2_MiYVRxOI5PSKjQodAuvQCLzy5Zxo/edit?slide=id.g39fb3cc6817_1_288#slide=id.g39fb3cc6817_1_288",
-    "recording": "N/A"
+    "date": "11/3-11/4"
   }
 ]

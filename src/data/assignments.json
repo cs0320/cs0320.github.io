@@ -2,7 +2,6 @@
     {
         "id":1,
         "title":"Onboarding Form",
-        "link":"https://docs.google.com/forms/d/e/1FAIpQLSfPTmXfxxfkDEdoFHRhyHWT6_wSllN6Nhu9dNnVbi2cqbiCSA/viewform?usp=dialog",
         "release": "9/4",
         "due": "9/7",
         "demos": "-"
@@ -10,7 +9,6 @@
 {
     "id":1,
     "title":"Policy Quiz",
-    "link":"https://docs.google.com/forms/d/e/1FAIpQLSe-ZPvIctWEiCs_dCzTzkgJTeHflEzY7oKJz3U-eXLi6M6gNg/viewform?usp=header",
     "release": "9/4",
         "due": "9/7",
     "demos": "-"
@@ -18,7 +16,6 @@
 {
     "id":1,
     "title":"AI Use Agreement Quiz",
-    "link":"https://docs.google.com/forms/d/e/1FAIpQLSekkLhqmA55nr-HYjq1u_V5uaIswohy-bHS29sGfPYGgT9byQ/viewform?usp=dialog",
     "release": "9/4",
         "due": "9/7",
     "demos": "-"
@@ -26,7 +23,6 @@
 {
     "id":1,
     "title":"Setup Deliverable",
-    "link":"https://docs.google.com/forms/d/e/1FAIpQLScviDUZeeEeQnkrslT-vVqXbGavsOp8AzdmO1E8QvudbbCcnA/viewform?usp=dialog",
     "release": "9/4",
         "due": "9/7",
     "demos": "-"
@@ -34,7 +30,6 @@
 {
         "id":1,
         "title":"Sprint 1: TypeScript CSV",
-        "link":"https://docs.google.com/document/d/1DWR9ookp1vvvluoxsLmZSq3VbXdi24eSi2uaY8cuqlY/edit?usp=sharing",
         "release": "9/8",
         "due": "9/13",
         "demos": "9/14-9/15 (by video)"
@@ -42,7 +37,6 @@
     {
         "id":2,
         "title":"Sprint 2: Extensible CSV",
-        "link":"https://docs.google.com/document/d/1DNVJlZ5ozIhQCWagnVohqBP8Sv4NM0NZvFju91LNLRM/edit?tab=t.0#heading=h.pee6crlpaxz6",
         "release": "9/15",
         "due": "9/20",
         "demos": "9/21-9/22 (synchronous)"
@@ -50,7 +44,6 @@
     {
         "id":3,
         "title":"Sprint 3: API Server",
-        "link":"https://docs.google.com/document/d/1g3FiI2oFgXke_k9Ej7N0RWXp7md_U6g1uqs4ECpUL4s/edit?tab=t.0",
         "release": "9/22",
         "due": "9/28",
         "demos": "9/29-9/30 (by video)"
@@ -58,7 +51,6 @@
     {
         "id":4,
         "title":"Sprint 4: API Proxy",
-        "link":"https://docs.google.com/document/d/1Wj4hrCvPIQ54b5-5sJcBCbAG59YkgB8Zvb1r81oCfeg/edit?usp=sharing",
         "release": "9/29",
         "due": "10/4",
         "demos": "10/5-10/6 (synchronous)"
@@ -66,7 +58,6 @@
     {
         "id":5,
         "title":"Sprint 5: Front-End Mockup",
-        "link":"https://docs.google.com/document/d/1wbAuQbKSo23XEvd0Hg_KHm3AqUDIBArbIwBIVndOYJ8/edit?usp=sharing",
         "release": "10/6",
         "due": "10/11",
         "demos": "10/11 (by video)"
@@ -74,7 +65,6 @@
     {
         "id":6,
         "title":"Sprint 6: Cloud and Communication",
-        "link":"https://docs.google.com/document/d/1eE-tcmk1UcNqAbIiVBJB-ltUG2Gnfm_vHmpaygziNEw/edit?tab=t.0",
         "release": "10/13",
         "due": "10/18",
         "demos": "10/19-10/20 (synchronous)"
@@ -82,7 +72,6 @@
     {
         "id":7,
         "title":"Sprint 7: Pins and Pathfinding (Part 1)",
-        "link":"https://docs.google.com/document/d/1nltj6OHe4aTCEw4kz9sVhzG-_Qq2iszEVCrcdh4T5I0/edit?tab=t.0#heading=h.pee6crlpaxz6",
         "release": "10/20",
         "due": "10/25",
         "demos": "10/25 (by video)"
@@ -90,7 +79,6 @@
     {
         "id":8,
         "title":"Sprint 8: Privacy and Pathfinding",
-        "link":"https://docs.google.com/document/d/1-0wl2OomALefs09ucuUZ6UXuIPimNQgBHerAjCRWHSI/edit?tab=t.0",
         "release": "10/27",
         "due": "11/1",
         "demos": "11/2-11/3 (synchronous)"
@@ -98,7 +86,6 @@
     {
         "id":9,
         "title":"Sprint 9: Privacy and Pathfinding 2",
-        "link":"https://docs.google.com/document/d/1vVee1mHqBNZI4eAAEf7J65uZ0XKL-AxKzU-h6Ll28Zs/edit?tab=t.0#heading=h.pee6crlpaxz6",
         "release": "11/3",
         "due": "11/8",
         "demos": "11/8 (by video)"
@@ -106,7 +93,6 @@
     {
         "id":10,
         "title":"Term Project (milestones not shown)",
-        "link":"https://docs.google.com/document/d/1VCiyb0ffJe4GsN9pheilGCR9aSLdBxgOVCx_aWpXLF8/edit?tab=t.0",
         "release": "",
         "due": "By demo",
         "demos": "12/15-12/17 (public)"
