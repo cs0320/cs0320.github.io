@@ -13,14 +13,13 @@ import Projects from "./Projects";
 import Staff from "./Staff";
 
 interface LandingProps {
-  animationEnabled: boolean;
+  reduceMotion: boolean;
 }
 
-function Landing({ animationEnabled }: LandingProps) {
+function Landing({ reduceMotion }: LandingProps) {
   const { scrollY } = useScroll();
   const prefersReduced = useReducedMotion();
-  // If animation is disabled, act as if prefersReduced is true
-  const effectiveReduced = prefersReduced || !animationEnabled;
+  const effectiveReduced = prefersReduced || reduceMotion;
   const factor = effectiveReduced ? 0 : -0.25;
   const rawY = useTransform(scrollY, (v) => v * factor);
   const y = useSpring(rawY, { stiffness: 140, damping: 22, mass: 0.8 });
@@ -62,7 +61,11 @@ function Landing({ animationEnabled }: LandingProps) {
   }, [factor]);
 
   return (
-    <section className="landing relative overflow-y-hidden overflow-x-auto px-2 py-32 md:px-0 font-mono">
+    <section
+      className={`landing relative overflow-y-hidden overflow-x-auto px-2 py-32 md:px-0 font-mono ${
+        reduceMotion ? "reduce-motion" : ""
+      }`}
+    >
       {/* Animated background if enabled, static otherwise */}
       <motion.div
         aria-hidden

@@ -1,9 +1,9 @@
 interface NavbarProps {
-  animationEnabled: boolean;
-  setAnimationEnabled: (enabled: boolean) => void;
+  reduceMotion: boolean;
+  setReduceMotion: (enabled: boolean) => void;
 }
 
-function Navbar({ animationEnabled, setAnimationEnabled }: NavbarProps) {
+function Navbar({ reduceMotion, setReduceMotion }: NavbarProps) {
   return (
     <section
       className="navbar w-full px-8 text-gray-100 font-mono sticky top-0"
@@ -58,14 +58,14 @@ function Navbar({ animationEnabled, setAnimationEnabled }: NavbarProps) {
           >
             Staff
           </a>
-          {/* Animation toggle slider */}
           <label className="flex items-center space-x-2 ml-6 cursor-pointer select-none">
-            <span className="text-sm">Animation</span>
+            <span className="text-sm">Reduce motion</span>
             <input
               type="checkbox"
-              checked={animationEnabled}
-              onChange={(e) => setAnimationEnabled(e.target.checked)}
+              checked={reduceMotion}
+              onChange={(e) => setReduceMotion(e.target.checked)}
               className="h-5 w-5 accent-[#F5F5DC]"
+              aria-label="Reduce motion"
             />
           </label>
         </div>

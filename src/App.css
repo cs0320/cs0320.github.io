@@ -256,6 +256,27 @@ canvas {
   color: var(--color-accent);
 }
 
+.reduce-motion .scatter-image,
+.reduce-motion .scatter-image:hover,
+.reduce-motion .scatter-image:hover ~ .scatter-image {
+  transition: none !important;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
+.reduce-motion .image-flip {
+  transition: none !important;
+}
+
+.reduce-motion .image-flip:hover {
+  transform: none !important;
+}
+
+.reduce-motion .typing-demo {
+  animation: none;
+  border-right: none;
+}
+
 @keyframes typing {
   0% {
     width: 0ch;
