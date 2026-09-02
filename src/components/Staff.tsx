@@ -1,5 +1,3 @@
-import "../App.css";
-// import SceneViewer from './SceneViewer';
 import StaffData from "../data/staff.json";
 import StaffCard from "./Helpers/StaffCard";
 import { StaffMember } from "./Helpers/StaffMember";

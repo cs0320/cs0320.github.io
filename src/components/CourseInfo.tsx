@@ -1,5 +1,3 @@
-import "../App.css";
-// import SceneViewer from './SceneViewer';
 import CourseData from "../data/course_info.json";
 import DropDown from "./Helpers/Dropdown";
 

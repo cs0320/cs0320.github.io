@@ -5,8 +5,7 @@ import {
   useSpring,
   useReducedMotion,
 } from "framer-motion";
-import React, { useState, useLayoutEffect } from "react"; // add this
-import "../App.css";
+import React, { useState, useLayoutEffect } from "react";
 import Calendar from "./Calendar";
 import CourseInfo from "./CourseInfo";
 import Lectures from "./Lectures";

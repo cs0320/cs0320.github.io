@@ -1,5 +1,3 @@
-import "../App.css";
-
 interface NavbarProps {
   animationEnabled: boolean;
   setAnimationEnabled: (enabled: boolean) => void;

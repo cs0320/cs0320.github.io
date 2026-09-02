@@ -1,5 +1,3 @@
-import "../App.css";
-// import SceneViewer from './SceneViewer';
 import AssignmentData from "../data/assignments.json";
 import GearupData from "../data/gearups.json";
 
