@@ -2,17 +2,35 @@
   /* Brand Colors */
   --color-primary: #333366;
   --color-secondary: #875e19;
-  --color-accent: #e46c34;
-  --color-dropdown: #b05328;
+  /* Accent is only ever applied to LARGE text (section <h1>s, which are
+     text-xl/20px bold and up, and .typing-demo). It clears the 3:1 WCAG AA
+     threshold for large text against --panel-bg, but NOT the 4.5:1 normal-text
+     threshold - use --color-hyperlink for anything at body size. */
+  --color-accent: #c2410c;
+  --color-dropdown: #9a3412;
   --color-link: #0a6e20;
   --color-text-main: #5e311c;
   --color-body: #0263d9;
+
+  /* Link color for body-size text: clears 4.5:1 against --panel-bg. */
+  --color-hyperlink: #9a3412;
 
   /* Backgrounds */
   --bg-dark: #282c34;
   --bg-light: #fcf7d7;
   --bg-navbar: var(--color-secondary);
   --bg-useful: rgba(15, 145, 44, 0.25);
+
+  /* Cream panel behind most body content. The alpha matters for contrast:
+     it sits over background.png/gif, whose darkest regions are ~#412e21, so
+     a too-transparent panel drags text contrast below AA. At 0.92 the worst
+     case still clears 4.5:1 for --color-hyperlink and 3:1 for --color-accent. */
+  --panel-bg: #fcedd7eb;
+
+  /* Staff card panel. Same reasoning as --panel-bg: at the old 0.6 alpha the
+     staff names (--color-secondary, 12-14px bold) fell to 2.6:1 over the
+     darker parts of the background. */
+  --card-bg: rgba(255, 255, 255, 0.92);
 
   /* Other shared colors */
   --color-white: #ffffff;
@@ -61,6 +79,91 @@
 
 html {
   scroll-behavior: smooth !important;
+}
+
+/* Honour an OS-level reduced-motion preference for the smooth-scroll above;
+   the in-page "Reduce motion" toggle can't reach `html`, so this covers it. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Clear the sticky navbar when jumping to a #section, so the target heading
+   doesn't land underneath it. Only needed where the navbar actually sticks. */
+@media (min-width: 768px) {
+  html {
+    scroll-padding-top: 6rem;
+  }
+}
+
+/* Below md the navbar wraps onto several rows, and keeping it sticky eats the
+   viewport: at 400% zoom it covered 92% of the screen, and at 375px with 200%
+   text it was taller than the viewport, hiding all content (WCAG 1.4.10 Reflow
+   and 1.4.4 Resize Text). It stays sticky only where it remains one row. */
+@media (max-width: 767px) {
+  .navbar {
+    position: static !important;
+  }
+}
+
+/* Skip link (WCAG 2.4.1): first focusable element on the page, off-screen
+   until focused, so keyboard users can jump past the nav to <main>.
+   Colours are INVERTED from the navbar (cream-on-brown becomes brown-on-cream)
+   so the focused state reads as a distinct overlay and not as navbar chrome. */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100001; /* above .navbar, which sets z-index 10000 inline */
+  padding: 0.625rem 1rem;
+  background-color: #fff8bd;
+  color: #5c3a20;
+  font-family: "Space Mono", monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  border: 2px solid #5c3a20;
+  border-radius: 6px;
+}
+
+/* Offset from the corner so it floats clear of the cs0320 wordmark, with a
+   two-tone ring: brown against the cream chip, cream halo outside it against
+   the brown navbar, so the indicator survives whichever it lands on. */
+.skip-link:focus {
+  left: 0.75rem;
+  top: 0.75rem;
+  outline: 3px solid #5c3a20;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 8px #fff8bd;
+}
+
+/* Uniform keyboard focus indicator (WCAG 2.4.7). Tailwind v3 preflight leaves
+   the UA focus ring in place, but it is thin and varies by browser; this makes
+   it consistent and gives it breathing room. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+summary:focus-visible,
+iframe:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid #5c3a20;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* On the dark navbar the brown outline would disappear, so invert it there. */
+.navbar a:focus-visible,
+.navbar input:focus-visible {
+  outline-color: #fff8bd;
+}
+
+/* <main> is the skip-link target and takes focus only programmatically, so a
+   3px ring around the whole page would be noise rather than an indicator. */
+main[tabindex="-1"]:focus,
+main[tabindex="-1"]:focus-visible {
+  outline: none;
 }
 
 body {
@@ -165,12 +268,15 @@ canvas {
   margin-right: 2rem;
   font-size: 1.125rem;
   line-height: 1.75rem;
+  color: var(--color-hyperlink);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 /* Rounded/background wrapper around your <table> */
 .table {
   margin-top: 2rem;
-  background-color: #fcedd7ae;
+  background-color: var(--panel-bg);
   border-radius: 20px;
   padding: 16px 24px; /* space away from the background edge */
   overflow: hidden; /* keep rounded corners clean */
@@ -356,9 +462,14 @@ canvas {
   opacity: 0;
 }
 
+/* Links are underlined, not just colored + bolded: bold is already used for
+   non-link emphasis in the same paragraphs, so color/weight alone leaves no
+   non-color cue that something is clickable (WCAG 1.4.1). */
 .hyperlink {
-  color: rgb(230 139 80);
+  color: var(--color-hyperlink);
   font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .software-title {
@@ -436,8 +547,20 @@ canvas {
   }
 }
 
+/* Cream pill behind some section headings. Sized to its own text rather than a
+   fixed 15% of the container: at 15% the pill was narrower than the word it sat
+   behind on every viewport, so the heading spilled outside its own background,
+   and it got worse as text scaled up (WCAG 1.4.10 Reflow / 1.4.4 Resize Text). */
+.heading-pill {
+  width: fit-content;
+  max-width: 100%;
+  padding: 0.125rem 0.75rem;
+  background: var(--panel-bg);
+  border-radius: 10px;
+}
+
 .useful-links {
-  background-color: #fcedd7ae;
+  background-color: var(--panel-bg);
   color: #5e311c;
   /* font-weight: bold; */
 }

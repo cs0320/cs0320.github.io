@@ -5,7 +5,7 @@ function StaffCard(props: { person: StaffMember }) {
   return (
     <div
       className="text-center"
-      style={{ background: "rgba(255, 255, 255, 0.6)", borderRadius: "20px" }}
+      style={{ background: "var(--card-bg)", borderRadius: "20px" }}
     >
       <div className="image-container">
         <div className="image-flip">

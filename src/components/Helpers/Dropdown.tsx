@@ -8,7 +8,7 @@ function DropDown(props: { title: string; description: string[] }) {
           <>
             <div
               className="border-b border-[#c54805]"
-              style={{ background: "#fcedd7ae", borderRadius: "5px" }}
+              style={{ background: "var(--panel-bg)", borderRadius: "5px" }}
             >
               <Disclosure.Button
                 className="py-4 font-bold dropdown md:text-2xl w-full text-left focus:underline flex justify-between items-center hover-fade"
@@ -39,7 +39,7 @@ function DropDown(props: { title: string; description: string[] }) {
                 <p
                   className="mt-1 mb-3"
                   style={{
-                    background: "#fcedd7ae",
+                    background: "var(--panel-bg)",
                     borderRadius: "10px",
                   }}
                 >

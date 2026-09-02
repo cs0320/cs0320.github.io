@@ -25,8 +25,17 @@ function App() {
 
   return (
     <>
+      <a className="skip-link" href="#main-content">
+        Skip to content
+      </a>
       <Navbar reduceMotion={reduceMotion} setReduceMotion={setReduceMotion} />
-      <main id="main-content" className={reduceMotion ? 'reduce-motion' : ''}>
+      {/* tabIndex -1 so activating the skip link actually moves focus here,
+          rather than relying on the browser's sequential-focus fallback. */}
+      <main
+        id="main-content"
+        tabIndex={-1}
+        className={reduceMotion ? 'reduce-motion' : ''}
+      >
         <Landing reduceMotion={reduceMotion} />
       </main>
     </>

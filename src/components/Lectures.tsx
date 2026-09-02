@@ -24,20 +24,13 @@ function Lectures() {
       <section id="lectures">
         <div className="max-w-5xl mx-auto px-6 pt-16">
           <img className="pb-16" src="/apple-divider.png" alt=""></img>
-          <h1
-            className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 neon-text-yellow"
-            style={{
-              background: "#fcedd7ae",
-              width: "15%",
-              borderRadius: "10px",
-            }}
-          >
+          <h2 className="heading-pill text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500 neon-text-yellow">
             Lectures
-          </h1>
+          </h2>
           <div className="text-sm md:text-base">
             <p
               style={{
-                backgroundColor: "#fcedd7ae",
+                backgroundColor: "var(--panel-bg)",
                 borderRadius: "20px",
                 padding: "10px",
               }}
@@ -48,7 +41,7 @@ function Lectures() {
               location information.</p>
               <p
                style={{
-                backgroundColor: "#fcedd7ae",
+                backgroundColor: "var(--panel-bg)",
                 borderRadius: "20px",
                 padding: "10px",
               }}><b>Recordings</b> will be
@@ -62,7 +55,7 @@ function Lectures() {
 
               <p
                 style={{
-                backgroundColor: "#fcedd7ae",
+                backgroundColor: "var(--panel-bg)",
                 borderRadius: "20px",
                 padding: "10px",
               }}><b>Lecture notes</b> can be found{" "}
@@ -139,8 +132,8 @@ function Lectures() {
                             : "-"}
                         </td>
                         <td>
-                          {lecture.readings.map(reading => {
-                            return <p>&bull; <a className="hyperlink" href={reading.url}>
+                          {lecture.readings.map((reading) => {
+                            return <p key={reading.url}>&bull; <a className="hyperlink inline-block py-1" href={reading.url}>
                               {reading.title}
                             </a></p>
                           })}

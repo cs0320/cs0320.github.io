@@ -6,14 +6,14 @@ function CourseInfo() {
     <div>
       <section id="course-info">
         <div className="max-w-5xl mx-auto px-6 pt-32 pb-16">
-          <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
+          <h2 className="heading-pill text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
             Welcome to cs0320/1340!
-          </h1>
+          </h2>
           <div className="text-sm md:text-base">
             <div className="body-text space-y-8">
               <p
                 style={{
-                  backgroundColor: "#fcedd7ae",
+                  backgroundColor: "var(--panel-bg)",
                   borderRadius: "20px",
                   padding: "10px",
                 }}
@@ -34,11 +34,13 @@ function CourseInfo() {
                   aria-hidden="true"
                 ></div>
                 <div className="relative flex justify-start">
-                  <span className="pr-2 text-xl md:text-2xl font-bold inline-flex items-center">
+                  <h3 className="pr-2 text-xl md:text-2xl font-bold inline-flex items-center">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       className="h-6 w-6 mr-2 opacity-90"
                       viewBox="0 0 20 20"
+                      aria-hidden="true"
+                      focusable="false"
                     >
                       <path
                         fill="rgb(230 139 80)"
@@ -48,10 +50,10 @@ function CourseInfo() {
                       ></path>
                     </svg>
                     Useful Links
-                  </span>
+                  </h3>
                 </div>
               </div>
-              <div className="flex flex-wrap">
+              <div className="flex flex-wrap gap-y-3">
                 <a
                   className="quick-link"
                   href="https://docs.google.com/document/d/1LLKjPRvVxobRcu8yFdv-B1EM-pdA0bWmqiRJNZJg-wo/edit?tab=t.0"
@@ -115,9 +117,9 @@ function CourseInfo() {
       </section>
       <section>
         <div className="max-w-5xl mx-auto px-6">
-          <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
+          <h2 className="heading-pill text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
             Course Info
-          </h1>
+          </h2>
           <div className="text-sm md:text-base">
             {CourseData &&
               CourseData.map((infoBit) => {

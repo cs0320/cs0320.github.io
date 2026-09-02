@@ -27,13 +27,13 @@ function Projects() {
       <section id="assignments">
         <div className="max-w-5xl mx-auto px-6 pt-16">
           <img className="pb-16" src="/yarn-divider.png" alt=""></img>
-          <h1 className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
+          <h2 className="heading-pill text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
             Assignments
-          </h1>
+          </h2>
           <div className="text-sm md:text-base">
             <p
               style={{
-                backgroundColor: "#fcedd7ae",
+                backgroundColor: "var(--panel-bg)",
                 borderRadius: "20px",
                 padding: "10px",
               }}
@@ -104,20 +104,13 @@ function Projects() {
       <section id="gearups">
         <div className="max-w-5xl mx-auto px-6 pt-16">
           <img className="pb-8" src="/hot-choco-divider.png" alt=""></img>
-          <h1
-            className="text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500"
-            style={{
-              background: "#fcedd7ae",
-              width: "15%",
-              borderRadius: "10px",
-            }}
-          >
+          <h2 className="heading-pill text-xl md:text-3xl font-bold mb-8 font-display transition-shadows ease-out duration-500">
             Gear-Ups
-          </h1>
+          </h2>
           <div className="text-sm md:text-base">
             <p
               style={{
-                backgroundColor: "#fcedd7ae",
+                backgroundColor: "var(--panel-bg)",
                 borderRadius: "20px",
                 padding: "10px",
               }}
@@ -148,10 +141,13 @@ function Projects() {
                         </td>
                         <td>{gearup.date}</td>
                         <td>
-                          {" "}
-                          <a className="hyperlink" href={gearup.slides}>
-                            {gearup.slides ? "Slides" : "-"}
-                          </a>
+                          {gearup.slides ? (
+                            <a className="hyperlink" href={gearup.slides}>
+                              Slides
+                            </a>
+                          ) : (
+                            "-"
+                          )}
                         </td>
                         <td>
                           {gearup.recording
