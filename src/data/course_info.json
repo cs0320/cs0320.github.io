@@ -11,8 +11,8 @@
         "id":5,
         "title": "Late Policy",
         "description" : [
-            "Every student will receive 4 late days. A maximum of 2 late days may be used on a single sprint.",
-            "Every student will also receive 2 section passes. Using a section pass exempts you from the check-off requirements of all sections for the given week---both the 1-hour collab section and whichever gear up or discussion is held that week."
+            "Every student will receive 3 late days. A maximum of 2 late days may be used on a single sprint. You can earn additional late days by attending lectures.",
+            "Every student will also receive 2 section passes. Using a section pass exempts you from the check-off requirements of all sections for the given week-- both the mid-week check-in and gearup."
         
         ]
     },
