@@ -1,94 +1,94 @@
 [
-    {
-        "id":1,
-        "title":"Onboarding Form",
-        "release": "9/9",
-        "due": "9/13",
-        "demos": "-"
-    },
 {
     "id":1,
+    "title":"Onboarding Form",
+    "release": "9/9",
+    "due": "9/13",
+    "demos": "-"
+},
+{
+    "id":2,
     "title":"Policy Quiz",
     "release": "9/9",
         "due": "9/13",
     "demos": "-"
 },
 {
-    "id":1,
+    "id":3,
     "title":"AI Use Agreement Quiz",
     "release": "9/9",
         "due": "9/13",
     "demos": "-"
 },
 {
-    "id":1,
+    "id":4,
     "title":"Setup Deliverable",
     "release": "9/9",
         "due": "9/13",
     "demos": "-"
 },
 {
-        "id":1,
-        "title":"Sprint 1: TypeScript CSV",
-        "release": "9/14",
-        "due": "9/19",
-        "demos": "9/20 (by video)"
-    },
-    {
-        "id":2,
-        "title":"Sprint 2: Extensible CSV",
-        "release": "9/21",
-        "due": "9/26",
-        "demos": "9/27 (in person)"
-    },
-    {
-        "id":3,
-        "title":"Sprint 3: API Server",
-        "release": "9/28",
-        "due": "10/3",
-        "demos": "10/4 (by video)"
-    },
-    {
-        "id":4,
-        "title":"Sprint 4: API Proxy",
-        "release": "10/5",
-        "due": "10/10",
-        "demos": "10/11 (in person)"
-    },
-    {
-        "id":5,
-        "title":"Sprint 5: Front-End Mockup",
-        "release": "10/12",
-        "due": "10/17",
-        "demos": "10/18 (by video)"
-    },
-    {
-        "id":6,
-        "title":"Sprint 6: Cloud and Communication",
-        "release": "10/19",
-        "due": "10/24",
-        "demos": "10/24 (in person)"
-    },
-    {
-        "id":7,
-        "title":"Sprint 7: Pins and Pathfinding",
-        "release": "10/26",
-        "due": "10/31",
-        "demos": "11/1 (by video)"
-    },
-    {
-        "id":8,
-        "title":"Sprint 8: Privacy and Pathfinding",
-        "release": "11/2",
-        "due": "11/7",
-        "demos": "11/8 (in person)"
-    },
-    {
-        "id":10,
-        "title":"Term Project (milestones not shown)",
-        "release": "11/9",
-        "due": "By demo",
-        "demos": "TBD (public)"
-    }
+    "id":5,
+    "title":"Sprint 1: TypeScript CSV",
+    "release": "9/14",
+    "due": "9/19",
+    "demos": "9/20 (by video)"
+},
+{
+    "id":6,
+    "title":"Sprint 2: Extensible CSV",
+    "release": "9/21",
+    "due": "9/26",
+    "demos": "9/27 (in person)"
+},
+{
+    "id":7,
+    "title":"Sprint 3: API Server",
+    "release": "9/28",
+    "due": "10/3",
+    "demos": "10/4 (by video)"
+},
+{
+    "id":8,
+    "title":"Sprint 4: API Proxy",
+    "release": "10/5",
+    "due": "10/10",
+    "demos": "10/11 (in person)"
+},
+{
+    "id":9,
+    "title":"Sprint 5: Front-End Mockup",
+    "release": "10/12",
+    "due": "10/17",
+    "demos": "10/18 (by video)"
+},
+{
+    "id":10,
+    "title":"Sprint 6: Cloud and Communication",
+    "release": "10/19",
+    "due": "10/24",
+    "demos": "10/24 (in person)"
+},
+{
+    "id":11,
+    "title":"Sprint 7: Pins and Pathfinding",
+    "release": "10/26",
+    "due": "10/31",
+    "demos": "11/1 (by video)"
+},
+{
+    "id":12,
+    "title":"Sprint 8: Privacy and Pathfinding",
+    "release": "11/2",
+    "due": "11/7",
+    "demos": "11/8 (in person)"
+},
+{
+    "id":13,
+    "title":"Term Project (milestones not shown)",
+    "release": "11/9",
+    "due": "By demo",
+    "demos": "TBD (public)"
+}
 ]
 

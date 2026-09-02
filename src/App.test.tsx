@@ -2,8 +2,8 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders cs0320 in the navbar', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const navbarLink = screen.getByRole('link', { name: 'cs0320' });
+  expect(navbarLink).toBeInTheDocument();
 });

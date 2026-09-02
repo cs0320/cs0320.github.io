@@ -1,6 +1,22 @@
+import { z } from "zod";
 import "../App.css";
 // import SceneViewer from './SceneViewer';
-import LectureData from "../data/lectures.json";
+import lectureData from "../data/lectures.json";
+
+const ReadingSchema = z.object({
+  url: z.string(),
+  title: z.string(),
+});
+const LectureSchema = z.object({
+  id: z.number(),
+  date: z.string(),
+  topic: z.string(),
+  notes: z.string(),
+  code: z.string(),
+  recording: z.string(),
+  readings: z.array(ReadingSchema),
+});
+const LectureData = z.array(LectureSchema).parse(lectureData);
 
 function Lectures() {
   return (
