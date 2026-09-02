@@ -18,7 +18,9 @@ function App() {
   return (
     <>
       <Navbar animationEnabled={animationEnabled} setAnimationEnabled={setAnimationEnabled} />
-      <Landing animationEnabled={animationEnabled} />
+      <main id="main-content">
+        <Landing animationEnabled={animationEnabled} />
+      </main>
     </>
   );
 }
