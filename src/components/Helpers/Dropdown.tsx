@@ -142,7 +142,7 @@ function DropDown(props: { title: string; description: string[] }) {
                           <b>
                             <a
                               className="quick-link"
-                              href="https://docs.google.com/document/d/1ejCvcbb-nJBkiQZlNDAEmxYf-H5lXQdVBZDkaWsu7so/edit?usp=sharing"
+                              href="https://docs.google.com/document/d/1SlciWB344FHta0zwQWC-QGS7CR5ybAl4HYg4Prl7wqw/edit?usp=sharing"
                             >
                               Course Missive
                             </a>
@@ -168,7 +168,7 @@ function DropDown(props: { title: string; description: string[] }) {
                           </a>
                         </li>
                         <li className="underline">
-                          <a href="http://cs0320.github.io/notes/">
+                          <a href="https://cs0320.github.io/notes/">
                             Lecture Notes with Exercises
                           </a>
                         </li>

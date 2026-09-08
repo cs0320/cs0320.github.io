@@ -38,7 +38,7 @@ function Projects() {
                 padding: "10px",
               }}
             >
-              Project handouts are released at <b>8:00 AM ET</b> on the
+              Project handouts are released <b>after class</b> on the
               specified release day. Code submissions are due in Gradescope by{" "}
               <b>11:59 PM ET</b> on the specified due date. Synchronous demos
               will take place sometime within the demo window, depending on your

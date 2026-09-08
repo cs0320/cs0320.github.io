@@ -72,7 +72,7 @@ function CourseInfo() {
                 </a>
                 <a
                   className="quick-link"
-                  href="https://edstem.org/us/courses/85500/discussion"
+                  href="https://edstem.org/us/courses/98017/discussion"
                   target="_blank"
                   rel="noreferrer"
                 >
