@@ -6,6 +6,5 @@ export interface StaffMember {
     zodiac: string,
     hometown: string,
     bio: string,
-    img: string,
-    hover: string
+    img: string
   }

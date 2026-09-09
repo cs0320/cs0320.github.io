@@ -8,18 +8,11 @@ function StaffCard(props: { person: StaffMember }) {
       style={{ background: "var(--card-bg)", borderRadius: "20px" }}
     >
       <div className="image-container">
-        <div className="image-flip">
           <img
             src={props.person.img}
             alt=""
             className="object-cover front-image"
           ></img>
-          <img
-            src={props.person.hover}
-            alt=""
-            className="object-cover back-image"
-          ></img>
-        </div>
       </div>
 
       <div className="name font-display text-xs md:text-sm font-bold mt-4">

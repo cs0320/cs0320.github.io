@@ -7,8 +7,7 @@
     "zodiac": "Sagitarrius",
     "hometown": "Wherever the strategy pattern is used",
     "bio": "Good to meet you all! I'm a first-generation college student who attended community college, a commuter-focused state college, the 'college' of an industry job, a STEM university, and... now teaches at Brown. Someone who enjoys puns might call this a collage of colleges, although not quite a universe of universities.",
-    "img": "/staff/tim.jpg",
-    "hover": "/tree.png"
+    "img": "/staff/tim.jpg"
   },
   {
     "name": "Sana Saab",
@@ -17,20 +16,18 @@
     "pronouns": "she/her",
     "zodiac": "",
     "hometown": "Michigan",
-    "bio": "Hi! I'm Sana, and I'm a junior from Michigan studying CS. I like learning new types of dance (albeit badly), trying out new clubs and hobbies, and going on adventures!",
-    "img": "/staff/sana.jpeg",
-    "hover": "/apple-basket.png"
+    "bio": "Hi! I'm Sana, and I'm a senior from Michigan studying CS. I like learning new types of dance (albeit badly), trying out new clubs and hobbies, and going on adventures!",
+    "img": "/staff/sana.jpeg"
   },
   {
     "name": "Marissa Shaffer",
     "role": "HTA",
-    "cslogin": "",
+    "cslogin": "mshaffe3",
     "pronouns": "she/they",
     "zodiac": "",
     "hometown": "",
     "bio": "Hi, I'm Marissa, and I'm a senior from Philadelphia studying STS (ask me about it!) & CS. Outside of class, I'm a circus artist, a cappella singer, cat parent, and NYT puzzle enthusiast. I'm excited to see what you all build this semester!",
-    "img": "/staff/marissa_cs32website.jpg",
-    "hover": ""
+    "img": "/staff/marissa.jpg"
   },
   {
     "name": "Joshua Bala",
@@ -39,9 +36,8 @@
     "pronouns": "he/him",
     "zodiac": "",
     "hometown": "",
-    "bio": "Heyyy, my name is Joshua Bala and I'm a Junior studying cs. Big fan of basketball, anime, boba and any apple deserts. Also I dabble in hiking and biking. Very excited for this semester and TAing this class!!!!!!!",
-    "img": "/staff/josh.jpg",
-    "hover": "/pie.png"
+    "bio": "Hey, my name is Joshua Bala and I'm a Senior studying pure cs. Big fan of basketball, anime, boba and any apple deserts. Also I dabble in hiking and biking. Very excited for this semester and TAing this class!!!!!!!",
+    "img": "/staff/josh.jpg"
   },
   {
     "name": "Aisosa Idahosa",
@@ -51,40 +47,36 @@
     "zodiac": "",
     "hometown": "Philly area",
     "bio": "Hi everyone! I'm a junior from the Philly area studying CS and (maybe) MCM. In my free time, I love reading, crocheting, and recently I've been getting into ceramics! Super excited to TA this class and meet all of y'all!",
-    "img": "/staff/aisosa.JPG",
-    "hover": "/pie.png"
+    "img": "/staff/aisosa.JPG"
   },
   {
     "name": "Alondra Perez",
     "role": "UTA",
-    "cslogin": "",
-    "pronouns": "",
+    "cslogin": "aperez61",
+    "pronouns": "she/her",
     "zodiac": "",
     "hometown": "",
-    "bio": "",
-    "img": "",
-    "hover": ""
+    "bio": "Heyy! I’m Alondra, a senior studying CS from California. When not coding, I love to spend my time at India Point Park while enjoying some Kow Kow, making some pottery, or trying out a new pastry somwhere! So excited to TA this semester and meeting everyone!!",
+    "img": "/staff/alondra.jpg"
   },
   {
     "name": "Ellie Hong",
     "role": "UTA",
-    "cslogin": "",
-    "pronouns": "",
+    "cslogin": "ehong38",
+    "pronouns": "she/her",
     "zodiac": "",
     "hometown": "",
-    "bio": "",
-    "img": "",
-    "hover": ""
+    "bio": "HI! I’m Ellie, a junior studying CS from Seattle, WA. Outside of the CIT, you’ll find me food crawling, binging rom-coms, or indulging in my Scrabble addiction. Let’s have a blast this semester!",
+    "img": "/staff/ellie.jpeg"
   },
   {
     "name": "Yuyuan Huang",
-    "role": "UTA",
+    "role": "UTA/STA",
     "cslogin": "",
-    "pronouns": "",
+    "pronouns": "she/her",
     "zodiac": "",
     "hometown": "",
-    "bio": "",
-    "img": "",
-    "hover": ""
+    "bio": "Hi! I’m Yuyuan, a junior from Massachusetts studying CS and IAPA. When I’m not thinking about socially responsible computing (SRC) and source code (src/), I love writing poetry, playing word games, reading, photography, being outside, and all things mango. Super excited for the semester!",
+    "img": "/staff/yuyuan.jpeg"
   }  
 ]
