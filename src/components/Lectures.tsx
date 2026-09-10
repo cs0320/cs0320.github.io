@@ -48,7 +48,7 @@ function Lectures() {
               uploaded after each lecture and can also always be found on{" "}
               <a
                 className="hyperlink"
-                href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2266b9e9e2-07aa-4460-ac5b-b348016201d8%22"
+                href="https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2265fd0e49-27e3-42aa-9817-b4ba013bb19a%22"
               >
                 Panopto
               </a>.</p>
