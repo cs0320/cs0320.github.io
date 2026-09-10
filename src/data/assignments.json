@@ -3,6 +3,7 @@
     "id":1,
     "title":"Onboarding Form",
     "release": "9/9",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfi78wQklWC_0Y_sDnFNMHMMWNnfRYYerotPdLhpU9lWVYjLQ/viewform?usp=header",
     "due": "9/13",
     "demos": "-"
 },
@@ -10,6 +11,7 @@
     "id":2,
     "title":"Policy Quiz",
     "release": "9/9",
+    "link": "https://forms.gle/KW5KiXAZjoXKxSNx6",
         "due": "9/13",
     "demos": "-"
 },
@@ -17,6 +19,7 @@
     "id":3,
     "title":"AI Use Agreement Quiz",
     "release": "9/9",
+    "link": "https://forms.gle/rwKMAEftxERBuBb78",
         "due": "9/13",
     "demos": "-"
 },
