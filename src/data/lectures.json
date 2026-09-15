@@ -20,8 +20,8 @@
   {
     "id": 3,
     "date": "09/14 M",
-    "topic": "TBD",
-    "notes": "",
+    "topic": "Properties",
+    "notes": "https://cs0320.github.io/notes/latest/02-properties/02-properties.html",
     "code": "",
     "recording": "",
     "readings": []
@@ -29,8 +29,8 @@
   {
     "id": 4,
     "date": "09/16 W",
-    "topic": "TBD",
-    "notes": "",
+    "topic": "Validation",
+    "notes": "https://cs0320.github.io/notes/latest/03-bias-validation/03-bias-validation.html",
     "code": "",
     "recording": "",
     "readings": []
