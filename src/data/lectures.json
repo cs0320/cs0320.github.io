@@ -31,18 +31,18 @@
     "date": "09/16 W",
     "topic": "Validation",
     "notes": "https://cs0320.github.io/notes/latest/03-bias-validation/03-bias-validation.html",
-    "code": "",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/F26/sep16",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3328ecd0-1e73-4710-8e5a-b4ba013c3721",
     "readings": []
   },
   {
     "id": 5,
     "date": "09/18 F",
-    "topic": "TBD",
-    "notes": "",
-    "code": "",
+    "topic": "Validation 2",
+    "notes": "https://cs0320.github.io/notes/latest/03-bias-validation/03-bias-validation.html",
+    "code": "https://github.com/cs0320/class-livecode/tree/main/F26/sep18",
     "recording": "",
-    "readings": []
+    "readings": [{"title": "Types Chapter", "url": "https://docs.google.com/document/d/1OsWdY3DbnnK9faoT0M6hdI6bUa8gGi2TP2ti7hsap90/edit?usp=sharing"}]
   },
   {
     "id": 6,
