@@ -24,7 +24,8 @@
     "notes": "https://cs0320.github.io/notes/latest/02-properties/02-properties.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cacb23e7-ca35-4f92-95cf-b4ba013c3709",
-    "readings": []
+    "readings": [{"title": "1710 Notes", "url": "https://forge-fm.github.io/book/2026/chapters/properties/pbt.html"},
+                 {"title": "Choosing Properties", "url": "https://fsharpforfunandprofit.com/posts/property-based-testing-2/"}]
   },
   {
     "id": 4,
@@ -38,7 +39,7 @@
   {
     "id": 5,
     "date": "09/18 F",
-    "topic": "Validation 2",
+    "topic": "Zod, Async",
     "notes": "https://cs0320.github.io/notes/latest/03-bias-validation/03-bias-validation.html",
     "code": "https://github.com/cs0320/class-livecode/tree/main/F26/sep18",
     "recording": "",
