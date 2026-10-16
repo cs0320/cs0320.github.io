@@ -147,7 +147,7 @@
   {
     "id": 17,
     "date": "10/19 M",
-    "topic": "Cloud and Storage",
+    "topic": "Storage and Sprint 6 Intro",
     "notes": "",
     "code": "",
     "recording": "",
@@ -156,7 +156,7 @@
   {
     "id": 18,
     "date": "10/21 W",
-    "topic": "TBD",
+    "topic": "Algorithms Evolve",
     "notes": "",
     "code": "",
     "recording": "",
@@ -165,7 +165,7 @@
   {
     "id": 19,
     "date": "10/23 F",
-    "topic": "TBD",
+    "topic": "Algorithmic Improvisation",
     "notes": "",
     "code": "",
     "recording": "",
@@ -174,7 +174,7 @@
   {
     "id": 20,
     "date": "10/26 M",
-    "topic": "TBD",
+    "topic": "Sprint 7 Intro",
     "notes": "",
     "code": "",
     "recording": "",
@@ -183,7 +183,7 @@
   {
     "id": 21,
     "date": "10/28 W",
-    "topic": "TBD",
+    "topic": "Security: Anonymization",
     "notes": "",
     "code": "",
     "recording": "",
@@ -192,7 +192,7 @@
   {
     "id": 22,
     "date": "10/30 F",
-    "topic": "TBD",
+    "topic": "Security: Threat Modeling",
     "notes": "",
     "code": "",
     "recording": "",
@@ -201,7 +201,7 @@
   {
     "id": 23,
     "date": "11/02 M",
-    "topic": "TBD",
+    "topic": "Sprint 8 Intro",
     "notes": "",
     "code": "",
     "recording": "",
@@ -210,7 +210,7 @@
   {
     "id": 24,
     "date": "11/04 W",
-    "topic": "TBD",
+    "topic": "Security: Side Channels",
     "notes": "",
     "code": "",
     "recording": "",
@@ -219,7 +219,7 @@
   {
     "id": 25,
     "date": "11/06 F",
-    "topic": "TBD",
+    "topic": "Security: Agents",
     "notes": "",
     "code": "",
     "recording": "",
@@ -228,7 +228,7 @@
   {
     "id": 26,
     "date": "11/09 M",
-    "topic": "TBD",
+    "topic": "Gathering Requirements",
     "notes": "",
     "code": "",
     "recording": "",
@@ -237,7 +237,7 @@
   {
     "id": 27,
     "date": "11/11 W",
-    "topic": "TBD",
+    "topic": "TBD (likely 'build an agent')",
     "notes": "",
     "code": "",
     "recording": "",
@@ -246,7 +246,7 @@
   {
     "id": 28,
     "date": "11/13 F",
-    "topic": "TBD",
+    "topic": "TBD (likely 'build an agent')",
     "notes": "",
     "code": "",
     "recording": "",
@@ -255,7 +255,7 @@
   {
     "id": 29,
     "date": "11/16 M",
-    "topic": "TBD",
+    "topic": "TBD (likely 'build an agent')",
     "notes": "",
     "code": "",
     "recording": "",
@@ -264,7 +264,7 @@
   {
     "id": 30,
     "date": "11/18 W",
-    "topic": "TBD",
+    "topic": "TBD (likely 'build an agent')",
     "notes": "",
     "code": "",
     "recording": "",
@@ -273,7 +273,7 @@
   {
     "id": 31,
     "date": "11/20 F",
-    "topic": "TBD",
+    "topic": "SW Analysis: Beyond Testing",
     "notes": "",
     "code": "",
     "recording": "",
@@ -291,7 +291,7 @@
   {
     "id": 33,
     "date": "11/30 M",
-    "topic": "TBD (Possible Guest)",
+    "topic": "TBD (Guest or open hours)",
     "notes": "",
     "code": "",
     "recording": "",
@@ -300,7 +300,7 @@
   {
     "id": 34,
     "date": "12/02 W",
-    "topic": "TBD (Possible Guest)",
+    "topic": "TBD (Guest or open hours)",
     "notes": "",
     "code": "",
     "recording": "",
