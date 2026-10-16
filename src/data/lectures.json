@@ -106,13 +106,13 @@
     "notes": "",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78bac627-c746-426c-ac7e-b4ba013c37db",
-    "readings": []
+    "readings": [{"title": "Slides (Brown only)", "url":"https://docs.google.com/presentation/d/1rvPU5GXQpydb7TaX3Ixi6rSy86zMCINV4CUd5ZPYxrs/edit?usp=sharing"}]
   },
   {
     "id": 13,
     "date": "10/07 W",
     "topic": "Webdev and React",
-    "notes": "",
+    "notes": "https://cs0320.github.io/notes/latest/06-html-react/06-html-react.html",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e214a72-9dc6-4c63-b51c-b4ba013c37f2",
     "readings": []
@@ -124,12 +124,12 @@
     "notes": "",
     "code": "",
     "recording": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0bf0415-ac9a-4a7b-ab3f-b4ba013c380a",
-    "readings": [{"title": "Ideas Thread", "url":""}]
+    "readings": [{"title": "Ideas Thread", "url":"https://edstem.org/us/courses/98017/discussion/8372316"}]
   },
   {
     "id": 15,
     "date": "10/14 W",
-    "topic": "UI Design",
+    "topic": "Sprint 5 Discussion",
     "notes": "",
     "code": "",
     "recording": "",
@@ -138,11 +138,11 @@
   {
     "id": 16,
     "date": "10/16 F",
-    "topic": "End-to-End Testing",
+    "topic": "UI Design and Frogs",
     "notes": "",
     "code": "",
     "recording": "",
-    "readings": []
+    "readings": [{"title": "Flexbox Froggy", "url": "https://flexboxfroggy.com/"}]
   },
   {
     "id": 17,
@@ -309,7 +309,7 @@
   {
     "id": 35,
     "date": "12/04 F",
-    "topic": "TBD (Possible Guest)",
+    "topic": "GUEST: Tim Ross (Teleport)",
     "notes": "",
     "code": "",
     "recording": "",
@@ -318,7 +318,7 @@
   {
     "id": 36,
     "date": "12/07 M",
-    "topic": "GUEST: Salman Saghafi (Mimic; WASM)",
+    "topic": "GUEST: Salman Saghafi (Mimic): WASM",
     "notes": "",
     "code": "",
     "recording": "",

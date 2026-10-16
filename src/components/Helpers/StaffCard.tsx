@@ -1,5 +1,5 @@
 // import SceneViewer from './SceneViewer';
-import { StaffMember } from "./StaffMember";
+import type { StaffMember } from "../../data/schemas";
 
 function StaffCard(props: { person: StaffMember }) {
   return (

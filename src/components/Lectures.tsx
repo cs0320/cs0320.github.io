@@ -1,22 +1,9 @@
-import { z } from "zod";
 import "../App.css";
 // import SceneViewer from './SceneViewer';
 import lectureData from "../data/lectures.json";
+import type { Lecture } from "../data/schemas";
 
-const ReadingSchema = z.object({
-  url: z.string(),
-  title: z.string(),
-});
-const LectureSchema = z.object({
-  id: z.number(),
-  date: z.string(),
-  topic: z.string(),
-  notes: z.string(),
-  code: z.string(),
-  recording: z.string(),
-  readings: z.array(ReadingSchema),
-});
-const LectureData = z.array(LectureSchema).parse(lectureData);
+const LectureData: Lecture[] = lectureData;
 
 function Lectures() {
   return (

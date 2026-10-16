@@ -1,25 +1,9 @@
-import { z } from "zod";
 import assignmentData from "../data/assignments.json";
 import gearupData from "../data/gearups.json";
+import type { Assignment, Gearup } from "../data/schemas";
 
-const AssignmentSchema = z.object({
-  id: z.number(),
-  title: z.string(),
-  release: z.string(),
-  due: z.string(),
-  demos: z.string(),
-  link: z.string().optional(),
-});
-const AssignmentData = z.array(AssignmentSchema).parse(assignmentData);
-
-const GearupSchema = z.object({
-  id: z.number(),
-  title: z.string(),
-  date: z.string(),
-  slides: z.string().optional(),
-  recording: z.string().optional(),
-});
-const GearupData = z.array(GearupSchema).parse(gearupData);
+const AssignmentData: Assignment[] = assignmentData;
+const GearupData: Gearup[] = gearupData;
 
 function Projects() {
   return (

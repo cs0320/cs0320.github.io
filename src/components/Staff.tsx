@@ -1,6 +1,6 @@
 import StaffData from "../data/staff.json";
 import StaffCard from "./Helpers/StaffCard";
-import { StaffMember } from "./Helpers/StaffMember";
+import type { StaffMember } from "../data/schemas";
 
 function Staff() {
   const typedStaffData: StaffMember[] = StaffData;
