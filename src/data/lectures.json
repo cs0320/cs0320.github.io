@@ -183,7 +183,7 @@
   {
     "id": 21,
     "date": "10/28 W",
-    "topic": "Security: Anonymization",
+    "topic": "Security: Side Channels",
     "notes": "",
     "code": "",
     "recording": "",
@@ -192,7 +192,7 @@
   {
     "id": 22,
     "date": "10/30 F",
-    "topic": "Security: Threat Modeling",
+    "topic": "Security: Anonymization",
     "notes": "",
     "code": "",
     "recording": "",
@@ -210,7 +210,7 @@
   {
     "id": 24,
     "date": "11/04 W",
-    "topic": "Security: Side Channels",
+    "topic": "Security: Threat Modeling",
     "notes": "",
     "code": "",
     "recording": "",
