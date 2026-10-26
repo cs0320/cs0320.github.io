@@ -75,6 +75,7 @@
     "id":10,
     "title":"Term Project Proposals",
     "release": "10/21",
+    "link": "https://docs.google.com/document/d/1XpicWMK9mufsYFroKwWwIijNut1T_9En5mzYO9B9pWM/edit?usp=sharing",
     "due": "10/30",
     "demos": "Feedback by Nov 6th"
 },
@@ -91,6 +92,7 @@
     "title":"Sprint 7: Pins and Pathfinding",
     "release": "10/26",
     "due": "10/31",
+    "link": "https://docs.google.com/document/d/16SqW808F7AEWWQYbO4hY0lFFZ72LFNoW40GMcs_weS4/edit?usp=sharing",
     "demos": "11/1 (by video)"
 },
 {
@@ -104,6 +106,7 @@
     "id":14,
     "title":"Term Project (weekly milestones not shown)",
     "release": "11/9",
+    "link": "https://docs.google.com/document/d/1XpicWMK9mufsYFroKwWwIijNut1T_9En5mzYO9B9pWM/edit?usp=sharing",
     "due": "Before your demo",
     "demos": "Dec 9--11 (public)"
 }
