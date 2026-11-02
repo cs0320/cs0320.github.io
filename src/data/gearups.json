@@ -46,10 +46,11 @@
   {
     "id": 8,
     "title": "Maps",
-    "date": "11/9-11/10"
+    "date": "11/9-11/10",
+    "slides":"https://docs.google.com/presentation/d/18R1e7ppZ71ARcvfvRPxHf6OeSbjs6DjaueejoaBmLuI"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Tech, AI, and Law",
     "date": "11/16-11/17"
   }
