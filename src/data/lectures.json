@@ -223,7 +223,9 @@
     "notes": "",
     "code": "",
     "recording": "",
-    "readings": [{"title": "The Lethal Trifecta", "url":"https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/"}]
+    "readings": [
+      {"title": "The Lethal Trifecta", "url":"https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/"},
+      {"title": "Living off Microsoft Copilot (Video)", "url": "https://www.youtube.com/watch?v=-YJgcTCSzU0"}]
   },
   {
     "id": 26,
